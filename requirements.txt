@@ -1,0 +1,12 @@
+pandas
+numpy
+pytimetk
+matplotlib
+sklearn
+
+
+
+
+
+
+
