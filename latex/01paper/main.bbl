@@ -1,0 +1,104 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[IPCC(2023)]{intergovernmental_panel_on_climate_change_ipcc_climate_2023}
+IPCC.
+\newblock \emph{Climate {Change} 2021 – {The} {Physical} {Science} {Basis}:
+  {Working} {Group} {I} {Contribution} to the {Sixth} {Assessment} {Report} of
+  the {Intergovernmental} {Panel} on {Climate} {Change}}.
+\newblock Cambridge University Press, 1 edition, July 2023.
+\newblock ISBN 978-1-00-915789-6.
+\newblock \doi{10.1017/9781009157896}.
+\newblock URL
+  \url{https://www.cambridge.org/core/product/identifier/9781009157896/type/book}.
+
+\bibitem[Leduc and Bhattarai(2008)]{casestudy_bhattarai}
+Brigitte Leduc and Basundhara Bhattarai.
+\newblock Case study: Gender and climate change in the hindu kush himalayas of
+  nepal.
+\newblock 01 2008.
+
+\bibitem[Maharjan et~al.(2010)Maharjan, Sigdel, Sthapit, and
+  Regmi]{maharjan_tharu_nodate}
+S~K Maharjan, E~R Sigdel, B~R Sthapit, and B~R Regmi.
+\newblock Tharu community’s perception on climate changes and their adaptive
+  initiations to withstand its impacts in {Western} {Terai} of {Nepal}.
+\newblock 2010.
+
+\bibitem[Manandhar et~al.(2011)Manandhar, Vogt, Perret, and
+  Kazama]{manandhar_adapting_2011}
+Sujata Manandhar, Dietrich~Schmidt Vogt, Sylvain~R. Perret, and Futaba Kazama.
+\newblock Adapting cropping systems to climate change in {Nepal}: a
+  cross-regional study of farmers’ perception and practices.
+\newblock \emph{Regional Environmental Change}, 11\penalty0 (2):\penalty0
+  335--348, June 2011.
+\newblock ISSN 1436-3798, 1436-378X.
+\newblock \doi{10.1007/s10113-010-0137-1}.
+\newblock URL \url{http://link.springer.com/10.1007/s10113-010-0137-1}.
+
+\bibitem[McCarthy et~al.(2001)McCarthy, {IPCC}, and
+  {IPCC}]{mccarthy_climate_2001}
+James~J. McCarthy, {IPCC}, and {IPCC}, editors.
+\newblock \emph{Climate change 2001: impacts, adaptation and vulnerability ;
+  contribution of {Working} {Group} {II} to the third assessment report of the
+  {Intergovernmental} {Panel} on {Climate} {Change}}.
+\newblock Cambridge University Press, Cambridge, UK New York, 1. publ edition,
+  2001.
+\newblock ISBN 978-0-521-80768-5 978-0-521-01507-3 978-0-521-01500-4.
+
+\bibitem[Reilly et~al.(2001)Reilly, Tubiello, McCarl, and
+  Melillo]{reilly_climate_in_usa}
+John Reilly, Francesco Tubiello, Bruce McCarl, and Jerry Melillo.
+\newblock {CLIMATE} {CHANGE} {AND} {AGRICULTURE} {IN} {THE} {UNITED} {STATES}.
+\newblock 2001.
+
+\bibitem[Shrestha and Aryal(2011)]{shrestha_climate_2011}
+Arun~B. Shrestha and Raju Aryal.
+\newblock Climate change in {Nepal} and its impact on {Himalayan} glaciers.
+\newblock \emph{Regional Environmental Change}, 11\penalty0 (S1):\penalty0
+  65--77, March 2011.
+\newblock ISSN 1436-3798, 1436-378X.
+\newblock \doi{10.1007/s10113-010-0174-9}.
+\newblock URL \url{http://link.springer.com/10.1007/s10113-010-0174-9}.
+
+\bibitem[Shrestha et~al.(1999)Shrestha, Wake, Mayewski, and
+  Dibb]{shrestha_maximum_1999}
+Arun~B. Shrestha, Cameron~P. Wake, Paul~A. Mayewski, and Jack~E. Dibb.
+\newblock Maximum {Temperature} {Trends} in the {Himalaya} and {Its}
+  {Vicinity}: {An} {Analysis} {Based} on {Temperature} {Records} from {Nepal}
+  for the {Period} 1971–94.
+\newblock \emph{Journal of Climate}, 12\penalty0 (9):\penalty0 2775--2786,
+  September 1999.
+\newblock ISSN 0894-8755, 1520-0442.
+\newblock \doi{10.1175/1520-0442(1999)012<2775:MTTITH>2.0.CO;2}.
+\newblock URL
+  \url{http://journals.ametsoc.org/doi/10.1175/1520-0442(1999)012<2775:MTTITH>2.0.CO;2}.
+
+\bibitem[Yao et~al.(2019)Yao, Xue, Chen, Chen, Thompson, Cui, Koike, Lau,
+  Lettenmaier, Mosbrugger, Zhang, Xu, Dozier, Gillespie, Gu, Kang, Piao,
+  Sugimoto, Ueno, Wang, Wang, Zhang, Sheng, Guo, {Ailikun}, Yang, Ma, Shen, Su,
+  Chen, Liang, Liu, Singh, Yang, Yang, Zhao, Qian, Zhang, and
+  Li]{yao_recent_2019}
+Tandong Yao, Yongkang Xue, Deliang Chen, Fahu Chen, Lonnie Thompson, Peng Cui,
+  Toshio Koike, William K.-M. Lau, Dennis Lettenmaier, Volker Mosbrugger, Renhe
+  Zhang, Baiqing Xu, Jeff Dozier, Thomas Gillespie, Yu~Gu, Shichang Kang,
+  Shilong Piao, Shiori Sugimoto, Kenichi Ueno, Lei Wang, Weicai Wang, Fan
+  Zhang, Yongwei Sheng, Weidong Guo, {Ailikun}, Xiaoxin Yang, Yaoming Ma,
+  Samuel S.~P. Shen, Zhongbo Su, Fei Chen, Shunlin Liang, Yimin Liu, Vijay~P.
+  Singh, Kun Yang, Daqing Yang, Xinquan Zhao, Yun Qian, Yu~Zhang, and Qian Li.
+\newblock Recent {Third} {Pole}’s {Rapid} {Warming} {Accompanies}
+  {Cryospheric} {Melt} and {Water} {Cycle} {Intensification} and {Interactions}
+  between {Monsoon} and {Environment}: {Multidisciplinary} {Approach} with
+  {Observations}, {Modeling}, and {Analysis}.
+\newblock \emph{Bulletin of the American Meteorological Society}, 100\penalty0
+  (3):\penalty0 423--444, March 2019.
+\newblock ISSN 0003-0007, 1520-0477.
+\newblock \doi{10.1175/BAMS-D-17-0057.1}.
+\newblock URL
+  \url{https://journals.ametsoc.org/view/journals/bams/100/3/bams-d-17-0057.1.xml}.
+
+\end{thebibliography}

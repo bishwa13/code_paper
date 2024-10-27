@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 23 items.
+Database file #1: reference_soham_bibtex.bib
+Warning--empty journal in casestudy_bhattarai
+Warning--empty journal in maharjan_tharu_nodate
+Warning--empty journal in reilly_climate_in_usa
+You've used 9 entries,
+            2773 wiz_defined-function locations,
+            657 strings with 8220 characters,
+and the built_in function-call counts, 6157 in all, are:
+= -- 504
+> -- 593
+< -- 3
++ -- 198
+- -- 189
+* -- 607
+:= -- 1024
+add.period$ -- 43
+call.type$ -- 9
+change.case$ -- 90
+chr.to.int$ -- 9
+cite$ -- 21
+duplicate$ -- 185
+empty$ -- 326
+format.name$ -- 202
+if$ -- 1212
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 10
+newline$ -- 69
+num.names$ -- 37
+pop$ -- 166
+preamble$ -- 1
+purify$ -- 81
+quote$ -- 0
+skip$ -- 168
+stack$ -- 0
+substring$ -- 118
+swap$ -- 12
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 89
+warning$ -- 3
+while$ -- 35
+width$ -- 0
+write$ -- 151
+(There were 3 warnings)
