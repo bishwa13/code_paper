@@ -1,9 +1,43 @@
-\begin{thebibliography}{9}
+\begin{thebibliography}{13}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Aksha et~al.(2018)Aksha, Juran, and Resler]{aksha_spatial_2018}
+Sanam~K. Aksha, Luke Juran, and Lynn~M. Resler.
+\newblock Spatial and temporal analysis of natural hazard mortality in {Nepal}.
+\newblock \emph{Environmental Hazards}, 17\penalty0 (2):\penalty0 163--179,
+  March 2018.
+\newblock ISSN 1747-7891, 1878-0059.
+\newblock \doi{10.1080/17477891.2017.1398630}.
+\newblock URL
+  \url{https://www.tandfonline.com/doi/full/10.1080/17477891.2017.1398630}.
+
+\bibitem[Bastakoti et~al.(2017)Bastakoti, Bharati, Bhattarai, and
+  Wahid]{bastakoti_agriculture_2017}
+Ram~C. Bastakoti, Luna Bharati, Utsav Bhattarai, and Shahriar~M. Wahid.
+\newblock Agriculture under changing climate conditions and adaptation options
+  in the {Koshi} {Basin}.
+\newblock \emph{Climate and Development}, 9\penalty0 (7):\penalty0 634--648,
+  November 2017.
+\newblock ISSN 1756-5529, 1756-5537.
+\newblock \doi{10.1080/17565529.2016.1223594}.
+\newblock URL
+  \url{https://www.tandfonline.com/doi/full/10.1080/17565529.2016.1223594}.
+
+\bibitem[Bhatt et~al.(2014)Bhatt, Maskey, Babel, Uhlenbrook, and
+  Prasad]{bhatt_climate_2014}
+Dinesh Bhatt, Shreedhar Maskey, Mukand~S. Babel, Stefan Uhlenbrook, and
+  Krishna~C. Prasad.
+\newblock Climate trends and impacts on crop production in the {Koshi} {River}
+  basin of {Nepal}.
+\newblock \emph{Regional Environmental Change}, 14\penalty0 (4):\penalty0
+  1291--1301, August 2014.
+\newblock ISSN 1436-3798, 1436-378X.
+\newblock \doi{10.1007/s10113-013-0576-6}.
+\newblock URL \url{http://link.springer.com/10.1007/s10113-013-0576-6}.
 
 \bibitem[IPCC(2023)]{intergovernmental_panel_on_climate_change_ipcc_climate_2023}
 IPCC.
@@ -49,6 +83,16 @@ James~J. McCarthy, {IPCC}, and {IPCC}, editors.
 \newblock Cambridge University Press, Cambridge, UK New York, 1. publ edition,
   2001.
 \newblock ISBN 978-0-521-80768-5 978-0-521-01507-3 978-0-521-01500-4.
+
+\bibitem[Pokhrel and Pandey(2013)]{pokhrel_climate_2013}
+Deepak~Mani Pokhrel and Bidya Pandey.
+\newblock Climate {Change} {Adaptation}: {Strategic} {Vision} {In}
+  {Agriculture}.
+\newblock \emph{Journal of Agriculture and Environment}, 12:\penalty0 104--112,
+  February 2013.
+\newblock ISSN 2091-1009.
+\newblock \doi{10.3126/aej.v12i0.7570}.
+\newblock URL \url{https://www.nepjol.info/index.php/AEJ/article/view/7570}.
 
 \bibitem[Reilly et~al.(2001)Reilly, Tubiello, McCarl, and
   Melillo]{reilly_climate_in_usa}
