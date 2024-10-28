@@ -1,9 +1,28 @@
-\begin{thebibliography}{13}
+\begin{thebibliography}{28}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Adhikari and Devkota(2016)]{adhikari_x_2016}
+Tirtha~Raj Adhikari and Lochan~Prasad Devkota.
+\newblock X. {Climate} change and hydrological responses in {Himalayan} basins,
+  {Nepal}.
+\newblock 2016.
+\newblock \doi{http://dx.doi.org/10.1007/978-3-319-28977-9_4}.
+
+\bibitem[Agarwal et~al.(2016)Agarwal, Babel, Maskey, Shrestha, Kawasaki, and
+  Tripathi]{agarwal_analysis_2016}
+Anshul Agarwal, Mukand~S. Babel, Shreedhar Maskey, Sangam Shrestha, Akiyuki
+  Kawasaki, and Nitin~K. Tripathi.
+\newblock Analysis of temperature projections in the {Koshi} {River} {Basin},
+  {Nepal}: {TEMPERATURE} {PROJECTIONS} {IN} {THE} {KOSHI} {RIVER} {BASIN}.
+\newblock \emph{International Journal of Climatology}, 36\penalty0
+  (1):\penalty0 266--279, January 2016.
+\newblock ISSN 08998418.
+\newblock \doi{10.1002/joc.4342}.
+\newblock URL \url{https://onlinelibrary.wiley.com/doi/10.1002/joc.4342}.
 
 \bibitem[Aksha et~al.(2018)Aksha, Juran, and Resler]{aksha_spatial_2018}
 Sanam~K. Aksha, Luke Juran, and Lynn~M. Resler.
@@ -14,6 +33,19 @@ Sanam~K. Aksha, Luke Juran, and Lynn~M. Resler.
 \newblock \doi{10.1080/17477891.2017.1398630}.
 \newblock URL
   \url{https://www.tandfonline.com/doi/full/10.1080/17477891.2017.1398630}.
+
+\bibitem[Bajracharya et~al.(2023)Bajracharya, Pradhananga, Shrestha, and
+  Thapa]{bajracharya_future_2023}
+Sagar~Ratna Bajracharya, Saurav Pradhananga, Arun~Bhakta Shrestha, and Rajesh
+  Thapa.
+\newblock Future climate and its potential impact on the spatial and temporal
+  hydrological regime in the {Koshi} {Basin}, {Nepal}.
+\newblock \emph{Journal of Hydrology: Regional Studies}, 45:\penalty0 101316,
+  February 2023.
+\newblock ISSN 22145818.
+\newblock \doi{10.1016/j.ejrh.2023.101316}.
+\newblock URL
+  \url{https://linkinghub.elsevier.com/retrieve/pii/S2214581823000034}.
 
 \bibitem[Bastakoti et~al.(2017)Bastakoti, Bharati, Bhattarai, and
   Wahid]{bastakoti_agriculture_2017}
@@ -39,6 +71,36 @@ Dinesh Bhatt, Shreedhar Maskey, Mukand~S. Babel, Stefan Uhlenbrook, and
 \newblock \doi{10.1007/s10113-013-0576-6}.
 \newblock URL \url{http://link.springer.com/10.1007/s10113-013-0576-6}.
 
+\bibitem[Chand et~al.(2019)Chand, Bhattarai, Baral, and
+  Pradhananga]{chand_trend_2019}
+Mohan~Bahadur Chand, Bikas~Chandra Bhattarai, Prashant Baral, and Niraj~Shankar
+  Pradhananga.
+\newblock Trend {Analysis} of {Temperature} {Data} for {Narayani} {River}
+  {Basin}, {Nepal}.
+\newblock 2019.
+
+\bibitem[Chapagain et~al.(2021)Chapagain, Dhaubanjar, and
+  Bharati]{chapagain_unpacking_2021}
+Dipesh Chapagain, Sanita Dhaubanjar, and Luna Bharati.
+\newblock Unpacking future climate extremes and their sectoral implications in
+  western {Nepal}.
+\newblock \emph{Climatic Change}, 168\penalty0 (1-2):\penalty0 8, September
+  2021.
+\newblock ISSN 0165-0009, 1573-1480.
+\newblock \doi{10.1007/s10584-021-03216-8}.
+\newblock URL \url{https://link.springer.com/10.1007/s10584-021-03216-8}.
+
+\bibitem[Hingane et~al.(1985)Hingane, Rupa~Kumar, and
+  Ramana~Murty]{hingane_longterm_1985}
+L.~S. Hingane, K.~Rupa~Kumar, and Bh.~V. Ramana~Murty.
+\newblock Long‐term trends of surface air temperature in india.
+\newblock \emph{Journal of Climatology}, 5\penalty0 (5):\penalty0 521--528,
+  September 1985.
+\newblock ISSN 0196-1748.
+\newblock \doi{10.1002/joc.3370050505}.
+\newblock URL
+  \url{https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.3370050505}.
+
 \bibitem[IPCC(2023)]{intergovernmental_panel_on_climate_change_ipcc_climate_2023}
 IPCC.
 \newblock \emph{Climate {Change} 2021 – {The} {Physical} {Science} {Basis}:
@@ -49,6 +111,14 @@ IPCC.
 \newblock \doi{10.1017/9781009157896}.
 \newblock URL
   \url{https://www.cambridge.org/core/product/identifier/9781009157896/type/book}.
+
+\bibitem[Kendall(1949)]{kendall_rank_1949}
+M.~G. Kendall.
+\newblock Rank and {Product}-{Moment} {Correlation}.
+\newblock \emph{Biometrika}, 36\penalty0 (1/2):\penalty0 177, June 1949.
+\newblock ISSN 00063444.
+\newblock \doi{10.2307/2332540}.
+\newblock URL \url{https://www.jstor.org/stable/2332540?origin=crossref}.
 
 \bibitem[Leduc and Bhattarai(2008)]{casestudy_bhattarai}
 Brigitte Leduc and Basundhara Bhattarai.
@@ -74,6 +144,22 @@ Sujata Manandhar, Dietrich~Schmidt Vogt, Sylvain~R. Perret, and Futaba Kazama.
 \newblock \doi{10.1007/s10113-010-0137-1}.
 \newblock URL \url{http://link.springer.com/10.1007/s10113-010-0137-1}.
 
+\bibitem[Mann(1945)]{mann_nonparametric_1945}
+Henry~B. Mann.
+\newblock Nonparametric {Tests} {Against} {Trend}.
+\newblock \emph{Econometrica}, 13\penalty0 (3):\penalty0 245, July 1945.
+\newblock ISSN 00129682.
+\newblock \doi{10.2307/1907187}.
+\newblock URL \url{https://www.jstor.org/stable/1907187?origin=crossref}.
+
+\bibitem[Marahatta et~al.(2009)Marahatta, Dangol, and
+  Gurung]{marahatta_temporal_2009}
+Suresh Marahatta, Bhawani~S. Dangol, and Gehendra~B. Gurung.
+\newblock \emph{Temporal and spatial variability of climate change over
+  {Nepal}, 1976-2005}.
+\newblock Practical Action Nepal Office, Kathmandu, 2009.
+\newblock ISBN 978-9937-8135-2-5.
+
 \bibitem[McCarthy et~al.(2001)McCarthy, {IPCC}, and
   {IPCC}]{mccarthy_climate_2001}
 James~J. McCarthy, {IPCC}, and {IPCC}, editors.
@@ -83,6 +169,41 @@ James~J. McCarthy, {IPCC}, and {IPCC}, editors.
 \newblock Cambridge University Press, Cambridge, UK New York, 1. publ edition,
   2001.
 \newblock ISBN 978-0-521-80768-5 978-0-521-01507-3 978-0-521-01500-4.
+
+\bibitem[Nayava et~al.(2017)Nayava, Adhikary, and
+  Bajracharya]{nayava_spatial_2017}
+Janak~Lal Nayava, Sunil Adhikary, and Om~Ratna Bajracharya.
+\newblock Spatial and temporal variation of surface air temperature at
+  different altitude zone in recent 30 years over {Nepal}.
+\newblock \emph{MAUSAM}, 68\penalty0 (3):\penalty0 417--428, July 2017.
+\newblock ISSN 0252-9416.
+\newblock \doi{10.54302/mausam.v68i3.649}.
+\newblock URL
+  \url{https://mausamjournal.imd.gov.in/index.php/MAUSAM/article/view/649}.
+
+\bibitem[Nepal(2016)]{nepal_impacts_2016}
+Santosh Nepal.
+\newblock Impacts of climate change on the hydrological regime of the {Koshi}
+  river basin in the {Himalayan} region.
+\newblock \emph{Journal of Hydro-environment Research}, 10:\penalty0 76--89,
+  March 2016.
+\newblock ISSN 15706443.
+\newblock \doi{10.1016/j.jher.2015.12.001}.
+\newblock URL
+  \url{https://linkinghub.elsevier.com/retrieve/pii/S1570644315000805}.
+
+\bibitem[Paudel et~al.(2021)Paudel, Wang, Zhang, Rai, and
+  Paul]{paudel_climate_2021}
+Basanta Paudel, Zhaofeng Wang, Yili Zhang, Mohan~Kumar Rai, and Pranesh~Kumar
+  Paul.
+\newblock Climate {Change} and {Its} {Impacts} on {Farmer}’s {Livelihood} in
+  {Different} {Physiographic} {Regions} of the {Trans}-{Boundary} {Koshi}
+  {River} {Basin}, {Central} {Himalayas}.
+\newblock \emph{International Journal of Environmental Research and Public
+  Health}, 18\penalty0 (13):\penalty0 7142, July 2021.
+\newblock ISSN 1660-4601.
+\newblock \doi{10.3390/ijerph18137142}.
+\newblock URL \url{https://www.mdpi.com/1660-4601/18/13/7142}.
 
 \bibitem[Pokhrel and Pandey(2013)]{pokhrel_climate_2013}
 Deepak~Mani Pokhrel and Bidya Pandey.
@@ -94,11 +215,32 @@ Deepak~Mani Pokhrel and Bidya Pandey.
 \newblock \doi{10.3126/aej.v12i0.7570}.
 \newblock URL \url{https://www.nepjol.info/index.php/AEJ/article/view/7570}.
 
+\bibitem[Poudel et~al.(2020)Poudel, Cuo, Ding, and
+  Gyawali]{poudel_spatiotemporal_2020}
+Arati Poudel, Lan Cuo, Jin Ding, and Ayush~Raj Gyawali.
+\newblock Spatio‐temporal variability of the annual and monthly extreme
+  temperature indices in {Nepal}.
+\newblock \emph{International Journal of Climatology}, 40\penalty0
+  (11):\penalty0 4956--4977, September 2020.
+\newblock ISSN 0899-8418, 1097-0088.
+\newblock \doi{10.1002/joc.6499}.
+\newblock URL \url{https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.6499}.
+
 \bibitem[Reilly et~al.(2001)Reilly, Tubiello, McCarl, and
   Melillo]{reilly_climate_in_usa}
 John Reilly, Francesco Tubiello, Bruce McCarl, and Jerry Melillo.
 \newblock {CLIMATE} {CHANGE} {AND} {AGRICULTURE} {IN} {THE} {UNITED} {STATES}.
 \newblock 2001.
+
+\bibitem[Sabin et~al.(2020)Sabin, Krishnan, Vellore, Priya, Borgaonkar, Singh,
+  and Sagar]{Sabin2020}
+T.~P. Sabin, R.~Krishnan, Ramesh Vellore, P.~Priya, H.~P. Borgaonkar,
+  Bhupendra~B. Singh, and Aswin Sagar.
+\newblock \emph{Climate Change Over the Himalayas}, pages 207--222.
+\newblock Springer Singapore, Singapore, 2020.
+\newblock ISBN 978-981-15-4327-2.
+\newblock \doi{10.1007/978-981-15-4327-2_11}.
+\newblock URL \url{https://doi.org/10.1007/978-981-15-4327-2_11}.
 
 \bibitem[Shrestha and Aryal(2011)]{shrestha_climate_2011}
 Arun~B. Shrestha and Raju Aryal.
@@ -121,6 +263,18 @@ Arun~B. Shrestha, Cameron~P. Wake, Paul~A. Mayewski, and Jack~E. Dibb.
 \newblock \doi{10.1175/1520-0442(1999)012<2775:MTTITH>2.0.CO;2}.
 \newblock URL
   \url{http://journals.ametsoc.org/doi/10.1175/1520-0442(1999)012<2775:MTTITH>2.0.CO;2}.
+
+\bibitem[Shrestha et~al.(2017)Shrestha, Bajracharya, Sharma, Duo, and
+  Kulkarni]{shrestha_observed_2017}
+Arun~B. Shrestha, Sagar~R. Bajracharya, Aseem~R. Sharma, Chu Duo, and Ashwini
+  Kulkarni.
+\newblock Observed trends and changes in daily temperature and precipitation
+  extremes over the {Koshi} river basin 1975–2010.
+\newblock \emph{International Journal of Climatology}, 37\penalty0
+  (2):\penalty0 1066--1083, February 2017.
+\newblock ISSN 0899-8418, 1097-0088.
+\newblock \doi{10.1002/joc.4761}.
+\newblock URL \url{https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.4761}.
 
 \bibitem[Yao et~al.(2019)Yao, Xue, Chen, Chen, Thompson, Cui, Koike, Lau,
   Lettenmaier, Mosbrugger, Zhang, Xu, Dozier, Gillespie, Gu, Kang, Piao,

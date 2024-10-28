@@ -1,1 +1,113 @@
-materials and method for paper
+
+Koshi Basin is situated in the eastern part of Nepal and constitutes one of the five major river basins in the country, recognized as the largest. This transboundary river, known as the Koshi River, meanders through China, Nepal, and India, with its origin in China before flowing southward into Nepal and on\% in China, 45\% in Nepal, and 23\% in India. The study area was delineated by creating a basin map, with Chatara assumed as the river's outlet point. The elevation ranges from 65 m MSL in the Terai to over 8848 m MSL in the High Himalaya.
+
+
+\citet{chand_trend_2019} calculated a lapse rate of \(0.006 \ ^\circ \mathrm{C} \, \mathrm{m}^{-1}\) in the Narayani River Basin, while \citet{nayava_spatial_2017} found a lapse rate of \(0.0058 \ ^\circ \mathrm{C} \, \mathrm{m}^{-1}\) for eastern Nepal and \(0.0057 \ ^\circ \mathrm{C} \, \mathrm{m}^{-1}\) for the entire country. This research utilized a theoretical lapse rate value of \(0.0065 \ ^\circ \mathrm{C} \, \mathrm{m}^{-1}\).
+
+
+For this research, the Department of Hydrology and Meteorology (DHM) in Nepal provided daily maximum and minimum temperature readings from synoptic, aero-synoptic, and agrometeorological stations across Koshi basin for a 30-year period (1962--2022). 23 temperature station from 101 m asl to 5200 m asl (Table \ref{tab:station_descriptions}) were selected for this study. Python version 3.12 is used for the data analysis. Pandas, Numpy, sklearn, pymannkendall, scipy, pykrig is used for data analysis, geopandas, matplotlib, shpely is used for representation. Study data did not show such inhomogeneity and had missing data. Missing data were filled by (equation \ref{eq:tapse_calculation}) lapse rate formula:
+
+\begin{equation}
+  T_{\text{cal}} = T_{\text{obs}} + (H_{\text{Elevation}} - L_{\text{Elevation}}) \cdot (-0.0065)
+  \label{eq:tapse_calculation}
+  \end{equation}
+  
+  Where, 
+  \begin{align*}
+  T_{\text{cal}} & = \text{High elevation calculating temperature} \\
+  T_{\text{obs}} & = \text{Low elevation observed temperature} \\
+  H_{\text{Elevation}} & = \text{High elevation (calculating temperature station's elevation)}  \\
+  L_{\text{Elevation}} & = \text{Low elevation (Observed temperature station's elevation)}   
+  \end{align*}
+
+  Annual and seasonal averages were computed for each year across all stations. The four seasons were categorized as follows: winter (including December of the previous year, January, and February), pre-monsoon (March to May), monsoon (June to September), and post-monsoon (October and November). Physiographically, Nepal is divided into five regions: Terai, Siwalik, Middle Mountains, High Mountains, and Himalayas \citep{nayava_spatial_2017}, In line with this classification, this study also considers five regions to analyze the spatial variation of temperatures in the Koshi Basin. Seasonal and annual temperature trends for all stations were analyzed using linear regression. The spatial distribution of these temperature trends was mapped through interpolation, utilizing Kriging based on the station trends.
+
+\begin{table}[H]
+  \centering
+  \caption{Descriptions of stations included in this study of selected stations.}
+  \label{tab:station_descriptions}
+  \begin{tabularx}{\textwidth}{|X|X|X|X|X|X|}
+      \toprule % Replaces the first \hline
+      \textbf{Station No.} & \textbf{Station Name} & \textbf{Latitude (°N)} & \textbf{Longitude (°E)} & \textbf{Elevation (m)} & \textbf{Physiographic Regions} \\
+      \midrule % Replaces \hline between header and body
+      1316 & Chatara           & 26.82044 & 87.15917 & 105  & TAR \\
+      1201 & Namche Bazar      & 27.81667 & 86.71667 & 3450 & H \\
+      1401 & Olangchuhg G      & 27.68333 & 87.78333 & 3119 & H \\
+      1225 & Syangboche        & 27.81667 & 86.71667 & 3700 & H \\
+      1218 & Tengboche         & 27.83333 & 86.76667 & 3857 & H \\
+      1206 & Okhaldhunga       & 27.30812 & 86.50423 & 1731 & MM \\
+      1405 & Taplejung         & 27.35861 & 87.67    & 1744 & MM \\
+      1103 & Jiri              & 27.63045 & 86.23211 & 1877 & MM \\
+      1036 & Panchkhal         & 27.64513 & 85.62088 & 857  & MM \\
+      1016 & Sarmathang        & 27.94456 & 85.59514 & 2574 & HM \\
+      1123 & Manthali          & 27.3947  & 86.06123 & 497  & MM \\
+      1124 & Kabre             & 27.63333 & 86.13333 & 1755 & MM \\
+      1212 & Phatepur          & 26.73054 & 86.93481 & 101  & TAR \\
+      1219 & Salleri           & 27.50512 & 86.58622 & 2383 & HM \\
+      1222 & Diktel            & 27.21252 & 86.79189 & 1612 & MM \\
+      1304 & Pakhribas         & 27.04632 & 87.29247 & 1720 & MM \\
+      1327 & Khadbari          & 27.39106 & 87.20438 & 1064 & MM \\
+      1303 & Chainpur (East)   & 27.2921  & 87.31697 & 1277 & MM \\
+      1307 & Dhankuta          & 26.98322 & 87.34596 & 1192 & MM \\
+      1024 & Dhulikhel         & 27.61612 & 85.5655  & 1543 & MM \\
+      1419 & Phidim (Panchther) & 27.14367 & 87.7656  & 1157 & MM \\
+      1314 & Terhathum         & 27.12304 & 87.53619 & 1525 & MM \\
+      XXXX & Lubuche           & 27.96111 & 86.80889 & 5200 & H \\
+      \bottomrule % Replaces the final \hline
+  \end{tabularx}
+  \begin{flushleft}
+      \footnotesize{a Station numbers are provided according to the Department of Hydrology and Meteorology station index, with numbers increasing from west to east, and from north to south.} \\
+      \footnotesize{b Physiographic regions are denoted as follows: TAR for Terai, SW for Siwalik, MM for Middle Mountain, HM for High Mountains, and H for Himalaya.}
+  \end{flushleft}
+\end{table}
+
+
+\begin{figure}[H]  
+  \centering
+  \includegraphics[width=0.8\textwidth]{images/study_area.png} 
+  \caption{Study area, represents Koshi basin in Nepal, with selected stations.}  
+  \label{fig:study_area} 
+\end{figure}
+
+
+Spatial and temporal variations in air temperature are influenced by factors such as physiography (e.g., slope, aspect, hilltops, and valleys), land cover characteristics, and incoming solar radiation therefore Quantification of the contribution of each factor is complicated. This study has focused solely on temperature variations based on altitude, specifically within physiographic regions. Three types of temperature data were analyzed: Tmax, the mean of daily maximum temperature; Tmin, the mean of daily minimum temperature; and Tavg, the daily average temperature. To compare the relative magnitudes of the temperature data, the \citet{mann_nonparametric_1945,kendall_rank_1949} test was employed to estimate monotonic trends—whether positive or negative—and their statistical significance. This analysis was conducted using (equation \ref{eq:sum})  and (equation \ref{eq:sgn}), with the variance determined through (equation \ref{eq:variance}):
+
+\begin{equation} 
+  S = \sum_{i=1}^{n-1} \sum_{j=i+1}^{n} \text{sgn}(x_j - x_i) \tag{1} 
+  \label{eq:sum}
+  \end{equation}
+  
+\begin{equation}
+  \text{sgn}(x_j - x_i) = 
+  \begin{cases} 
+  1 & \text{if } (x_j - x_i) > 0 \\ 
+  0 & \text{if } (x_j - x_i) = 0 \\ 
+  -1 & \text{if } (x_j - x_i) < 0 
+  \end{cases} \tag{2} 
+  \label{eq:sgn}
+  \end{equation}
+  
+\begin{equation}
+  \text{Var}(S) = \frac{n(n-1)(2n+5) - \sum_{i=1}^{m} t_i(t_i-1)(2t_i+5)}{18} \tag{3}
+  \label{eq:variance}
+  \end{equation}
+
+Where \( n \) is the number of data points, \( m \) is the number of tied groups, and \( t_i \) is the number of observations in the \( i^{th} \) tied group.
+
+The collected data were thoroughly checked and screened for quality and consistency. To analyze the temporal and spatial variations of temperature, linear regression was employed. A time series analysis was conducted. This technique allowed the fitting of a linear trend between the time series data (y) and time (t), as described by the equation \ref{eq:linear_regression}:
+
+\begin{equation}
+  y = a + bt \tag{4}
+\label{eq:linear_regression}
+\end{equation}
+
+Where:
+\begin{itemize}
+  \item \( y \): represents the temperature or rainfall,
+  \item \( t \): represents time (in years),
+  \item \( a \) and \( b \) are constants estimated using the least squares method, which minimizes the sum of the squared differences between the observed and predicted values.
+\end{itemize}
+
+This method provides an accurate and reliable estimation of the overall trend in rainfall and temperature data across the study period.
+
+
