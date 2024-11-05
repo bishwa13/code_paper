@@ -5,11 +5,11 @@ Koshi Basin is situated in the eastern part of Nepal and constitutes one of the 
 \citet{chand_trend_2019} calculated a lapse rate of \(0.006 \ ^\circ \mathrm{C} \, \mathrm{m}^{-1}\) in the Narayani River Basin, while \citet{nayava_spatial_2017} found a lapse rate of \(0.0058 \ ^\circ \mathrm{C} \, \mathrm{m}^{-1}\) for eastern Nepal and \(0.0057 \ ^\circ \mathrm{C} \, \mathrm{m}^{-1}\) for the entire country. This research utilized a theoretical lapse rate value of \(0.0065 \ ^\circ \mathrm{C} \, \mathrm{m}^{-1}\).
 
 
-For this research, the Department of Hydrology and Meteorology (DHM) in Nepal provided daily maximum and minimum temperature readings from synoptic, aero-synoptic, and agrometeorological stations across Koshi basin for a 30-year period (1962--2022). 23 temperature station from 101 m asl to 5200 m asl (Table \ref{tab:station_descriptions}) were selected for this study. Python version 3.12 is used for the data analysis. Pandas, Numpy, sklearn, pymannkendall, scipy, pykrig is used for data analysis, geopandas, matplotlib, shpely is used for representation. Study data did not show such inhomogeneity and had missing data. Missing data were filled by (equation \ref{eq:tapse_calculation}) lapse rate formula:
+For this research, the Department of Hydrology and Meteorology (DHM) in Nepal provided daily maximum and minimum temperature readings from synoptic, aero-synoptic, and agrometeorological stations across Koshi basin for a 30-year period (1962--2022). 23 temperature station from 101 m asl to 5200 m asl (Table \ref{tab:station_descriptions}) were selected for this study. Python version 3.12 is used for the data analysis. Pandas, Numpy, sklearn, pymannkendall, scipy, pykrig is used for data analysis, geopandas, matplotlib, shpely is used for representation. Study data did not show such inhomogeneity and had missing data. Missing data were filled by (equation \ref{eq:lapse_calculation}) lapse rate formula:
 
 \begin{equation}
   T_{\text{cal}} = T_{\text{obs}} + (H_{\text{Elevation}} - L_{\text{Elevation}}) \cdot (-0.0065)
-  \label{eq:tapse_calculation}
+  \label{eq:lapse_calculation}
   \end{equation}
   
   Where, 
