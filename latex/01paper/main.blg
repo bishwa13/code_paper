@@ -1,55 +1,21 @@
-This is BibTeX, Version 0.99d
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: main.aux
-Reallocating 'name_of_file' (item size: 1) to 9 items.
-The style file: plainnat.bst
-Reallocating 'name_of_file' (item size: 1) to 23 items.
-Database file #1: reference_soham_bibtex.bib
-Warning--empty journal in adhikari_x_2016
-Warning--empty journal in chand_trend_2019
-Warning--empty journal in casestudy_bhattarai
-Warning--empty journal in maharjan_tharu_nodate
-Warning--empty journal in reilly_climate_in_usa
-Warning--can't use both author and editor fields in Sabin2020
-You've used 28 entries,
-            2773 wiz_defined-function locations,
-            823 strings with 13883 characters,
-and the built_in function-call counts, 16498 in all, are:
-= -- 1485
-> -- 1238
-< -- 9
-+ -- 415
-- -- 387
-* -- 1587
-:= -- 2674
-add.period$ -- 150
-call.type$ -- 28
-change.case$ -- 211
-chr.to.int$ -- 28
-cite$ -- 62
-duplicate$ -- 587
-empty$ -- 1063
-format.name$ -- 423
-if$ -- 3336
-int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 31
-newline$ -- 214
-num.names$ -- 113
-pop$ -- 345
-preamble$ -- 1
-purify$ -- 185
-quote$ -- 0
-skip$ -- 459
-stack$ -- 0
-substring$ -- 501
-swap$ -- 54
-text.length$ -- 1
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 288
-warning$ -- 6
-while$ -- 120
-width$ -- 0
-write$ -- 495
-(There were 6 warnings)
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[281] biber-MSWIN64:340> INFO - === 
+[353] Biber.pm:419> INFO - Reading 'main.bcf'
+[670] Biber.pm:979> INFO - Found 28 citekeys in bib section 0
+[722] Biber.pm:4419> INFO - Processing section 0
+[752] Biber.pm:4610> INFO - Looking for bibtex file 'reference_soham_bibtex.bib' for section 0
+[865] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1054] bibtex.pm:1519> INFO - Found BibTeX data source 'reference_soham_bibtex.bib'
+[1772] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1773] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1775] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[1775] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1948] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1948] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1948] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[1948] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2052] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[2266] bbl.pm:763> INFO - Output to main.bbl
+[2268] Biber.pm:131> WARN - ISBN '978-0-521-80768-5 978-0-521-01507-3 978-0-521-01500-4' in entry 'mccarthy_climate_2001' is invalid - run biber with '--validate_datamodel' for details.
+[2269] Biber.pm:133> INFO - WARNINGS: 1

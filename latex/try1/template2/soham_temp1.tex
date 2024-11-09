@@ -1,29 +1,30 @@
 \documentclass[a4paper,12pt]{article}
-
-% Packages
+\usepackage{authblk}
 \usepackage{graphicx}
 \usepackage{amsmath}
-\usepackage{amssymb}
-\usepackage{hyperref}
-\usepackage{natbib}  % For bibliography
-\usepackage{authblk} % For affiliations
-\usepackage{caption} % For figure and table captions
-\usepackage{setspace} % For double spacing
+\usepackage[backend=biber, style=apa]{biblatex}
+\usepackage{hyperref} 
+\usepackage{setspace}
+\usepackage{geometry}
+\usepackage{tabularx}
+\usepackage{caption}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{float}
+\usepackage{subcaption}
 
-% Page layout
-\usepackage[a4paper, margin=1in]{geometry}
-\setlength{\parindent}{0.5in}
+\addbibresource{soham_temp1.bib} 
+
 \doublespacing
-\pagenumbering{arabic}
+
 
 % Title
 \title{Title of the Paper: Include the Specific Location if Relevant}
 \author[1]{First Author\thanks{Corresponding author: email@domain.com, Fax: +1-234-567-8900}}
 \author[2]{Second Author}
-\author[3]{Third Author}
+
 \affil[1]{Full postal address for the first author, including institution name}
-\affil[2]{Full postal address for the second author, including institution name}
-\affil[3]{Full postal address for the third author, including institution name}
+
 \date{}
 
 \begin{document}
@@ -31,59 +32,27 @@
 % Title page
 \maketitle
 
-\begin{abstract}
-
-% Abstract content, up to 500 words.
-
-Maximum (Tmax), minimum (Tmin), mean (Tavg) air temperature trends on a seasonal and annual time scale and physiographic regions of Koshi Basin (High Mountain, Middle Mountain, Hill, Siwalik and Tarai) were analyzed from data recorded at 23 weather stations of area during the period 1962{-}2022.
-
-
-\end{abstract}
-
-\noindent \textbf{Keywords:} Keyword1, Keyword2, Keyword3, Keyword4, Keyword5
-
-\section{Introduction}
-% Main text begins here. Use normal sectioning for the paper.
-This is where the introduction goes. Provide an overview of the paper, including the context, background, and main objectives.
-
 \section{Methodology}
-% Describe methods used in the research, including any equations, models, or data collection methods.
-This section explains the methodology used in the research. Clearly describe experiments, simulations, or analytical techniques.
+Missing data were filled by (equation \ref{eq:lapse_calculation}) lapse rate formula:
 
+\begin{equation}
+  T_{\text{cal}} = T_{\text{obs}} + (H_{\text{Elevation}} - L_{\text{Elevation}}) \cdot (-0.0065)
+  \label{eq:lapse_calculation}
+  \end{equation}
+  
+Where, 
+\begin{align*}
+  T_{\text{cal}} & = \text{High elevation calculating temperature} \\
+  T_{\text{obs}} & = \text{Low elevation observed temperature} \\
+  H_{\text{Elevation}} & = \text{High elevation (calculating temperature station's elevation)}  \\
+  L_{\text{Elevation}} & = \text{Low elevation (Observed temperature station's elevation)}   
+  \end{align*}
 \section{Results and Discussion}
 % Include main findings, backed up with diagrams and tables.
-Present the results here. Use figures and tables to support your discussion, but place figures and tables at the end of the manuscript according to the instructions. Include necessary equations and explain any symbols.
+Present the \textcite{adhikari_x_2016} results here. Use figures and tables to support your \parencite{mccarthy_climate_2001} discussion, but place figures and tables at the end of the manuscript according to the instructions. Include necessary \parencite{reilly_climate_nodate} equations and explain any symbols.
 
-\section{Conclusion}
-% Summarize key findings and implications.
-The conclusion provides a brief recap of the main findings and their significance. Suggest areas for future work or practical implications.
 
-\section*{Acknowledgements}
-% This section comes before the references.
-This section should be as brief as possible. Acknowledge funding sources, collaborators, and any other assistance that contributed to the paper.
-
-\appendix
-\section{Appendix}
-% Include any supplementary information such as model formulations, experimental methods, etc.
-Additional content, such as detailed equations, descriptions of methods, or specialized results of interest to experts.
 
 \section*{References}
-% Reference list follows alphabetical order by authors' last names.
-\bibliographystyle{plainnat} % or any other suitable style
-
-\bibliography{references} % Include a .bib file for references or type them manually
-% Example references (if typed manually):
-% \noindent Fermi, E., Marshall, L., 1974. On the interaction between neutrons and electrons. Physics Review 72, 1139-1146. \\
-% Thring, M. W., 1957. Air Pollution, pp. 132-134. Butterworths, London.
-
-\section*{Figure Captions}
-% Figures are listed at the end, with captions here.
-\noindent \textbf{Figure 1}: Caption for Figure 1. \\
-\textbf{Figure 2}: Caption for Figure 2.
-
-\section*{Tables}
-% Tables are listed at the end, with captions here.
-\noindent \textbf{Table 1}: Caption for Table 1. \\
-\textbf{Table 2}: Caption for Table 2.
-
+\printbibliography
 \end{document}

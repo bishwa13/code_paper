@@ -1,26 +1,20 @@
-\documentclass{article}
+\documentclass[a4paper,12pt]{article}
 \usepackage{authblk}
 \usepackage{graphicx}
 \usepackage{amsmath}
-\usepackage{natbib}   
+\usepackage[backend=biber, style=apa]{biblatex}
 \usepackage{hyperref} 
-
+\usepackage{setspace}
 \usepackage{geometry}
-
 \usepackage{tabularx}
 \usepackage{caption}
 \usepackage{booktabs}
 \usepackage{array}
 \usepackage{float}
-
-\usepackage{unicode-math}
-
-
-\usepackage{graphicx}
-\usepackage{amsmath}
 \usepackage{subcaption}
 
-\setcitestyle{round}
+\addbibresource{reference_soham_bibtex.bib} 
+
 % Title and author information
 \title{Spatial and Temporal Variations of Surface Air Temperature (1962–2022) across Physiographic Regions in the Koshi Basin, Nepal }
 
@@ -47,7 +41,7 @@
 \section{Introduction}
 \input{sections/introduction}
 
-\section{Materials and Methodology}
+\section{Study area, Data and Methods}
 \input{sections/materials_method}
 
 \section{Results and Discussion}
@@ -55,10 +49,9 @@
 
 
 
-\section{Conclusion}
+\section{Summary}
 \input{sections/conclusion}
 
-\bibliographystyle{plainnat}
-\bibliography{reference_soham_bibtex}
-
+\section*{References}
+\printbibliography
 \end{document}
