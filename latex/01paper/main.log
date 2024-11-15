@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  10 NOV 2024 22:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  15 NOV 2024 15:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -681,7 +681,7 @@ Package caption Info: End \AtBeginDocument code.
 (./sections/abstract.tex [1
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./sections/introduction.tex [2{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [3]) (./sections/materials_method.tex [4]
-<images/study_area.png, id=111, 624.02736pt x 454.96375pt>
+<images/study_area.png, id=119, 624.02736pt x 454.96375pt>
 File: images/study_area.png Graphic file (type png)
 <use images/study_area.png>
 Package pdftex.def Info: images/study_area.png  used on input line 7.
@@ -756,93 +756,94 @@ Overfull \hbox (3.95291pt too wide) in paragraph at lines 45--45
 \OT1/cmr/m/n/12 (Panchther)| 
  []
 
-[5 <./images/study_area.png>] [6] [7]) (./sections/results_discussion.tex [8
+[5 <./images/study_area.png>] [6] [7]) (./sections/results_discussion.tex
+
+LaTeX Warning: Reference `fig:Pre_monsoon_temperature_trends, fig:Monsoon_temperature_trends, fig:Post_monsoon_temperature_trends, fig:Winter_temperature_trends, fig:Annual_temperature_trends' on page 8 undefined on input line 4.
+
+[8
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.3 
+l.5 
     
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.3 
+l.5 
     
 pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.3 
+l.5 
     ]
-Overfull \hbox (149.27016pt too wide) in paragraph at lines 7--43
- [][] 
- []
-
-[9] [10]
-Overfull \hbox (2.21788pt too wide) in paragraph at lines 63--65
-\OT1/cmr/m/n/12 from 1977 to 1994. Their study ob-served warm-ing dur-ing the win-ter, post-monsoon,
- []
-
-<images/simple_plots_Premonsoon_Trend.png, id=175, 1156.32pt x 505.89pt>
+<images/simple_plots_Premonsoon_Trend.png, id=166, 1156.32pt x 505.89pt>
 File: images/simple_plots_Premonsoon_Trend.png Graphic file (type png)
 <use images/simple_plots_Premonsoon_Trend.png>
-Package pdftex.def Info: images/simple_plots_Premonsoon_Trend.png  used on input line 69.
+Package pdftex.def Info: images/simple_plots_Premonsoon_Trend.png  used on input line 10.
 (pdftex.def)             Requested size: 376.42575pt x 164.68246pt.
-<images/simple_plots_Monsoon_Trend.png, id=176, 1156.32pt x 505.89pt>
+ [9 <./images/simple_plots_Premonsoon_Trend.png>]
+<images/simple_plots_Monsoon_Trend.png, id=179, 1156.32pt x 505.89pt>
 File: images/simple_plots_Monsoon_Trend.png Graphic file (type png)
 <use images/simple_plots_Monsoon_Trend.png>
-Package pdftex.def Info: images/simple_plots_Monsoon_Trend.png  used on input line 76.
+Package pdftex.def Info: images/simple_plots_Monsoon_Trend.png  used on input line 22.
 (pdftex.def)             Requested size: 376.42575pt x 164.68246pt.
-[11 <./images/simple_plots_Premonsoon_Trend.png>]
-<images/simple_plots_Postmonsoon_Trend.png, id=183, 1156.32pt x 505.89pt>
+<images/simple_plots_Postmonsoon_Trend.png, id=180, 1156.32pt x 505.89pt>
 File: images/simple_plots_Postmonsoon_Trend.png Graphic file (type png)
 <use images/simple_plots_Postmonsoon_Trend.png>
-Package pdftex.def Info: images/simple_plots_Postmonsoon_Trend.png  used on input line 83.
+Package pdftex.def Info: images/simple_plots_Postmonsoon_Trend.png  used on input line 31.
 (pdftex.def)             Requested size: 376.42575pt x 164.68246pt.
 
-Underfull \hbox (badness 1142) in paragraph at lines 84--84
+Underfull \hbox (badness 1142) in paragraph at lines 32--32
 []\OT1/cmr/m/n/12 Figure 4: |Post-monsoon tem-per-a-ture trends across the time in-ter-vals (a)
  []
 
-<images/simple_plots_Winter_Trend.png, id=184, 1156.32pt x 505.89pt>
+<images/simple_plots_Winter_Trend.png, id=182, 1156.32pt x 505.89pt>
 File: images/simple_plots_Winter_Trend.png Graphic file (type png)
 <use images/simple_plots_Winter_Trend.png>
-Package pdftex.def Info: images/simple_plots_Winter_Trend.png  used on input line 90.
+Package pdftex.def Info: images/simple_plots_Winter_Trend.png  used on input line 42.
 (pdftex.def)             Requested size: 376.42575pt x 164.68246pt.
-[12 <./images/simple_plots_Monsoon_Trend.png> <./images/simple_plots_Postmonsoon_Trend.png>]
-
-LaTeX Warning: Reference `fig:Pre_monsoon_temperature_trends, fig:Monsoon_temperature_trends, fig:Post_monsoon_temperature_trends, fig:Winter_temperature_trends, fig:Annual_temperature_trends' on page 13 undefined on input line 95.
-
-[13 <./images/simple_plots_Winter_Trend.png>]
-<images/simple_plots_annual_Trend.png, id=204, 1156.32pt x 505.89pt>
+[10 <./images/simple_plots_Monsoon_Trend.png> <./images/simple_plots_Postmonsoon_Trend.png>]
+<images/simple_plots_annual_Trend.png, id=192, 1156.32pt x 505.89pt>
 File: images/simple_plots_annual_Trend.png Graphic file (type png)
 <use images/simple_plots_annual_Trend.png>
-Package pdftex.def Info: images/simple_plots_annual_Trend.png  used on input line 105.
+Package pdftex.def Info: images/simple_plots_annual_Trend.png  used on input line 54.
 (pdftex.def)             Requested size: 376.42575pt x 164.68246pt.
+ [11 <./images/simple_plots_Winter_Trend.png>]
+
+LaTeX Warning: Reference `fig:Annual temperature trends' on page 12 undefined on input line 59.
 
 
-LaTeX Warning: Reference `fig:Annual temperature trends' on page 14 undefined on input line 110.
-
-
-Overfull \hbox (18.89037pt too wide) in paragraph at lines 116--128
+Overfull \hbox (149.27016pt too wide) in paragraph at lines 67--103
  [][] 
  []
 
-[14 <./images/simple_plots_annual_Trend.png>]
-<images/avg_krig_Koshi Basin Slope Tmin.png, id=214, 605.8635pt x 467.1051pt>
+[12 <./images/simple_plots_annual_Trend.png>] [13]
+Overfull \hbox (2.21788pt too wide) in paragraph at lines 123--125
+\OT1/cmr/m/n/12 from 1977 to 1994. Their study ob-served warm-ing dur-ing the win-ter, post-monsoon,
+ []
+
+[14]
+Overfull \hbox (18.89037pt too wide) in paragraph at lines 131--143
+ [][] 
+ []
+
+[15]
+<images/avg_krig_Koshi Basin Slope Tmin.png, id=232, 605.8635pt x 467.1051pt>
 File: images/avg_krig_Koshi Basin Slope Tmin.png Graphic file (type png)
 <use images/avg_krig_Koshi Basin Slope Tmin.png>
-Package pdftex.def Info: images/avg_krig_Koshi Basin Slope Tmin.png  used on input line 160.
+Package pdftex.def Info: images/avg_krig_Koshi Basin Slope Tmin.png  used on input line 175.
 (pdftex.def)             Requested size: 188.21288pt x 145.10756pt.
-<images/avg_krig_Koshi Basin Slope Tavg.png, id=215, 613.8132pt x 467.1051pt>
+<images/avg_krig_Koshi Basin Slope Tavg.png, id=233, 613.8132pt x 467.1051pt>
 File: images/avg_krig_Koshi Basin Slope Tavg.png Graphic file (type png)
 <use images/avg_krig_Koshi Basin Slope Tavg.png>
-Package pdftex.def Info: images/avg_krig_Koshi Basin Slope Tavg.png  used on input line 167.
+Package pdftex.def Info: images/avg_krig_Koshi Basin Slope Tavg.png  used on input line 182.
 (pdftex.def)             Requested size: 188.21288pt x 143.22592pt.
-<images/avg_krig_Koshi Basin Slope Tmax.png, id=216, 614.5359pt x 467.1051pt>
+<images/avg_krig_Koshi Basin Slope Tmax.png, id=234, 614.5359pt x 467.1051pt>
 File: images/avg_krig_Koshi Basin Slope Tmax.png Graphic file (type png)
 <use images/avg_krig_Koshi Basin Slope Tmax.png>
-Package pdftex.def Info: images/avg_krig_Koshi Basin Slope Tmax.png  used on input line 176.
+Package pdftex.def Info: images/avg_krig_Koshi Basin Slope Tmax.png  used on input line 191.
 (pdftex.def)             Requested size: 188.21288pt x 143.05486pt.
- [15] [16 <./images/avg_krig_Koshi Basin Slope Tmin.png> <./images/avg_krig_Koshi Basin Slope Tavg.png> <./images/avg_krig_Koshi Basin Slope Tmax.png>]) (./sections/conclusion.tex [17])
+ [16 <./images/avg_krig_Koshi Basin Slope Tmin.png> <./images/avg_krig_Koshi Basin Slope Tavg.png> <./images/avg_krig_Koshi Basin Slope Tmax.png>]) (./sections/conclusion.tex [17])
 Overfull \hbox (2.1048pt too wide) in paragraph at lines 56--56
 \OT1/cmr/m/n/12 Nepal: TEM-PER-A-TURE PRO-JEC-TIONS IN THE KOSHI RIVER BASIN.
  []
@@ -862,24 +863,24 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B700F7D29A6C323BDCD55A3A39C38636;788.
+(rerunfilecheck)             Checksum: B71F661FA7937BB7A00DB4140D62D690;1184.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19584 strings out of 474115
- 351325 string characters out of 5747696
+ 19593 strings out of 474115
+ 351440 string characters out of 5747696
  1959190 words of memory out of 5000000
- 41661 multiletter control sequences out of 15000+600000
+ 41663 multiletter control sequences out of 15000+600000
  566391 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,11n,81p,3036b,5052s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (20 pages, 13025052 bytes).
+Output written on main.pdf (20 pages, 13026285 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
- 300 compressed objects within 3 object streams
- 74 named destinations out of 1000 (max. 500000)
- 94 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 390 PDF objects out of 1000 (max. 8388607)
+ 314 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,21 +1,21 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[600] biber-MSWIN64:340> INFO - === 
-[821] Biber.pm:419> INFO - Reading 'main.bcf'
-[1270] Biber.pm:979> INFO - Found 28 citekeys in bib section 0
-[1343] Biber.pm:4419> INFO - Processing section 0
-[1421] Biber.pm:4610> INFO - Looking for bibtex file 'reference_soham_bibtex.bib' for section 0
-[1615] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1915] bibtex.pm:1519> INFO - Found BibTeX data source 'reference_soham_bibtex.bib'
-[3620] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3620] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3620] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[3620] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[3959] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[3959] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[3960] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[3960] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[4229] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[4502] bbl.pm:763> INFO - Output to main.bbl
-[4503] Biber.pm:131> WARN - ISBN '978-0-521-80768-5 978-0-521-01507-3 978-0-521-01500-4' in entry 'mccarthy_climate_2001' is invalid - run biber with '--validate_datamodel' for details.
-[4503] Biber.pm:133> INFO - WARNINGS: 1
+[476] biber-MSWIN64:340> INFO - === 
+[794] Biber.pm:419> INFO - Reading 'main.bcf'
+[1227] Biber.pm:979> INFO - Found 28 citekeys in bib section 0
+[1273] Biber.pm:4419> INFO - Processing section 0
+[1331] Biber.pm:4610> INFO - Looking for bibtex file 'reference_soham_bibtex.bib' for section 0
+[1465] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1686] bibtex.pm:1519> INFO - Found BibTeX data source 'reference_soham_bibtex.bib'
+[2755] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2756] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2756] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[2756] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2913] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2913] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2913] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[2913] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[3068] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[3269] bbl.pm:763> INFO - Output to main.bbl
+[3270] Biber.pm:131> WARN - ISBN '978-0-521-80768-5 978-0-521-01507-3 978-0-521-01500-4' in entry 'mccarthy_climate_2001' is invalid - run biber with '--validate_datamodel' for details.
+[3270] Biber.pm:133> INFO - WARNINGS: 1
