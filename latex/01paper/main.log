@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  15 NOV 2024 15:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  15 NOV 2024 22:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -809,10 +809,6 @@ File: images/simple_plots_annual_Trend.png Graphic file (type png)
 Package pdftex.def Info: images/simple_plots_annual_Trend.png  used on input line 54.
 (pdftex.def)             Requested size: 376.42575pt x 164.68246pt.
  [11 <./images/simple_plots_Winter_Trend.png>]
-
-LaTeX Warning: Reference `fig:Annual temperature trends' on page 12 undefined on input line 59.
-
-
 Overfull \hbox (149.27016pt too wide) in paragraph at lines 67--103
  [][] 
  []
@@ -828,17 +824,17 @@ Overfull \hbox (18.89037pt too wide) in paragraph at lines 131--143
  []
 
 [15]
-<images/avg_krig_Koshi Basin Slope Tmin.png, id=232, 605.8635pt x 467.1051pt>
+<images/avg_krig_Koshi Basin Slope Tmin.png, id=233, 605.8635pt x 467.1051pt>
 File: images/avg_krig_Koshi Basin Slope Tmin.png Graphic file (type png)
 <use images/avg_krig_Koshi Basin Slope Tmin.png>
 Package pdftex.def Info: images/avg_krig_Koshi Basin Slope Tmin.png  used on input line 175.
 (pdftex.def)             Requested size: 188.21288pt x 145.10756pt.
-<images/avg_krig_Koshi Basin Slope Tavg.png, id=233, 613.8132pt x 467.1051pt>
+<images/avg_krig_Koshi Basin Slope Tavg.png, id=234, 613.8132pt x 467.1051pt>
 File: images/avg_krig_Koshi Basin Slope Tavg.png Graphic file (type png)
 <use images/avg_krig_Koshi Basin Slope Tavg.png>
 Package pdftex.def Info: images/avg_krig_Koshi Basin Slope Tavg.png  used on input line 182.
 (pdftex.def)             Requested size: 188.21288pt x 143.22592pt.
-<images/avg_krig_Koshi Basin Slope Tmax.png, id=234, 614.5359pt x 467.1051pt>
+<images/avg_krig_Koshi Basin Slope Tmax.png, id=235, 614.5359pt x 467.1051pt>
 File: images/avg_krig_Koshi Basin Slope Tmax.png Graphic file (type png)
 <use images/avg_krig_Koshi Basin Slope Tmax.png>
 Package pdftex.def Info: images/avg_krig_Koshi Basin Slope Tmax.png  used on input line 191.
@@ -869,18 +865,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19593 strings out of 474115
- 351440 string characters out of 5747696
+ 19592 strings out of 474115
+ 351409 string characters out of 5747696
  1959190 words of memory out of 5000000
- 41663 multiletter control sequences out of 15000+600000
+ 41662 multiletter control sequences out of 15000+600000
  566391 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,11n,81p,3036b,5052s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (20 pages, 13026285 bytes).
+Output written on main.pdf (20 pages, 13026307 bytes).
 PDF statistics:
- 390 PDF objects out of 1000 (max. 8388607)
- 314 compressed objects within 4 object streams
+ 391 PDF objects out of 1000 (max. 8388607)
+ 315 compressed objects within 4 object streams
  81 named destinations out of 1000 (max. 500000)
  110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
