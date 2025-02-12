@@ -16,7 +16,7 @@ I am `fun` to be around.
       - n
       - d
 
-[[note2]]
+[[temp_note]]
 
 # Bishwa
 

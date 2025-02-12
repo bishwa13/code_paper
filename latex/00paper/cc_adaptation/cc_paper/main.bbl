@@ -1,0 +1,189 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{2XQUEWGG}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=c41819db7139f2dddfbce633c28c9e62}{%
+           family={Aryal},
+           familyi={A\bibinitperiod},
+           given={Dibit},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f647bb6da8304b7be380ec58eb6373a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc2c11a015f9c93a74e9be7ef1e94773}{%
+           family={Adhikari},
+           familyi={A\bibinitperiod},
+           given={Tirtha\bibnamedelima Raj},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac696aa3d4b6ac91f76d77e438aadcbf}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6e0c7a2da500acef31f809a68b33ce3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiuping},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5c74e02148dee5872e70ccc37c25b88}{%
+           family={Shrestha},
+           familyi={S\bibinitperiod},
+           given={Maheswor},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e23e22c2b1ad091b95440c4ae40bcd2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuanwei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=137b7718d005d2afa286d5e5a658165d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Deliang},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b2a813630011d661ec0e72bc5b7419bc}
+      \strng{fullhash}{1115c3a6426a448031e3d9f22283906f}
+      \strng{bibnamehash}{1115c3a6426a448031e3d9f22283906f}
+      \strng{authorbibnamehash}{1115c3a6426a448031e3d9f22283906f}
+      \strng{authornamehash}{b2a813630011d661ec0e72bc5b7419bc}
+      \strng{authorfullhash}{1115c3a6426a448031e3d9f22283906f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water}
+      \field{number}{2}
+      \field{title}{A Model-Based Flood Hazard Mapping on the Southern Slope of Himalaya}
+      \field{volume}{12}
+      \field{year}{2020}
+      \field{pages}{540}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/w12020540
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2073-4441/12/2/540
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2073-4441/12/2/540
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{2XQUEWGG}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=c41819db7139f2dddfbce633c28c9e62}{%
+           family={Aryal},
+           familyi={A\bibinitperiod},
+           given={Dibit},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f647bb6da8304b7be380ec58eb6373a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc2c11a015f9c93a74e9be7ef1e94773}{%
+           family={Adhikari},
+           familyi={A\bibinitperiod},
+           given={Tirtha\bibnamedelima Raj},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac696aa3d4b6ac91f76d77e438aadcbf}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6e0c7a2da500acef31f809a68b33ce3}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiuping},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5c74e02148dee5872e70ccc37c25b88}{%
+           family={Shrestha},
+           familyi={S\bibinitperiod},
+           given={Maheswor},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e23e22c2b1ad091b95440c4ae40bcd2}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuanwei},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=137b7718d005d2afa286d5e5a658165d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Deliang},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b2a813630011d661ec0e72bc5b7419bc}
+      \strng{fullhash}{1115c3a6426a448031e3d9f22283906f}
+      \strng{bibnamehash}{1115c3a6426a448031e3d9f22283906f}
+      \strng{authorbibnamehash}{1115c3a6426a448031e3d9f22283906f}
+      \strng{authornamehash}{b2a813630011d661ec0e72bc5b7419bc}
+      \strng{authorfullhash}{1115c3a6426a448031e3d9f22283906f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water}
+      \field{number}{2}
+      \field{title}{A Model-Based Flood Hazard Mapping on the Southern Slope of Himalaya}
+      \field{volume}{12}
+      \field{year}{2020}
+      \field{pages}{540}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/w12020540
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2073-4441/12/2/540
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2073-4441/12/2/540
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

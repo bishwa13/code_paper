@@ -10,7 +10,7 @@ Two paper from the single thesis.
 
 ---
 
-# Available results
+### Available results
 
 ## Demography and Income details
 
@@ -33,6 +33,3 @@ Two paper from the single thesis.
 - Land and Irrigation
 - Land use change analysis
 - Irrigation and yield
-
-
-
