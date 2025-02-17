@@ -1,0 +1,21 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[280] biber-MSWIN64:340> INFO - === 
+[365] Biber.pm:419> INFO - Reading 'main.bcf'
+[679] Biber.pm:979> INFO - Found 7 citekeys in bib section 0
+[727] Biber.pm:4419> INFO - Processing section 0
+[751] Biber.pm:4610> INFO - Looking for bibtex file 'reference_cc_bibtex.bib' for section 0
+[1011] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2256] bibtex.pm:1519> INFO - Found BibTeX data source 'reference_cc_bibtex.bib'
+[2509] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2509] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2511] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[2512] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2561] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2561] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2561] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[2561] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2593] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[2634] bbl.pm:763> INFO - Output to main.bbl
+[2634] Biber.pm:131> WARN - Duplicate entry key: 'mulunehImpactClimateChange2021' in file 'reference_cc_bibtex.bib', skipping ...
+[2635] Biber.pm:133> INFO - WARNINGS: 1
