@@ -100,6 +100,75 @@
       \verb https://www.mdpi.com/2073-4441/12/2/540
       \endverb
     \endentry
+    \entry{budhathokiAssessingFarmersPreparedness2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3f21634b2bb23a6ed535e67a3aa96b5c}{%
+           family={Budhathoki},
+           familyi={B\bibinitperiod},
+           given={Nanda\bibnamedelima Kaji},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=113982c86fcccf563afcd30449c961df}{%
+           family={Paton},
+           familyi={P\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3814744a213018e13397b8d44dc5a3f}{%
+           family={A.\bibnamedelimi Lassa},
+           familyi={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Jonatan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b9b2ad2e2df1321a920d7137a3e0470}{%
+           family={Zander},
+           familyi={Z\bibinitperiod},
+           given={Kerstin\bibnamedelima K.},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bdc2fd89f13b6ed56663eace49418374}
+      \strng{fullhash}{eb79fd9739c280d411319a52aea7acad}
+      \strng{bibnamehash}{eb79fd9739c280d411319a52aea7acad}
+      \strng{authorbibnamehash}{eb79fd9739c280d411319a52aea7acad}
+      \strng{authornamehash}{bdc2fd89f13b6ed56663eace49418374}
+      \strng{authorfullhash}{eb79fd9739c280d411319a52aea7acad}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Climate change-related natural hazards severely affect farmers’ livelihoods. This study explores how farmers in the vulnerable western lowlands of Nepal are affected by floods, heatwaves, and cold spells, how they adapt, and the factors influencing their risk perception and intended adaptation behaviour. Data were collected through a survey of 350 randomly selected farming households from the Banke and Bardiya districts in the Tarai region. Farmers identified environmental risks as the most severe risks to their agricultural production, and their main adaptation strategies, including changes to planting dates and crop varieties and increasing the use of fertilisers and pesticides. Following protection motivation theory and using structural equation modelling, we found that farmers’ risk perception and adaptation behaviour in response to three specific hazards (floods, heatwaves, and cold spells). The flood impact model showed that self-efficacy, perceived responsibility, response cost, trust, and concern partially influenced flood risk perception. These, in turn, mediated affected farmers’ intended flood adaptation strategies. Flood damage experience thoroughly explained flood adaptation behaviour and was mediated by flood risk perception. Risk perception of flood has the significant mediation effects in the flood model, but heatwave and cold spell risk perception did not have any mediation effect in neither the heatwave nor the cold spells models. We attribute this discrepancy to the fact that slow and rapid onset hazards are perceived differently. These problems were compounded by farmers also lacking both awareness and the requisite knowledge of how to deal with the impacts of the climate change related slow-onset hazards that will become more frequent as climate change continues, unabated. These differences will need to be accommodated in sus­ tainable was in community awareness and disaster management programs to increase adaptive and resilient community capacity for the future.}
+      \field{issn}{22124209}
+      \field{journaltitle}{International Journal of Disaster Risk Reduction}
+      \field{month}{10}
+      \field{title}{Assessing farmers’ preparedness to cope with the impacts of multiple climate change-related hazards in the {Terai} lowlands of {Nepal}}
+      \field{urlday}{26}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{volume}{49}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{101656}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ijdrr.2020.101656
+      \endverb
+      \verb{file}
+      \verb most importnat.pdf:G\:\\fresh_start\\ag_banke\\01paper\\start_final\\received\\all references used\\all references used\\most importnat.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2212420920300534
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2212420920300534
+      \endverb
+    \endentry
     \entry{gyawaliOverviewAgricultureNepal2021}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a67246c12097dfbffa2879d362758822}{%
@@ -548,6 +617,75 @@
       \verb https://www.mdpi.com/2073-4441/12/2/540
       \endverb
     \endentry
+    \entry{budhathokiAssessingFarmersPreparedness2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3f21634b2bb23a6ed535e67a3aa96b5c}{%
+           family={Budhathoki},
+           familyi={B\bibinitperiod},
+           given={Nanda\bibnamedelima Kaji},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=113982c86fcccf563afcd30449c961df}{%
+           family={Paton},
+           familyi={P\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3814744a213018e13397b8d44dc5a3f}{%
+           family={A.\bibnamedelimi Lassa},
+           familyi={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Jonatan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b9b2ad2e2df1321a920d7137a3e0470}{%
+           family={Zander},
+           familyi={Z\bibinitperiod},
+           given={Kerstin\bibnamedelima K.},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{bdc2fd89f13b6ed56663eace49418374}
+      \strng{fullhash}{eb79fd9739c280d411319a52aea7acad}
+      \strng{bibnamehash}{eb79fd9739c280d411319a52aea7acad}
+      \strng{authorbibnamehash}{eb79fd9739c280d411319a52aea7acad}
+      \strng{authornamehash}{bdc2fd89f13b6ed56663eace49418374}
+      \strng{authorfullhash}{eb79fd9739c280d411319a52aea7acad}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Climate change-related natural hazards severely affect farmers’ livelihoods. This study explores how farmers in the vulnerable western lowlands of Nepal are affected by floods, heatwaves, and cold spells, how they adapt, and the factors influencing their risk perception and intended adaptation behaviour. Data were collected through a survey of 350 randomly selected farming households from the Banke and Bardiya districts in the Tarai region. Farmers identified environmental risks as the most severe risks to their agricultural production, and their main adaptation strategies, including changes to planting dates and crop varieties and increasing the use of fertilisers and pesticides. Following protection motivation theory and using structural equation modelling, we found that farmers’ risk perception and adaptation behaviour in response to three specific hazards (floods, heatwaves, and cold spells). The flood impact model showed that self-efficacy, perceived responsibility, response cost, trust, and concern partially influenced flood risk perception. These, in turn, mediated affected farmers’ intended flood adaptation strategies. Flood damage experience thoroughly explained flood adaptation behaviour and was mediated by flood risk perception. Risk perception of flood has the significant mediation effects in the flood model, but heatwave and cold spell risk perception did not have any mediation effect in neither the heatwave nor the cold spells models. We attribute this discrepancy to the fact that slow and rapid onset hazards are perceived differently. These problems were compounded by farmers also lacking both awareness and the requisite knowledge of how to deal with the impacts of the climate change related slow-onset hazards that will become more frequent as climate change continues, unabated. These differences will need to be accommodated in sus­ tainable was in community awareness and disaster management programs to increase adaptive and resilient community capacity for the future.}
+      \field{issn}{22124209}
+      \field{journaltitle}{International Journal of Disaster Risk Reduction}
+      \field{month}{10}
+      \field{title}{Assessing farmers’ preparedness to cope with the impacts of multiple climate change-related hazards in the {Terai} lowlands of {Nepal}}
+      \field{urlday}{26}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{volume}{49}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{101656}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ijdrr.2020.101656
+      \endverb
+      \verb{file}
+      \verb most importnat.pdf:G\:\\fresh_start\\ag_banke\\01paper\\start_final\\received\\all references used\\all references used\\most importnat.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2212420920300534
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2212420920300534
+      \endverb
+    \endentry
     \entry{gyawaliOverviewAgricultureNepal2021}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a67246c12097dfbffa2879d362758822}{%
@@ -914,6 +1052,9 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{dahalClimateChangeAdaptation2010}
+  \missing{karnClimateChangeImpacts2014}
+  \missing{maxClimateChangeImpacts2023}
 \endrefsection
 \endinput
 

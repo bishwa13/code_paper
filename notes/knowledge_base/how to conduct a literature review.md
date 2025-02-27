@@ -8,7 +8,7 @@ When you are starting a new research project:
     3. How you are going to do this research?
     4. What has already been done? (This is why literature review is done.)
 
-What is Literature review?
+Why Literature review?
 
     A literature review serves as the foundation for new research by critically analyzing existing studies in a specific field. It involves identifying research gaps, highlighting inconsistencies, evaluating contributions, summarizing key findings, and synthesizing relevant studies to provide context for the research.
 
@@ -180,7 +180,7 @@ Steps of Literature Review
     ✔ Research Gaps Identified – Areas needing further investigation.
 
     ✔ Theories & Frameworks Used – Conceptual frameworks guiding the study.
-    
+
     ✔ Implications for Your Research – How it informs your study.
 
     💡 Example Extraction Table:

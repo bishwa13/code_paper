@@ -12,11 +12,16 @@ NID = 846-461-310-3
 NID or notorized citizenship
 
 ---
+Eenfinitee Horizons (ईन्फिनिटि होराइजन्स्)
 
-Company name  Eenfinitee Horizons (ईन्फिनिटि होराइजन्स्)
+Drafted
 Company Type:
 
 Private >> Sole Ownership
+
+Application Number: 81/82-19-100640756
+Company name  Eenfinitee Horizons (ईन्फिनिटि होराइजन्स्)
+Company Type: Private >> Sole Ownership
 
 | NISC Code | NISC Objective (English)                                 | NISC Objective (Nepali)                     |
 |-----------|---------------------------------------------------------|---------------------------------------------|
@@ -43,3 +48,12 @@ Private >> Sole Ownership
 | 7912      | Tour operator activities                              | भ्रमण सञ्चालन गतिविधिहरू                  |
 | 8130      | Landscape care and maintenance services               | भू-दृश्य हेरचाह र मर्मत सेवाहरू           |
 | 8550      | Education support activities                          | शिक्षा सहायता गतिविधिहरू                 |
+
+Company address
+
+![Company address](image.png)
+
+Citizenship
+
+![Citizenship1](img5-min.jpg)
+![citizenship2](img11-min.jpg)
