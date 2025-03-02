@@ -100,6 +100,77 @@
       \verb https://www.mdpi.com/2073-4441/12/2/540
       \endverb
     \endentry
+    \entry{Banerjee_stat_techniques_2023}{inbook}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=a47d0a2bab7320776a364b247c86eea0}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Rahul},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96f59c956f984f5dfe88315e99b0952e}{%
+           family={Juneja},
+           familyi={J\bibinitperiod},
+           given={Bharti},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13f402b5733168704c562292cfa8d914}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Pankaj},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=133b551850be7fcc6c803efc224d6cbb}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={Varun},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de5b5bf65ba66517f9b70b1443d2102d}{%
+           family={ankita},
+           familyi={a\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8c2f8f27595d71178a57338b50b55088}{%
+           family={Kataria},
+           familyi={K\bibinitperiod},
+           given={Suraj},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14fdc0edafba55ff89afdcaf7abc83e7}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Bulbul},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b67ffc0bb85bcff7e19ae8286f2dbe9}{%
+           family={Varshney},
+           familyi={V\bibinitperiod},
+           given={Nitin},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{698f3837d3ecf6233de75efc69096508}
+      \strng{fullhash}{ed25e73acb638540e5e572da46b36470}
+      \strng{bibnamehash}{ed25e73acb638540e5e572da46b36470}
+      \strng{authorbibnamehash}{ed25e73acb638540e5e572da46b36470}
+      \strng{authornamehash}{698f3837d3ecf6233de75efc69096508}
+      \strng{authorfullhash}{ed25e73acb638540e5e572da46b36470}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-81-19761-21-0}
+      \field{month}{12}
+      \field{title}{An Overview of Statistical Techniques for Analysis of Data in Agricultural Research}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.9734/bpi/eias/v8/6853C
+      \endverb
+    \endentry
     \entry{budhathokiAssessingFarmersPreparedness2020}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=3f21634b2bb23a6ed535e67a3aa96b5c}{%
@@ -617,6 +688,77 @@
       \verb https://www.mdpi.com/2073-4441/12/2/540
       \endverb
     \endentry
+    \entry{Banerjee_stat_techniques_2023}{inbook}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=a47d0a2bab7320776a364b247c86eea0}{%
+           family={Banerjee},
+           familyi={B\bibinitperiod},
+           given={Rahul},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96f59c956f984f5dfe88315e99b0952e}{%
+           family={Juneja},
+           familyi={J\bibinitperiod},
+           given={Bharti},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13f402b5733168704c562292cfa8d914}{%
+           family={Das},
+           familyi={D\bibinitperiod},
+           given={Pankaj},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=133b551850be7fcc6c803efc224d6cbb}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={Varun},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de5b5bf65ba66517f9b70b1443d2102d}{%
+           family={ankita},
+           familyi={a\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8c2f8f27595d71178a57338b50b55088}{%
+           family={Kataria},
+           familyi={K\bibinitperiod},
+           given={Suraj},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14fdc0edafba55ff89afdcaf7abc83e7}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Bulbul},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b67ffc0bb85bcff7e19ae8286f2dbe9}{%
+           family={Varshney},
+           familyi={V\bibinitperiod},
+           given={Nitin},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{698f3837d3ecf6233de75efc69096508}
+      \strng{fullhash}{ed25e73acb638540e5e572da46b36470}
+      \strng{bibnamehash}{ed25e73acb638540e5e572da46b36470}
+      \strng{authorbibnamehash}{ed25e73acb638540e5e572da46b36470}
+      \strng{authornamehash}{698f3837d3ecf6233de75efc69096508}
+      \strng{authorfullhash}{ed25e73acb638540e5e572da46b36470}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-81-19761-21-0}
+      \field{month}{12}
+      \field{title}{An Overview of Statistical Techniques for Analysis of Data in Agricultural Research}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.9734/bpi/eias/v8/6853C
+      \endverb
+    \endentry
     \entry{budhathokiAssessingFarmersPreparedness2020}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=3f21634b2bb23a6ed535e67a3aa96b5c}{%
@@ -1052,9 +1194,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{dahalClimateChangeAdaptation2010}
-  \missing{karnClimateChangeImpacts2014}
-  \missing{maxClimateChangeImpacts2023}
 \endrefsection
 \endinput
 
