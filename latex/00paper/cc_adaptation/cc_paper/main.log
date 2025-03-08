@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  2 MAR 2025 21:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  8 MAR 2025 22:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -189,6 +189,10 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count282
 \@lastruleclass=\count283
 \@thisrulewidth=\dimen180
+) (c:/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
 ) (c:/texlive/2024/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
  (c:/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
@@ -584,7 +588,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen198
 \Gm@layouthoffset=\dimen199
 \Gm@layoutvoffset=\dimen256
-\Gm@dimlist=\toks25
+\Gm@dimlist=\toks27
 ) (c:/texlive/2024/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
 \TX@col@width=\dimen257
@@ -593,13 +597,13 @@ Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
 \TX@target=\dimen260
 \TX@delta=\dimen261
 \TX@cols=\count438
-\TX@ftn=\toks26
+\TX@ftn=\toks28
 ) (c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count439
-\float@exts=\toks27
+\float@exts=\toks29
 \float@box=\box58
-\@float@everytoks=\toks28
+\@float@everytoks=\toks30
 \@floatcapt=\box59
 ) (c:/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
@@ -613,43 +617,54 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@cntb=\count442
 \multirow@dima=\skip81
 \bigstrutjot=\dimen262
+) (c:/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box60
+\beforetitleunit=\skip82
+\aftertitleunit=\skip83
+\ttl@plus=\dimen263
+\ttl@minus=\dimen264
+\ttl@toksa=\toks31
+\titlewidth=\dimen265
+\titlewidthlast=\dimen266
+\titlewidthfirst=\dimen267
 )
 \@quotelevel=\count443
 \@quotereset=\count444
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
  (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count445
-\scratchdimen=\dimen263
-\scratchbox=\box60
+\scratchdimen=\dimen268
+\scratchbox=\box61
 \nofMPsegments=\count446
 \nofMParguments=\count447
-\everyMPshowfont=\toks29
+\everyMPshowfont=\toks32
 \MPscratchCnt=\count448
-\MPscratchDim=\dimen264
+\MPscratchDim=\dimen269
 \MPnumerator=\count449
 \makeMPintoPDFobject=\count450
-\everyMPtoPDFconversion=\toks30
+\everyMPtoPDFconversion=\toks33
 ) (c:/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -686,13 +701,13 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 45.
-Package biblatex Info: Reference segment=0 on input line 45.
+Package biblatex Info: Reference section=0 on input line 47.
+Package biblatex Info: Reference segment=0 on input line 47.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 45.
+Package hyperref Info: Link coloring OFF on input line 47.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -732,52 +747,75 @@ Package hyperref Info: Link coloring OFF on input line 45.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
  (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (./sections/abstract.tex) (./sections/introduction.tex) [1
+) (./sections/abstract.tex [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./sections/materials_method.tex
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) (./sections/introduction.tex [2] [3]) (./sections/materials_method.tex
+<images/study_area_map.png, id=127, 845.40843pt x 597.73312pt>
+File: images/study_area_map.png Graphic file (type png)
+<use images/study_area_map.png>
+Package pdftex.def Info: images/study_area_map.png  used on input line 10.
+(pdftex.def)             Requested size: 376.42575pt x 266.14088pt.
+ [4] [5 <./images/study_area_map.png>]
 
-LaTeX Warning: Reference `fig:study_area_map' on page 3 undefined on input line 5.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3] [4] [5] [6]
-Overfull \hbox (2.68407pt too wide) in paragraph at lines 130--131
- []\OT1/cmr/bx/n/12 T-test[] \OT1/cmr/m/n/12 A two-sample t-test was con-ducted to com-pare av-er-age crop yields (kg/ha)
+[6]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7] [8]
+Overfull \hbox (2.68407pt too wide) in paragraph at lines 136--138
+[] \OT1/cmr/bx/n/12 T-test \OT1/cmr/m/n/12 A two-sample t-test was con-ducted to com-pare av-er-age crop yields (kg/ha)
  []
 
-[7] [8]) (./sections/results_discussion.tex
-<images/trend_avg_temp.png, id=152, 440.3652pt x 361.8318pt>
+[9]) (./sections/results_discussion.tex
+<images/trend_avg_temp.png, id=166, 440.3652pt x 361.8318pt>
 File: images/trend_avg_temp.png Graphic file (type png)
 <use images/trend_avg_temp.png>
 Package pdftex.def Info: images/trend_avg_temp.png  used on input line 8.
 (pdftex.def)             Requested size: 376.42575pt x 309.30867pt.
- [9 <./images/trend_avg_temp.png>]
-<images/trend_avg_sunshine_hour.png, id=162, 413.8662pt x 245.718pt>
+ [10] [11 <./images/trend_avg_temp.png>]
+<images/trend_avg_sunshine_hour.png, id=186, 413.8662pt x 245.718pt>
 File: images/trend_avg_sunshine_hour.png Graphic file (type png)
 <use images/trend_avg_sunshine_hour.png>
-Package pdftex.def Info: images/trend_avg_sunshine_hour.png  used on input line 17.
+Package pdftex.def Info: images/trend_avg_sunshine_hour.png  used on input line 18.
 (pdftex.def)             Requested size: 376.42575pt x 223.49873pt.
-<images/trend_accumulated_rainfall.png, id=165, 410.0118pt x 234.1548pt>
+<images/trend_accumulated_rainfall.png, id=189, 410.0118pt x 234.1548pt>
 File: images/trend_accumulated_rainfall.png Graphic file (type png)
 <use images/trend_accumulated_rainfall.png>
-Package pdftex.def Info: images/trend_accumulated_rainfall.png  used on input line 27.
+Package pdftex.def Info: images/trend_accumulated_rainfall.png  used on input line 28.
 (pdftex.def)             Requested size: 376.42575pt x 214.97841pt.
- [10 <./images/trend_avg_sunshine_hour.png>] [11 <./images/trend_accumulated_rainfall.png>] [12] [13] [14]
-Overfull \hbox (18.9261pt too wide) in paragraph at lines 255--280
- [][] 
+ [12 <./images/trend_avg_sunshine_hour.png>] [13 <./images/trend_accumulated_rainfall.png>] [14]
+Overfull \hbox (83.98044pt too wide) in paragraph at lines 103--106
+[]$[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 ^^L[] \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 ^^L[]\OT1/cmr/m/n/12 ([]) + \OML/cmm/m/it/12 ^^L[]\OT1/cmr/m/n/12 ([]) + \OML/cmm/m/it/12 ^^L[]\OT1/cmr/m/n/12 ([]) +
  []
 
 
-Overfull \hbox (2.84314pt too wide) in paragraph at lines 291--300
+LaTeX Warning: Reference `reg_coef_climate_yield' on page 15 undefined on input line 115.
+
+[15] [16] [17]
+Overfull \hbox (15.53441pt too wide) in paragraph at lines 164--165
+\OT1/cmr/m/n/12 re-liance on single-crop sys-tems may in-crease vul-ner-a-bil-ity to cli-mate shocks. Strength-
+ []
+
+[18]
+Overfull \hbox (18.9261pt too wide) in paragraph at lines 254--279
  [][] 
  []
 
-[15] [16] [17]) (./sections/conclusion.tex) [18] [19] (./main.aux)
+[19]
+Overfull \hbox (2.84314pt too wide) in paragraph at lines 290--299
+ [][] 
+ []
+
+[20]) (./sections/conclusion.tex) [21] [22] [23] [24] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -787,24 +825,24 @@ L3 programming layer <2024-02-20>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4C16038C4F34992836563C81C780BE13;2946.
+(rerunfilecheck)             Checksum: 157190B96731BAEBE686C39AF2C1362B;3190.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21075 strings out of 474115
- 370333 string characters out of 5747696
- 1947190 words of memory out of 5000000
- 43099 multiletter control sequences out of 15000+600000
- 568634 words of font info for 76 fonts, out of 8000000 for 9000
+ 21537 strings out of 474115
+ 380786 string characters out of 5747696
+ 1943190 words of memory out of 5000000
+ 43543 multiletter control sequences out of 15000+600000
+ 568026 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,17n,117p,2997b,5180s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (19 pages, 295909 bytes).
+ 86i,17n,117p,2993b,5180s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (24 pages, 557683 bytes).
 PDF statistics:
- 328 PDF objects out of 1000 (max. 8388607)
- 268 compressed objects within 3 object streams
- 72 named destinations out of 1000 (max. 500000)
- 152 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 410 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
+ 84 named destinations out of 1000 (max. 500000)
+ 173 words of extra memory for PDF output out of 10000 (max. 10000000)
 

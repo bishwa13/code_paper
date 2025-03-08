@@ -6,7 +6,7 @@
 \usepackage{amssymb}
 
 \usepackage{booktabs}
-
+\usepackage[utf8]{inputenc}
 
 \usepackage[backend=biber, style=apa]{biblatex}
 
@@ -23,17 +23,19 @@
 \usepackage{float}
 \usepackage{subcaption}
 \usepackage{multirow}
+\usepackage{titlesec}
+\titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{\MakeUppercase}
 
 \addbibresource{reference_cc_bibtex.bib} 
 
 % Title and author information
-\title{Climate Adaptation Strategies for Sustainable Agriculture: A Case Study of Janaki Rural Municipality, Banke, Nepal }
+\title{Assessing the Impact of Climate Variability on Agricultural Productivity and Food Security in Banke, Nepal: Insights from 1990--2020}
 
 \author[1]{Rasila Gautam*}
-\author[1]{Hari Prasad Devkota}
+\author[1]{Hari Dahal}
 \author[1]{Bishwa Prakash Puri}
 \author[1]{Bhupendra Devkota}
-
+\author[1]{Tirtha Raj Adhikari}
 
 \affil[1]{College of Applied Sciences-Nepal, Tribhuvan University, Kathmandu, Nepal}
 
@@ -44,9 +46,10 @@
 
 \begin{document}
 \maketitle
-\begin{abstract}
+
+\section*{Abstract}
 \input{sections/abstract}
-\end{abstract}
+
 
 \section{Introduction}
 \input{sections/introduction}
@@ -59,9 +62,9 @@
 
 
 
-\section{Summary}
+\section{Conclusion}
 \input{sections/conclusion}
 
-\section*{References}
+\section*{}
 \printbibliography
 \end{document}

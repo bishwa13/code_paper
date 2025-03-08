@@ -1,0 +1,22 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'paper_notes.blg'
+[256] biber-MSWIN64:340> INFO - === 
+[324] Biber.pm:419> INFO - Reading 'paper_notes.bcf'
+[618] Biber.pm:979> INFO - Found 18 citekeys in bib section 0
+[661] Biber.pm:4419> INFO - Processing section 0
+[693] Biber.pm:4610> INFO - Looking for bibtex file 'paper_notes.bib' for section 0
+[840] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1611] bibtex.pm:1519> INFO - Found BibTeX data source 'paper_notes.bib'
+[2088] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2088] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2089] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[2089] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2311] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2312] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2313] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[2313] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2484] bbl.pm:660> INFO - Writing 'paper_notes.bbl' with encoding 'UTF-8'
+[2592] bbl.pm:763> INFO - Output to paper_notes.bbl
+[2593] Biber.pm:131> WARN - ISBN '978-4-431-54342-8 978-4-431-54343-5' in entry 'maharjanEffectClimateVariables2013' is invalid - run biber with '--validate_datamodel' for details.
+[2593] Biber.pm:131> WARN - legacy year field '2016-010-10' in entry 'thapa-parajuliImpactClimateChange2016' is not an integer - this will probably not sort properly.
+[2593] Biber.pm:133> INFO - WARNINGS: 2

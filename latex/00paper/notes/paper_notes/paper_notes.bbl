@@ -19,6 +19,135 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
+    \entry{bettsChangesClimateExtremes2018}{article}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=0652f57bef7e73502134ba0a9490674a}{%
+           family={Betts},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a420bbead14a5c14ffb3d31afd0c493}{%
+           family={Alfieri},
+           familyi={A\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc84533a0489ff95b8e281fa12c4cbb8}{%
+           family={Bradshaw},
+           familyi={B\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f33b1d984ec7fd2f497268424b98ca3}{%
+           family={Caesar},
+           familyi={C\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68ae415ad4f686776e98791a90014bfb}{%
+           family={Feyen},
+           familyi={F\bibinitperiod},
+           given={Luc},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d17667751a128331cb7b557da4ad2068}{%
+           family={Friedlingstein},
+           familyi={F\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1529c6260e359d9881098cab0dc1ea8}{%
+           family={Gohar},
+           familyi={G\bibinitperiod},
+           given={Laila},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1bff71944e75b981568e63b7bcc5dc70}{%
+           family={Koutroulis},
+           familyi={K\bibinitperiod},
+           given={Aristeidis},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11389681bb3251d3bbb540296149e43d}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Kirsty},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfcffa40b064005006b34cdde7ceb2b8}{%
+           family={Morfopoulos},
+           familyi={M\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6827bfbde635c3d89840a63b585312bd}{%
+           family={Papadimitriou},
+           familyi={P\bibinitperiod},
+           given={Lamprini},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51026349118b83b53085919ed08708c1}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Katy\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52ed4556658d5eadd0d57ebbb79ddbb6}{%
+           family={Tsanis},
+           familyi={T\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4264fe55c8f5d0decccf1c407fe9f9c7}{%
+           family={Wyser},
+           familyi={W\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{63e758a5f36482a06caf61ed4f126da3}
+      \strng{fullhash}{72175607b7fca695c5ee33583b3bd140}
+      \strng{bibnamehash}{72175607b7fca695c5ee33583b3bd140}
+      \strng{authorbibnamehash}{72175607b7fca695c5ee33583b3bd140}
+      \strng{authornamehash}{63e758a5f36482a06caf61ed4f126da3}
+      \strng{authorfullhash}{72175607b7fca695c5ee33583b3bd140}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{issn}{1364-503X, 1471-2962}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences}
+      \field{month}{5}
+      \field{number}{2119}
+      \field{shortjournal}{Phil. Trans. R. Soc. A.}
+      \field{title}{Changes in Climate Extremes, Fresh Water Availability and Vulnerability to Food Insecurity Projected at 1.5{$^\circ$}{{C}} and 2{$^\circ$}{{C}} Global Warming with a Higher-Resolution Global Climate Model}
+      \field{urlday}{7}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{volume}{376}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{20160452}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rsta.2016.0452
+      \endverb
+      \verb{file}
+      \verb C:\Users\Administrator\Zotero\storage\F456BN8T\Betts et al. - 2018 - Changes in climate extremes, fresh water availability and vulnerability to food insecurity projected.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://royalsocietypublishing.org/doi/10.1098/rsta.2016.0452
+      \endverb
+      \verb{url}
+      \verb https://royalsocietypublishing.org/doi/10.1098/rsta.2016.0452
+      \endverb
+    \endentry
     \entry{bhattaraiImpactClimateChange2021}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c39df9f2ee22a671567be07e97ef65ec}{%
@@ -50,190 +179,6 @@
       \field{dateera}{ce}
       \verb{file}
       \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\impact-of-climate-change-in-the-agricultural-system-in-the-tropical-region-of-nepal.pdf
-      \endverb
-    \endentry
-    \entry{budhathokiAssessingFarmersPreparedness2020}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=3f21634b2bb23a6ed535e67a3aa96b5c}{%
-           family={Budhathoki},
-           familyi={B\bibinitperiod},
-           given={Nanda\bibnamedelima Kaji},
-           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=113982c86fcccf563afcd30449c961df}{%
-           family={Paton},
-           familyi={P\bibinitperiod},
-           given={Douglas},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f3814744a213018e13397b8d44dc5a3f}{%
-           family={A.\bibnamedelimi Lassa},
-           familyi={A\bibinitperiod\bibinitdelim L\bibinitperiod},
-           given={Jonatan},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8b9b2ad2e2df1321a920d7137a3e0470}{%
-           family={Zander},
-           familyi={Z\bibinitperiod},
-           given={Kerstin\bibnamedelima K.},
-           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{bdc2fd89f13b6ed56663eace49418374}
-      \strng{fullhash}{eb79fd9739c280d411319a52aea7acad}
-      \strng{bibnamehash}{eb79fd9739c280d411319a52aea7acad}
-      \strng{authorbibnamehash}{eb79fd9739c280d411319a52aea7acad}
-      \strng{authornamehash}{bdc2fd89f13b6ed56663eace49418374}
-      \strng{authorfullhash}{eb79fd9739c280d411319a52aea7acad}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Climate change-related natural hazards severely affect farmers' livelihoods. This study explores how farmers in the vulnerable western lowlands of Nepal are affected by floods, heatwaves, and cold spells, how they adapt, and the factors influencing their risk perception and intended adaptation behaviour. Data were collected through a survey of 350 randomly selected farming households from the Banke and Bardiya districts in the Tarai region. Farmers identified environmental risks as the most severe risks to their agricultural production, and their main adaptation strategies, including changes to planting dates and crop varieties and increasing the use of fertilisers and pesticides. Following protection motivation theory and using structural equation modelling, we found that farmers' risk perception and adaptation behaviour in response to three specific hazards (floods, heatwaves, and cold spells). The flood impact model showed that self-efficacy, perceived responsibility, response cost, trust, and concern partially influenced flood risk perception. These, in turn, mediated affected farmers' intended flood adaptation strategies. Flood damage experience thoroughly explained flood adaptation behaviour and was mediated by flood risk perception. Risk perception of flood has the significant mediation effects in the flood model, but heatwave and cold spell risk perception did not have any mediation effect in neither the heatwave nor the cold spells models. We attribute this discrepancy to the fact that slow and rapid onset hazards are perceived differently. These problems were compounded by farmers also lacking both awareness and the requisite knowledge of how to deal with the impacts of the climate change related slow-onset hazards that will become more frequent as climate change continues, unabated. These differences will need to be accommodated in sus\- tainable was in community awareness and disaster management programs to increase adaptive and resilient community capacity for the future.}
-      \field{issn}{22124209}
-      \field{journaltitle}{International Journal of Disaster Risk Reduction}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{shortjournal}{International Journal of Disaster Risk Reduction}
-      \field{title}{Assessing Farmers' Preparedness to Cope with the Impacts of Multiple Climate Change-Related Hazards in the {{Terai}} Lowlands of {{Nepal}}}
-      \field{urlday}{26}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{volume}{49}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{101656}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/j.ijdrr.2020.101656
-      \endverb
-      \verb{file}
-      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\most importnat.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S2212420920300534
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S2212420920300534
-      \endverb
-    \endentry
-    \entry{dahalNutrientManagementSustainability2021}{book}{}
-      \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=93ee323fd93386c2099b38d896b78c0d}{%
-           family={Dahal},
-           familyi={D\bibinitperiod},
-           given={Hari},
-           giveni={H\bibinitperiod},
-           givenun=1}}%
-      }
-      \list{publisher}{1}{%
-        {Hari Dahal}%
-      }
-      \strng{namehash}{93ee323fd93386c2099b38d896b78c0d}
-      \strng{fullhash}{93ee323fd93386c2099b38d896b78c0d}
-      \strng{bibnamehash}{93ee323fd93386c2099b38d896b78c0d}
-      \strng{authorbibnamehash}{93ee323fd93386c2099b38d896b78c0d}
-      \strng{authornamehash}{93ee323fd93386c2099b38d896b78c0d}
-      \strng{authorfullhash}{93ee323fd93386c2099b38d896b78c0d}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-9937-0-9098-8}
-      \field{title}{Nutrient {{Management}} and {{Sustainability}} of {{Agriculture}}}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb https://heritagebooks.com.np/product/research-perspective-on-nutrient-management-and-sustainability-of-agriculture/
-      \endverb
-      \verb{url}
-      \verb https://heritagebooks.com.np/product/research-perspective-on-nutrient-management-and-sustainability-of-agriculture/
-      \endverb
-    \endentry
-    \entry{factors_dahal_2021}{article}{}
-      \name{author}{9}{}{%
-        {{un=1,uniquepart=given,hash=7af76c27bf042d892b18836727c04133}{%
-           family={Dahal},
-           familyi={D\bibinitperiod},
-           given={N.},
-           giveni={N\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=c703e9f500851e5c5841d8f22c8006c9}{%
-           family={Xiong},
-           familyi={X\bibinitperiod},
-           given={Dong-hong},
-           giveni={D\bibinithyphendelim h\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7f151c92f8aee4bf90030abd967a2888}{%
-           family={Neupane},
-           familyi={N\bibinitperiod},
-           given={Nilhari},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9fb526c6a8dd22a51b39b42e19aac8a4}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Bao-jun},
-           giveni={B\bibinithyphendelim j\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8e8417d2f1f3da438b4a5a569b81e2ca}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Bin-tao},
-           giveni={B\bibinithyphendelim t\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ed40a89d2d9caff7f1efc16b6126179f}{%
-           family={Yuan},
-           familyi={Y\bibinitperiod},
-           given={Yong},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7e327329fb0e002a824b707b739c0279}{%
-           family={Fang},
-           familyi={F\bibinitperiod},
-           given={Yi-ping},
-           giveni={Y\bibinithyphendelim p\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=23c84552cfc3ca2d0e4a1d55f66eeb53}{%
-           family={Koirala},
-           familyi={K\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5fe9b9a7dc1962875486a06b43655b8f}{%
-           family={Rokaya},
-           familyi={R\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{2c694dab13aa147d9d39aa644d7b0705}
-      \strng{fullhash}{2095ab603f07d4d425d58e2caba80b3e}
-      \strng{bibnamehash}{2095ab603f07d4d425d58e2caba80b3e}
-      \strng{authorbibnamehash}{2095ab603f07d4d425d58e2caba80b3e}
-      \strng{authornamehash}{2c694dab13aa147d9d39aa644d7b0705}
-      \strng{authorfullhash}{2095ab603f07d4d425d58e2caba80b3e}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Agricultural Meteorology}
-      \field{title}{Factors Affecting Maize, Rice and Wheat Yields in the {{Koshi River Basin}}, {{Nepal}}}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \verb{doi}
-      \verb 10.2480/agrmet.d-20-00019
-      \endverb
-      \verb{file}
-      \verb C:\Users\Administrator\Zotero\storage\GY9SGKFM\Dahal et al. - 2021 - Factors affecting maize, rice and wheat yields in .pdf
       \endverb
     \endentry
     \entry{dawadiImpactClimateChange2022}{article}{}
@@ -373,12 +318,12 @@
            given={Pramod},
            giveni={P\bibinitperiod},
            givenun=0}}%
-        {{un=1,uniquepart=given,hash=529fca94c6446a81a7cd1811dd28f6a3}{%
+        {{un=0,uniquepart=base,hash=529fca94c6446a81a7cd1811dd28f6a3}{%
            family={Khanal},
            familyi={K\bibinitperiod},
            given={Saugat},
            giveni={S\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
       }
       \strng{namehash}{a23f6a494fb80242609c452cf7e72026}
       \strng{fullhash}{a23f6a494fb80242609c452cf7e72026}
@@ -393,7 +338,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{The Northern upland of Himalayan, southern plain lowland, with the hill in the arid, make Nepal a potential area for farming different crops. Agriculture in Nepal is largely based on subsistence farming for the majority of the population and can never be underestimated. Agricultural growth in Nepal has been low and highly vulnerable in recent decades. The farming system has changed, management practices have updated, modern technologies have been adopted, the budget allocation has changed, effective programs and strategies are launched, and many agricultural reformations are made. Yet, the pace of agricultural development has not caught the speed as expected. The production has increased, but not at an anticipated rate. Despite having outstanding production potential, farmers in the country are continually facing tremendous challenges. Technological constraints, resource constraints, and capital constraints are still major problems. Poverty, land degradation, low agricultural productivity, improper use of budget and subsidies, lack of agricultural inputs, poor governmental support, etc. have impeded agricultural development. The simultaneous increase in population on one side and reduction in cultivable land on the opposite side has been a challenge to cope up with for maintaining food security. In the long run, agriculture is a very important question for planners and everyone. The government and other organizations are trying to address the key challenges of agriculture in Nepal so that agricultural production in Nepal can sustain in the future.}
       \field{issn}{2518-2021}
       \field{journaltitle}{Fundamental and Applied Agriculture}
       \field{langid}{english}
@@ -422,205 +366,128 @@
       \verb https://ejmanager.com/fulltextpdf.php?mno=89753
       \endverb
     \endentry
-    \entry{kangClimateChangeImpacts2009}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=19fa2690ba75654bc782324b1bd6330a}{%
-           family={Kang},
-           familyi={K\bibinitperiod},
-           given={Yinhong},
-           giveni={Y\bibinitperiod},
+    \entry{habib-ur-rahmanImpactClimateChange2022}{article}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=66774e4592d0b2b18a44c1fbed10546c}{%
+           family={Habib-ur-Rahman},
+           familyi={H\bibinithyphendelim R\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=cef26addb21fb28a11e216d85e166735}{%
-           family={Khan},
-           familyi={K\bibinitperiod},
-           given={Shahbaz},
-           giveni={S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=93191ac2f9cd01c8d42b2050c49d5dfd}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Ashfaq},
+           giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=ffa7c1dcaf14e62214a7451659f40559}{%
-           family={Ma},
-           familyi={M\bibinitperiod},
-           given={Xiaoyi},
-           giveni={X\bibinitperiod},
+        {{un=0,uniquepart=base,hash=f1e6a9027ca50ae6da2e96e93fdc39b1}{%
+           family={Raza},
+           familyi={R\bibinitperiod},
+           given={Ahsan},
+           giveni={A\bibinitperiod},
            givenun=0}}%
-      }
-      \strng{namehash}{9925c3e8e21641ebc6540605ffebf8a4}
-      \strng{fullhash}{1da1ed4598fb39f5edd567ee1154f4f9}
-      \strng{bibnamehash}{1da1ed4598fb39f5edd567ee1154f4f9}
-      \strng{authorbibnamehash}{1da1ed4598fb39f5edd567ee1154f4f9}
-      \strng{authornamehash}{9925c3e8e21641ebc6540605ffebf8a4}
-      \strng{authorfullhash}{1da1ed4598fb39f5edd567ee1154f4f9}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{This paper provides a comprehensive review of literature related to the assessment of climate change impacts on crop productivity using climate, water and crop yield models. The existing studies present that climate change models with higher spatial resolution can be a way forward for future climate projections. Meanwhile, stochastic projections of more than one climate model are necessary for providing insights into model uncertainties as well as to develop risk management strategies. It is projected that water availability will increase in some parts of the world, which will have its own effect on water use efficiency and water allocation. Crop production can increase if irrigated areas are expanded or irrigation is intensified, but these may increase the rate of environmental degradation. Since climate change impacts on soil water balance will lead to changes of soil evaporation and plant transpiration, consequently, the crop growth period may shorten in the future impacting on water productivity. Crop yields affected by climate change are projected to be different in various areas, in some areas crop yields will increase, and for other areas it will decrease depending on the latitude of the area and irrigation application. Existing modelling results show that an increase in precipitation will increase crop yield, and what is more, crop yield is more sensitive to the precipitation than temperature. If water availability is reduced in the future, soils of high water holding capacity will be better to reduce the impact of drought while maintaining crop yield. With the temperature increasing and precipitation fluctuations, water availability and crop production are likely to decrease in the future. If the irrigated areas are expanded, the total crop production will increase; however, food and environmental quality may degrade.}
-      \field{issn}{10020071}
-      \field{journaltitle}{Progress in Natural Science}
-      \field{langid}{english}
-      \field{month}{12}
-      \field{number}{12}
-      \field{shortjournal}{Progress in Natural Science}
-      \field{title}{Climate Change Impacts on Crop Yield, Crop Water Productivity and Food Security -- {{A}} Review}
-      \field{urlday}{26}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{volume}{19}
-      \field{year}{2009}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{1665\bibrangedash 1674}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1016/j.pnsc.2009.08.001
-      \endverb
-      \verb{file}
-      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\1-s2.0-S1002007109002810-main.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S1002007109002810
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S1002007109002810
-      \endverb
-    \endentry
-    \entry{karkiStatusDriversFood2021}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=426a1f11f090a4185c7e76b1af854f47}{%
-           family={Karki},
-           familyi={K\bibinitperiod},
-           given={Sikha},
-           giveni={S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=934d3a3246f20100021df3ae0450fb0f}{%
+           family={Hasnain},
+           familyi={H\bibinitperiod},
+           given={Muhammad\bibnamedelima Usama},
+           giveni={M\bibinitperiod\bibinitdelim U\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c1753f7c095dc8de69c18d93cccca115}{%
-           family={Burton},
+        {{un=0,uniquepart=base,hash=21094a1d1bdbe48c9f863de98b390271}{%
+           family={Alharby},
+           familyi={A\bibinitperiod},
+           given={Hesham\bibnamedelima F.},
+           giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a46e2abb9ef41f451b862ec7b293111c}{%
+           family={Alzahrani},
+           familyi={A\bibinitperiod},
+           given={Yahya\bibnamedelima M.},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1e38aa811088fa5458f8d1e5ffc2fe9}{%
+           family={Bamagoos},
            familyi={B\bibinitperiod},
-           given={Paul},
-           giveni={P\bibinitperiod},
+           given={Atif\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7a76adea372e95eb9011547ac6d58c2}{%
-           family={Mackey},
+        {{un=0,uniquepart=base,hash=c12122a556362bc9ac13ee547a51c73a}{%
+           family={Hakeem},
+           familyi={H\bibinitperiod},
+           given={Khalid\bibnamedelima Rehman},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdfd3a3ef44078e90b3c2f1f8fdad2f9}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Saeed},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56d036c286872f866812ce78e876c2ec}{%
+           family={Nasim},
+           familyi={N\bibinitperiod},
+           given={Wajid},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a9bc95c000e3deb717b17de7ec1c452}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Shafaqat},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8aa502025a8c873f1e4eadd47f7354df}{%
+           family={Mansour},
            familyi={M\bibinitperiod},
-           given={Brendan},
-           giveni={B\bibinitperiod},
+           given={Fatma},
+           giveni={F\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=49a1efabfedfd4c35f8e9d123ecaac04}{%
-           family={Alston-Knox},
-           familyi={A\bibinithyphendelim K\bibinitperiod},
-           given={Clair},
-           giveni={C\bibinitperiod},
+        {{un=0,uniquepart=base,hash=ba681932f0acbbc28ef182e6f1cdd78c}{%
+           family={El\bibnamedelima Sabagh},
+           familyi={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Ayman},
+           giveni={A\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{60ca10e2a8847a8f2a35441dbb67cb77}
-      \strng{fullhash}{957a2e763dec62ea361ddd7c60dee42b}
-      \strng{bibnamehash}{957a2e763dec62ea361ddd7c60dee42b}
-      \strng{authorbibnamehash}{957a2e763dec62ea361ddd7c60dee42b}
-      \strng{authornamehash}{60ca10e2a8847a8f2a35441dbb67cb77}
-      \strng{authorfullhash}{957a2e763dec62ea361ddd7c60dee42b}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \strng{namehash}{fb6808eaf95a43fd734c690f06e058a1}
+      \strng{fullhash}{891f86a91509b77bf1b9db4dd98b9263}
+      \strng{bibnamehash}{891f86a91509b77bf1b9db4dd98b9263}
+      \strng{authorbibnamehash}{891f86a91509b77bf1b9db4dd98b9263}
+      \strng{authornamehash}{fb6808eaf95a43fd734c690f06e058a1}
+      \strng{authorfullhash}{891f86a91509b77bf1b9db4dd98b9263}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{1387-585X, 1573-2975}
-      \field{journaltitle}{Environment, Development and Sustainability}
+      \field{abstract}{Agricultural production is under threat due to climate change in food insecure regions, especially in Asian countries. Various climate-driven extremes, i.e., drought, heat waves, erratic and intense rainfall patterns, storms, floods, and emerging insect pests have adversely affected the livelihood of the farmers. Future climatic predictions showed a significant increase in temperature, and erratic rainfall with higher intensity while variability exists in climatic patterns for climate extremes prediction. For mid-century (2040--2069), it is projected that there will be a rise of 2.8{$^\circ$}C in maximum temperature and a 2.2{$^\circ$}C in minimum temperature in Pakistan. To respond to the adverse effects of climate change scenarios, there is a need to optimize the climate-smart and resilient agricultural practices and technology for sustainable productivity. Therefore, a case study was carried out to quantify climate change effects on rice and wheat crops and to develop adaptation strategies for the rice-wheat cropping system during the mid-century (2040--2069) as these two crops have significant contributions to food production. For the quantification of adverse impacts of climate change in farmer fields, a multidisciplinary approach consisted of five climate models (GCMs), two crop models (DSSAT and APSIM) and an economic model [Trade-off Analysis, Minimum Data Model Approach (TOAMD)] was used in this case study. DSSAT predicted that there would be a yield reduction of 15.2\% in rice and 14.1\% in wheat and APSIM showed that there would be a yield reduction of 17.2\% in rice and 12\% in wheat. Adaptation technology, by modification in crop management like sowing time and density, nitrogen, and irrigation application have the potential to enhance the overall productivity and profitability of the rice-wheat cropping system under climate change scenarios. Moreover, this paper reviews current literature regarding adverse climate change impacts on agricultural productivity, associated main issues, challenges, and opportunities for sustainable productivity of agriculture to ensure food security in Asia. Flowing opportunities such as altering sowing time and planting density of crops, crop rotation with legumes, agroforestry, mixed livestock systems, climate resilient plants, livestock and fish breeds, farming of monogastric livestock, early warning systems and decision support systems, carbon sequestration, climate, water, energy, and soil smart technologies, and promotion of biodiversity have the potential to reduce the negative effects of climate change.}
+      \field{day}{10}
+      \field{issn}{1664-462X}
+      \field{journaltitle}{Frontiers in Plant Science}
       \field{langid}{english}
       \field{month}{10}
-      \field{number}{10}
-      \field{shortjournal}{Environ Dev Sustain}
-      \field{title}{Status and Drivers of Food Insecurity and Adaptation Responses under a Changing Climate among Smallholder Farmers Households in {{Bagmati Province}}, {{Nepal}}}
-      \field{urlday}{8}
-      \field{urlmonth}{3}
-      \field{urlyear}{2025}
-      \field{volume}{23}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{14642\bibrangedash 14665}
-      \range{pages}{24}
-      \verb{doi}
-      \verb 10.1007/s10668-021-01262-x
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/10.1007/s10668-021-01262-x
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/10.1007/s10668-021-01262-x
-      \endverb
-    \endentry
-    \entry{khanalFactorsMotivatingFarmers2021}{article}{}
-      \name{author}{4}{}{%
-        {{un=1,uniquepart=given,hash=039a23671d9e1f7203f49f8372273237}{%
-           family={Khanal},
-           familyi={K\bibinitperiod},
-           given={Kapil},
-           giveni={K\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=594380a129e086c54a116b6d96131f08}{%
-           family={Adhikari},
-           familyi={A\bibinitperiod},
-           given={Kalika\bibnamedelima Bahadur},
-           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=28f28b59f9d10c9d98acc75990efa1ae}{%
-           family={Dhakal},
-           familyi={D\bibinitperiod},
-           given={Shiva\bibnamedelima Chandra},
-           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=18d887d2a601ac451fe7bb7169539d21}{%
-           family={Marahatta},
-           familyi={M\bibinitperiod},
-           given={Santosh},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{f120783323f37f5a9b1b36d06b86cb9d}
-      \strng{fullhash}{089e636b905cb0b71ebad299c98a3eac}
-      \strng{bibnamehash}{089e636b905cb0b71ebad299c98a3eac}
-      \strng{authorbibnamehash}{089e636b905cb0b71ebad299c98a3eac}
-      \strng{authornamehash}{f120783323f37f5a9b1b36d06b86cb9d}
-      \strng{authorfullhash}{089e636b905cb0b71ebad299c98a3eac}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The study analyzed the factors motivating the farmers for collective action for the management of the Shardikhola Puranchaur Irrigation System of the Kaski district of Nepal in 2019. A cross-sectional data of 184 farmers were collected using a simple random sampling method. A logit regression was used for data analysis. Age of the household head, years of schooling of the household head, presence of fine in monetary terms, number of farmers in a branch of the irrigation system positively motivated farmers in the involvement in the group for the management of the irrigation system. Motivation among farmers for collective action for management of the irrigation system was influenced by a combination of different factors. Therefore, the proper distribution of water at different branches, binding every level of users by law and transparency in the use of the income of the irrigation system must be maintained to achieve the desired results. Int. J. Soc. Sc. Manage. Vol. 8, Issue-1: 285-291}
-      \field{day}{25}
-      \field{issn}{2091-2986}
-      \field{journaltitle}{International Journal of Social Sciences and Management}
-      \field{langid}{english}
-      \field{month}{1}
-      \field{number}{1}
-      \field{shortjournal}{Int J Soc Sci Mgt}
-      \field{title}{Factors {{Motivating Farmers}} for {{Collective Action}} for {{Management}} of {{Irrigation System}} in {{Nepal}}}
+      \field{shortjournal}{Front. Plant Sci.}
+      \field{title}{Impact of Climate Change on Agricultural Production; {{Issues}}, Challenges, and Opportunities in {{Asia}}}
       \field{urlday}{26}
       \field{urlmonth}{1}
       \field{urlyear}{2025}
-      \field{volume}{8}
-      \field{year}{2021}
+      \field{volume}{13}
+      \field{year}{2022}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{285\bibrangedash 291}
-      \range{pages}{7}
+      \field{pages}{925548}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.3126/ijssm.v8i1.31748
+      \verb 10.3389/fpls.2022.925548
       \endverb
       \verb{file}
-      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\Factors_Motivating_Farmers_for_Collectiv.pdf
+      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\fpls-13-925548_ international asia.pdf
       \endverb
       \verb{urlraw}
-      \verb https://www.nepjol.info/index.php/IJSSM/article/view/31748
+      \verb https://www.frontiersin.org/articles/10.3389/fpls.2022.925548/full
       \endverb
       \verb{url}
-      \verb https://www.nepjol.info/index.php/IJSSM/article/view/31748
+      \verb https://www.frontiersin.org/articles/10.3389/fpls.2022.925548/full
       \endverb
     \endentry
     \entry{maharjanEffectClimateVariables2013}{inbook}{}
@@ -873,86 +740,6 @@
       \endverb
       \verb{url}
       \verb https://agricultureandfoodsecurity.biomedcentral.com/articles/10.1186/s40066-021-00318-5
-      \endverb
-    \endentry
-    \entry{nguyenduycanAssessingLivelihoodVulnerability2019}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=babe54dac3b1ed12b6e733b4b109093b}{%
-           family={{Nguyen Duy Can}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{babe54dac3b1ed12b6e733b4b109093b}
-      \strng{fullhash}{babe54dac3b1ed12b6e733b4b109093b}
-      \strng{bibnamehash}{babe54dac3b1ed12b6e733b4b109093b}
-      \strng{authorbibnamehash}{babe54dac3b1ed12b6e733b4b109093b}
-      \strng{authornamehash}{babe54dac3b1ed12b6e733b4b109093b}
-      \strng{authorfullhash}{babe54dac3b1ed12b6e733b4b109093b}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Both ST (Soc Trang) and KG (Kien Giang) are coastal provinces of the Mekong River Delta and are most vulnerable to saline intrusion and climate variability. In 2016, thousands of Hhs (Households) in these coastal provinces were at risk due to severe drought and saline intrusion. This study applied the LVI (Livelihood Vulnerability Index) to estimate saline intrusion vulnerability of those two provinces. Data on socio-demographics, livelihoods, health, social networks, physical, financial and natural resources, natural disasters and climate variability were collected from a survey of 298 Hhs. From these data, the LVI of each coastal province was calculated. Results show that the overall LVI of KG province is higher than that of ST province. The analysis revealed that this practical method can be applied in different circumstances of climate change and purposes.}
-      \field{day}{28}
-      \field{issn}{21625263, 21625271}
-      \field{journaltitle}{Journal of Environmental Science and Engineering B}
-      \field{langid}{english}
-      \field{month}{4}
-      \field{number}{4}
-      \field{shortjournal}{JESE-B}
-      \field{title}{Assessing {{Livelihood Vulnerability}} to {{Salinity Intrusion}} and {{Climate Variability A Case Study}} in {{Coastal Provinces}} of the {{Mekong River Delta}} of {{Vietnam}}}
-      \field{urlday}{26}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{volume}{8}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.17265/2162-5263/2019.04.004
-      \endverb
-      \verb{file}
-      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\5db25cb16cf51.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://www.davidpublisher.org/index.php/Home/Article/index?id=41656.html
-      \endverb
-      \verb{url}
-      \verb http://www.davidpublisher.org/index.php/Home/Article/index?id=41656.html
-      \endverb
-    \endentry
-    \entry{global_paudel_2015}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e57d3513ea235837ddf84efcabc5376e}{%
-           family={Paudel},
-           familyi={P\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{e57d3513ea235837ddf84efcabc5376e}
-      \strng{fullhash}{e57d3513ea235837ddf84efcabc5376e}
-      \strng{bibnamehash}{e57d3513ea235837ddf84efcabc5376e}
-      \strng{authorbibnamehash}{e57d3513ea235837ddf84efcabc5376e}
-      \strng{authornamehash}{e57d3513ea235837ddf84efcabc5376e}
-      \strng{authorfullhash}{e57d3513ea235837ddf84efcabc5376e}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Global Effect of Climate Change and Food Security with Respect to {{Nepal}}.}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \verb{doi}
-      \verb 10.3126/aej.v16i0.19836
-      \endverb
-      \verb{file}
-      \verb C:\Users\Administrator\Zotero\storage\5IQ2EIF7\Paudel - 2015 - Global effect of climate change and food security .pdf
       \endverb
     \endentry
     \entry{pokharauniversitynepalImpactClimateChange2020}{article}{}
@@ -1303,181 +1090,63 @@
       \verb https://www.mdpi.com/2306-5338/9/8/132
       \endverb
     \endentry
-    \entry{shresthaFarmersPerceptionClimate2022}{article}{}
-      \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=12474fe98c20e888ef8cda0411f0e0cb}{%
+    \entry{shresthaSOCIOECONOMICFACTORSAFFECTING2018b}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f971361319a2877332177cbd58fcb4dc}{%
            family={Shrestha},
            familyi={S\bibinitperiod},
-           given={Ramesh},
-           giveni={R\bibinitperiod},
+           given={Anish},
+           giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=63921f88758d9a7f9ccd641aa4325827}{%
-           family={Rakhal},
-           familyi={R\bibinitperiod},
-           given={Biplob},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=dc2c11a015f9c93a74e9be7ef1e94773}{%
-           family={Adhikari},
-           familyi={A\bibinitperiod},
-           given={Tirtha\bibnamedelima Raj},
-           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ac0d0c9dea55649b3b76a6d4bc38207f}{%
-           family={Ghimire},
-           familyi={G\bibinitperiod},
-           given={Ganesh\bibnamedelima Raj},
-           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=008ad19d3131a2401f74ab1cfdc020aa}{%
-           family={Talchabhadel},
-           familyi={T\bibinitperiod},
-           given={Rocky},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=69f4169d9758455339bb4f48e57726f3}{%
-           family={Tamang},
-           familyi={T\bibinitperiod},
-           given={Dinee},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=be70c85c947f9a97fa858c566fb37001}{%
-           family={Kc},
-           familyi={K\bibinitperiod},
-           given={Radhika},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6514ec3dba3236a2f7a28ed02d3a456e}{%
-           family={Sharma},
-           familyi={S\bibinitperiod},
-           given={Sanjib},
+        {{un=0,uniquepart=base,hash=369e5cf5c3685aad1e1d904a4c09349d}{%
+           family={Baral},
+           familyi={B\bibinitperiod},
+           given={Samata},
            giveni={S\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{4430843fa005a8bb65b6f39fe54d89a6}
-      \strng{fullhash}{cb9b456d95c83cb455c49d3cf46a5990}
-      \strng{bibnamehash}{cb9b456d95c83cb455c49d3cf46a5990}
-      \strng{authorbibnamehash}{cb9b456d95c83cb455c49d3cf46a5990}
-      \strng{authornamehash}{4430843fa005a8bb65b6f39fe54d89a6}
-      \strng{authorfullhash}{cb9b456d95c83cb455c49d3cf46a5990}
+      \strng{namehash}{51307892319b3a645945368da435bce8}
+      \strng{fullhash}{51307892319b3a645945368da435bce8}
+      \strng{bibnamehash}{51307892319b3a645945368da435bce8}
+      \strng{authorbibnamehash}{51307892319b3a645945368da435bce8}
+      \strng{authornamehash}{51307892319b3a645945368da435bce8}
+      \strng{authorfullhash}{51307892319b3a645945368da435bce8}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{28}
-      \field{issn}{2306-5338}
-      \field{journaltitle}{Hydrology}
-      \field{langid}{english}
-      \field{month}{11}
-      \field{number}{12}
-      \field{shortjournal}{Hydrology}
-      \field{title}{Farmers' {{Perception}} of {{Climate Change}} and {{Its Impacts}} on {{Agriculture}}}
-      \field{urlday}{8}
-      \field{urlmonth}{3}
-      \field{urlyear}{2025}
-      \field{volume}{9}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{212}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.3390/hydrology9120212
-      \endverb
-      \verb{file}
-      \verb C:\Users\Administrator\Zotero\storage\JMJZQ9VH\Shrestha et al. - 2022 - Farmers’ Perception of Climate Change and Its Impacts on Agriculture.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.mdpi.com/2306-5338/9/12/212
-      \endverb
-      \verb{url}
-      \verb https://www.mdpi.com/2306-5338/9/12/212
-      \endverb
-    \endentry
-    \entry{singhSocioeconomicStatusQualitative2022}{article}{}
-      \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=70ee04bf1b2733a972b63c7cdd889c7a}{%
-           family={Singh},
-           familyi={S\bibinitperiod},
-           given={Harpal},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6c2af7a6e0e7710668b7fcaf556514d1}{%
-           family={Verma},
-           familyi={V\bibinitperiod},
-           given={Shreya},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6b292bebdd1a79bcc37182bce90e619f}{%
-           family={Kamboj},
-           familyi={K\bibinitperiod},
-           given={Harsh},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e7d473428c67a0dd4bdfaccc9636a5d2}{%
-           family={Dutt},
-           familyi={D\bibinitperiod},
-           given={Mukul},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=abb4765e90c06e7b34087c6f42d8748d}{%
-           family={Dureja},
-           familyi={D\bibinitperiod},
-           given={Aastha},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6dd44c147ee0399be1b3a3b3e30b3a15}{%
-           family={Dalai},
-           familyi={D\bibinitperiod},
-           given={Akash},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{263b30bf54df682ff562bf8e87bb876f}
-      \strng{fullhash}{a6adc19e0c250c90fb7a6ed310c7e41c}
-      \strng{bibnamehash}{a6adc19e0c250c90fb7a6ed310c7e41c}
-      \strng{authorbibnamehash}{a6adc19e0c250c90fb7a6ed310c7e41c}
-      \strng{authornamehash}{263b30bf54df682ff562bf8e87bb876f}
-      \strng{authorfullhash}{a6adc19e0c250c90fb7a6ed310c7e41c}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The study is based mainly on primary data collected through socio-economic survey schedule from nearby villages of Kharar town falling under Municipal Corporation of Sahibzada Ajit Singh Nagar (Mohali) Punjab. Different components of socio-economic survey include socio-economic status soil agronomic practices cropping status and soil sampling to achieve the target of qualitative and quantitative data for Crop diversification, economic status and socio-economy of farmers from Punjab. There were various parameters related to cropping pattern, livestock production and other suitable parameters related to Agriculture farming for the livelihood status and economic viability. The study was conducted under Rural Agricultural Work Experience programme by the students of Agriculture from University Institute of Agriculture Sciences, Chandigarh University Gharuan (Mohali) Punjab. In this study more than two hundred farmers were involved with proper questionnaire and thorough interaction of students. Questionnaire contains the information about the Socio-economic profile, Crop diversity and economic viability of farmers. Socio-economic profile includes the farmer's family composition, academic qualifications, caste system, income per-cent, and land holding capacity and other important information, social participation, source of information about agricultural information, extension activities. Proper surveys were conducted in which the interaction was done with the farmers at their houses in the form of interview from the survey conducted it is concluded that the literacy rate of the different villages is about ninety per cent. Nearly forty five per cent (45\%) of the village farmers are medium farmers and 30\% of the farmer's marginal farmers and other farmers have leased the land for farming. About 90\% were present on social media platforms and 10\% are not present on social media. Besides that main focus was to identifying problem of the area and their solution. Therefore to sustain agriculture and solve some of the visible problems different campaigns rallies and farmers awareness cum training program were organised by our students in collaboration with Krishi Vigyan Kendra, Kurali (GADVASU, Ludhiana) and department of agriculture Punjab by presenting different models various extension activities and providing nourishment at University level. The farmers were addressed for their major crop issues and were made aware about various innovative ideas promoted by Students, KVKs, rural societies and other NGOs. Majority of the farmers are lacking knowledge about latest technologies, rain water harvesting techniques and application of bio-control. Adequate policies prioritization of agricultural components and utmost utilization of resources are prime need.}
+      \field{labeltitlesource}{shorttitle}
       \field{day}{1}
-      \field{issn}{23498242, 22777695}
-      \field{issue}{12S}
-      \field{journaltitle}{The Pharma Innovation}
+      \field{issn}{25215035, 25215043}
+      \field{journaltitle}{Earth Science Malaysia}
       \field{langid}{english}
-      \field{month}{12}
-      \field{shortjournal}{Pharma Innovation}
-      \field{title}{Socio-Economic Status for Qualitative and Quantitative Assessment towards Crop Diversification and Sustainable Agriculture under Different Components {{Punjab}}}
+      \field{month}{8}
+      \field{number}{2}
+      \field{shortjournal}{Earth sci. Malays.}
+      \field{shorttitle}{{{SOCIOECONOMIC FACTORS AFFECTING AWARENESS AND ADAPTION OF CLIMATE CHANGE}}}
+      \field{title}{{{SOCIOECONOMIC FACTORS AFFECTING AWARENESS AND ADAPTION OF CLIMATE CHANGE}}: {{A CASE STUDY OF BANKE DISTRICT NEPAL}}}
       \field{urlday}{26}
       \field{urlmonth}{1}
       \field{urlyear}{2025}
-      \field{volume}{11}
-      \field{year}{2022}
+      \field{volume}{2}
+      \field{year}{2018}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{1109\bibrangedash 1116}
-      \range{pages}{8}
+      \field{pages}{20\bibrangedash 24}
+      \range{pages}{5}
       \verb{doi}
-      \verb 10.22271/tpi.2022.v11.i12So.17671
+      \verb 10.26480/esmy.02.2018.20.24
       \endverb
       \verb{file}
-      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\Pest and diseases.pdf
+      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\Shrestha & Baral 2018 ESMY_CC perception_banke.pdf
       \endverb
       \verb{urlraw}
-      \verb https://www.thepharmajournal.com/special-issue?year=2022&vol=11&issue=12S&ArticleId=17671
+      \verb https://earthsciencesmalaysia.com/download/13571/
       \endverb
       \verb{url}
-      \verb https://www.thepharmajournal.com/special-issue?year=2022&vol=11&issue=12S&ArticleId=17671
+      \verb https://earthsciencesmalaysia.com/download/13571/
       \endverb
     \endentry
     \entry{thapa-parajuliImpactClimateChange2016}{article}{}
@@ -1534,10 +1203,189 @@
       \endverb
       \verb{url}
       \verb https://journalajaees.com/index.php/AJAEES/article/view/399
+      \endverb
+    \endentry
+    \entry{timilsinaAGRICULTURELANDUSE2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=70ecfe342f38f82202ddbb0fb6e15605}{%
+           family={Timilsina},
+           familyi={T\bibinitperiod},
+           given={R\bibnamedelima H},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8094612da758f7c05889786a7d8e0432}{%
+           family={Ojha},
+           familyi={O\bibinitperiod},
+           given={G\bibnamedelima P},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a86abb5b5ccf39a4a5919dc5768974e}{%
+           family={Nepali},
+           familyi={N\bibinitperiod},
+           given={P\bibnamedelima B},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dead1cd3d9b00c625fe4715244206a36}{%
+           family={Tiwari},
+           familyi={T\bibinitperiod},
+           given={U},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{053a657f42beb174f27b9c0090808315}
+      \strng{fullhash}{a0cf22c675063f4b7062e62e45febe53}
+      \strng{bibnamehash}{a0cf22c675063f4b7062e62e45febe53}
+      \strng{authorbibnamehash}{a0cf22c675063f4b7062e62e45febe53}
+      \strng{authornamehash}{053a657f42beb174f27b9c0090808315}
+      \strng{authorfullhash}{a0cf22c675063f4b7062e62e45febe53}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper reviews the agricultural land use pattern of Nepal based on published information. Agricultural land use in Nepal is closely related with the United Nations Sustainable Development Goal Two, which deals with the food security. To meet the increasing food demand, the ecological belts; Terai, and Hills should have a sustainable agricultural production system. However, land fragmentation is high in rapidly urbanizing Terai whereas increasing fallow land and landlord absenteeism is widely prevalent in Hills; both of these scenarios has brought changes in land use pattern for agricultural crops. Under this context, this paper attempts to discuss the changes in major crops grown areas in different time periods and their consequences along with factors responsible for such changes. Multiple factors such as- migration, real-estate business, and an increment in land use for off-farm activities are thought to be responsible for such change in the cropping area. On the other hand, increase in production of major crops has its low level of impact to the progress in food security which is rather related to the swelled purchasing capacity of food through remittance. To address the inefficient land use and low crop production issue, Government of Nepal has endorsed the Land Use Act, 2019 whereas its proper implementation at field level is quite important. Since, poor land management practices have significantly affected soil quality and crop production, urgent steps are needed to reverse the trends in land degradation while maintaining productivity of land through sustainable land management approaches.}
+      \field{langid}{english}
+      \field{title}{{{AGRICULTURE LAND USE IN NEPAL}}: {{PROSPECTS AND IMPACTS ON FOOD SECURITY}}}
+      \field{volume}{3}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\1._Agriculture_land_use in_Nepal_Prospects_and_impacts_on_food_security_-_R._H._Timilsina,_G._P._Ojha,_P._B._Nepali,_and_U._Tiwari.pdf
       \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
+    \entry{bettsChangesClimateExtremes2018}{article}{}
+      \name{author}{14}{}{%
+        {{un=0,uniquepart=base,hash=0652f57bef7e73502134ba0a9490674a}{%
+           family={Betts},
+           familyi={B\bibinitperiod},
+           given={Richard\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a420bbead14a5c14ffb3d31afd0c493}{%
+           family={Alfieri},
+           familyi={A\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc84533a0489ff95b8e281fa12c4cbb8}{%
+           family={Bradshaw},
+           familyi={B\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f33b1d984ec7fd2f497268424b98ca3}{%
+           family={Caesar},
+           familyi={C\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68ae415ad4f686776e98791a90014bfb}{%
+           family={Feyen},
+           familyi={F\bibinitperiod},
+           given={Luc},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d17667751a128331cb7b557da4ad2068}{%
+           family={Friedlingstein},
+           familyi={F\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1529c6260e359d9881098cab0dc1ea8}{%
+           family={Gohar},
+           familyi={G\bibinitperiod},
+           given={Laila},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1bff71944e75b981568e63b7bcc5dc70}{%
+           family={Koutroulis},
+           familyi={K\bibinitperiod},
+           given={Aristeidis},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11389681bb3251d3bbb540296149e43d}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Kirsty},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfcffa40b064005006b34cdde7ceb2b8}{%
+           family={Morfopoulos},
+           familyi={M\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6827bfbde635c3d89840a63b585312bd}{%
+           family={Papadimitriou},
+           familyi={P\bibinitperiod},
+           given={Lamprini},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51026349118b83b53085919ed08708c1}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Katy\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52ed4556658d5eadd0d57ebbb79ddbb6}{%
+           family={Tsanis},
+           familyi={T\bibinitperiod},
+           given={Ioannis},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4264fe55c8f5d0decccf1c407fe9f9c7}{%
+           family={Wyser},
+           familyi={W\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{63e758a5f36482a06caf61ed4f126da3}
+      \strng{fullhash}{72175607b7fca695c5ee33583b3bd140}
+      \strng{bibnamehash}{72175607b7fca695c5ee33583b3bd140}
+      \strng{authorbibnamehash}{72175607b7fca695c5ee33583b3bd140}
+      \strng{authornamehash}{63e758a5f36482a06caf61ed4f126da3}
+      \strng{authorfullhash}{72175607b7fca695c5ee33583b3bd140}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{issn}{1364-503X, 1471-2962}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences}
+      \field{month}{5}
+      \field{number}{2119}
+      \field{shortjournal}{Phil. Trans. R. Soc. A.}
+      \field{title}{Changes in Climate Extremes, Fresh Water Availability and Vulnerability to Food Insecurity Projected at 1.5{$^\circ$}{{C}} and 2{$^\circ$}{{C}} Global Warming with a Higher-Resolution Global Climate Model}
+      \field{urlday}{7}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{volume}{376}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{20160452}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rsta.2016.0452
+      \endverb
+      \verb{file}
+      \verb C:\Users\Administrator\Zotero\storage\F456BN8T\Betts et al. - 2018 - Changes in climate extremes, fresh water availability and vulnerability to food insecurity projected.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://royalsocietypublishing.org/doi/10.1098/rsta.2016.0452
+      \endverb
+      \verb{url}
+      \verb https://royalsocietypublishing.org/doi/10.1098/rsta.2016.0452
+      \endverb
+    \endentry
     \entry{bhattaraiImpactClimateChange2021}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c39df9f2ee22a671567be07e97ef65ec}{%
@@ -1569,190 +1417,6 @@
       \field{dateera}{ce}
       \verb{file}
       \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\impact-of-climate-change-in-the-agricultural-system-in-the-tropical-region-of-nepal.pdf
-      \endverb
-    \endentry
-    \entry{budhathokiAssessingFarmersPreparedness2020}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=3f21634b2bb23a6ed535e67a3aa96b5c}{%
-           family={Budhathoki},
-           familyi={B\bibinitperiod},
-           given={Nanda\bibnamedelima Kaji},
-           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=113982c86fcccf563afcd30449c961df}{%
-           family={Paton},
-           familyi={P\bibinitperiod},
-           given={Douglas},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=f3814744a213018e13397b8d44dc5a3f}{%
-           family={A.\bibnamedelimi Lassa},
-           familyi={A\bibinitperiod\bibinitdelim L\bibinitperiod},
-           given={Jonatan},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8b9b2ad2e2df1321a920d7137a3e0470}{%
-           family={Zander},
-           familyi={Z\bibinitperiod},
-           given={Kerstin\bibnamedelima K.},
-           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{bdc2fd89f13b6ed56663eace49418374}
-      \strng{fullhash}{eb79fd9739c280d411319a52aea7acad}
-      \strng{bibnamehash}{eb79fd9739c280d411319a52aea7acad}
-      \strng{authorbibnamehash}{eb79fd9739c280d411319a52aea7acad}
-      \strng{authornamehash}{bdc2fd89f13b6ed56663eace49418374}
-      \strng{authorfullhash}{eb79fd9739c280d411319a52aea7acad}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Climate change-related natural hazards severely affect farmers' livelihoods. This study explores how farmers in the vulnerable western lowlands of Nepal are affected by floods, heatwaves, and cold spells, how they adapt, and the factors influencing their risk perception and intended adaptation behaviour. Data were collected through a survey of 350 randomly selected farming households from the Banke and Bardiya districts in the Tarai region. Farmers identified environmental risks as the most severe risks to their agricultural production, and their main adaptation strategies, including changes to planting dates and crop varieties and increasing the use of fertilisers and pesticides. Following protection motivation theory and using structural equation modelling, we found that farmers' risk perception and adaptation behaviour in response to three specific hazards (floods, heatwaves, and cold spells). The flood impact model showed that self-efficacy, perceived responsibility, response cost, trust, and concern partially influenced flood risk perception. These, in turn, mediated affected farmers' intended flood adaptation strategies. Flood damage experience thoroughly explained flood adaptation behaviour and was mediated by flood risk perception. Risk perception of flood has the significant mediation effects in the flood model, but heatwave and cold spell risk perception did not have any mediation effect in neither the heatwave nor the cold spells models. We attribute this discrepancy to the fact that slow and rapid onset hazards are perceived differently. These problems were compounded by farmers also lacking both awareness and the requisite knowledge of how to deal with the impacts of the climate change related slow-onset hazards that will become more frequent as climate change continues, unabated. These differences will need to be accommodated in sus\- tainable was in community awareness and disaster management programs to increase adaptive and resilient community capacity for the future.}
-      \field{issn}{22124209}
-      \field{journaltitle}{International Journal of Disaster Risk Reduction}
-      \field{langid}{english}
-      \field{month}{10}
-      \field{shortjournal}{International Journal of Disaster Risk Reduction}
-      \field{title}{Assessing Farmers' Preparedness to Cope with the Impacts of Multiple Climate Change-Related Hazards in the {{Terai}} Lowlands of {{Nepal}}}
-      \field{urlday}{26}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{volume}{49}
-      \field{year}{2020}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{101656}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/j.ijdrr.2020.101656
-      \endverb
-      \verb{file}
-      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\most importnat.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S2212420920300534
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S2212420920300534
-      \endverb
-    \endentry
-    \entry{dahalNutrientManagementSustainability2021}{book}{}
-      \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=93ee323fd93386c2099b38d896b78c0d}{%
-           family={Dahal},
-           familyi={D\bibinitperiod},
-           given={Hari},
-           giveni={H\bibinitperiod},
-           givenun=1}}%
-      }
-      \list{publisher}{1}{%
-        {Hari Dahal}%
-      }
-      \strng{namehash}{93ee323fd93386c2099b38d896b78c0d}
-      \strng{fullhash}{93ee323fd93386c2099b38d896b78c0d}
-      \strng{bibnamehash}{93ee323fd93386c2099b38d896b78c0d}
-      \strng{authorbibnamehash}{93ee323fd93386c2099b38d896b78c0d}
-      \strng{authornamehash}{93ee323fd93386c2099b38d896b78c0d}
-      \strng{authorfullhash}{93ee323fd93386c2099b38d896b78c0d}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-9937-0-9098-8}
-      \field{title}{Nutrient {{Management}} and {{Sustainability}} of {{Agriculture}}}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb https://heritagebooks.com.np/product/research-perspective-on-nutrient-management-and-sustainability-of-agriculture/
-      \endverb
-      \verb{url}
-      \verb https://heritagebooks.com.np/product/research-perspective-on-nutrient-management-and-sustainability-of-agriculture/
-      \endverb
-    \endentry
-    \entry{factors_dahal_2021}{article}{}
-      \name{author}{9}{}{%
-        {{un=1,uniquepart=given,hash=7af76c27bf042d892b18836727c04133}{%
-           family={Dahal},
-           familyi={D\bibinitperiod},
-           given={N.},
-           giveni={N\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=c703e9f500851e5c5841d8f22c8006c9}{%
-           family={Xiong},
-           familyi={X\bibinitperiod},
-           given={Dong-hong},
-           giveni={D\bibinithyphendelim h\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7f151c92f8aee4bf90030abd967a2888}{%
-           family={Neupane},
-           familyi={N\bibinitperiod},
-           given={Nilhari},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9fb526c6a8dd22a51b39b42e19aac8a4}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Bao-jun},
-           giveni={B\bibinithyphendelim j\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8e8417d2f1f3da438b4a5a569b81e2ca}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Bin-tao},
-           giveni={B\bibinithyphendelim t\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ed40a89d2d9caff7f1efc16b6126179f}{%
-           family={Yuan},
-           familyi={Y\bibinitperiod},
-           given={Yong},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7e327329fb0e002a824b707b739c0279}{%
-           family={Fang},
-           familyi={F\bibinitperiod},
-           given={Yi-ping},
-           giveni={Y\bibinithyphendelim p\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=23c84552cfc3ca2d0e4a1d55f66eeb53}{%
-           family={Koirala},
-           familyi={K\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5fe9b9a7dc1962875486a06b43655b8f}{%
-           family={Rokaya},
-           familyi={R\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{2c694dab13aa147d9d39aa644d7b0705}
-      \strng{fullhash}{2095ab603f07d4d425d58e2caba80b3e}
-      \strng{bibnamehash}{2095ab603f07d4d425d58e2caba80b3e}
-      \strng{authorbibnamehash}{2095ab603f07d4d425d58e2caba80b3e}
-      \strng{authornamehash}{2c694dab13aa147d9d39aa644d7b0705}
-      \strng{authorfullhash}{2095ab603f07d4d425d58e2caba80b3e}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Agricultural Meteorology}
-      \field{title}{Factors Affecting Maize, Rice and Wheat Yields in the {{Koshi River Basin}}, {{Nepal}}}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \verb{doi}
-      \verb 10.2480/agrmet.d-20-00019
-      \endverb
-      \verb{file}
-      \verb C:\Users\Administrator\Zotero\storage\GY9SGKFM\Dahal et al. - 2021 - Factors affecting maize, rice and wheat yields in .pdf
       \endverb
     \endentry
     \entry{dawadiImpactClimateChange2022}{article}{}
@@ -1892,12 +1556,12 @@
            given={Pramod},
            giveni={P\bibinitperiod},
            givenun=0}}%
-        {{un=1,uniquepart=given,hash=529fca94c6446a81a7cd1811dd28f6a3}{%
+        {{un=0,uniquepart=base,hash=529fca94c6446a81a7cd1811dd28f6a3}{%
            family={Khanal},
            familyi={K\bibinitperiod},
            given={Saugat},
            giveni={S\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
       }
       \strng{namehash}{a23f6a494fb80242609c452cf7e72026}
       \strng{fullhash}{a23f6a494fb80242609c452cf7e72026}
@@ -1912,7 +1576,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{The Northern upland of Himalayan, southern plain lowland, with the hill in the arid, make Nepal a potential area for farming different crops. Agriculture in Nepal is largely based on subsistence farming for the majority of the population and can never be underestimated. Agricultural growth in Nepal has been low and highly vulnerable in recent decades. The farming system has changed, management practices have updated, modern technologies have been adopted, the budget allocation has changed, effective programs and strategies are launched, and many agricultural reformations are made. Yet, the pace of agricultural development has not caught the speed as expected. The production has increased, but not at an anticipated rate. Despite having outstanding production potential, farmers in the country are continually facing tremendous challenges. Technological constraints, resource constraints, and capital constraints are still major problems. Poverty, land degradation, low agricultural productivity, improper use of budget and subsidies, lack of agricultural inputs, poor governmental support, etc. have impeded agricultural development. The simultaneous increase in population on one side and reduction in cultivable land on the opposite side has been a challenge to cope up with for maintaining food security. In the long run, agriculture is a very important question for planners and everyone. The government and other organizations are trying to address the key challenges of agriculture in Nepal so that agricultural production in Nepal can sustain in the future.}
       \field{issn}{2518-2021}
       \field{journaltitle}{Fundamental and Applied Agriculture}
       \field{langid}{english}
@@ -1941,205 +1604,128 @@
       \verb https://ejmanager.com/fulltextpdf.php?mno=89753
       \endverb
     \endentry
-    \entry{kangClimateChangeImpacts2009}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=19fa2690ba75654bc782324b1bd6330a}{%
-           family={Kang},
-           familyi={K\bibinitperiod},
-           given={Yinhong},
-           giveni={Y\bibinitperiod},
+    \entry{habib-ur-rahmanImpactClimateChange2022}{article}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=66774e4592d0b2b18a44c1fbed10546c}{%
+           family={Habib-ur-Rahman},
+           familyi={H\bibinithyphendelim R\bibinitperiod},
+           given={Muhammad},
+           giveni={M\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=cef26addb21fb28a11e216d85e166735}{%
-           family={Khan},
-           familyi={K\bibinitperiod},
-           given={Shahbaz},
-           giveni={S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=93191ac2f9cd01c8d42b2050c49d5dfd}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Ashfaq},
+           giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=ffa7c1dcaf14e62214a7451659f40559}{%
-           family={Ma},
-           familyi={M\bibinitperiod},
-           given={Xiaoyi},
-           giveni={X\bibinitperiod},
+        {{un=0,uniquepart=base,hash=f1e6a9027ca50ae6da2e96e93fdc39b1}{%
+           family={Raza},
+           familyi={R\bibinitperiod},
+           given={Ahsan},
+           giveni={A\bibinitperiod},
            givenun=0}}%
-      }
-      \strng{namehash}{9925c3e8e21641ebc6540605ffebf8a4}
-      \strng{fullhash}{1da1ed4598fb39f5edd567ee1154f4f9}
-      \strng{bibnamehash}{1da1ed4598fb39f5edd567ee1154f4f9}
-      \strng{authorbibnamehash}{1da1ed4598fb39f5edd567ee1154f4f9}
-      \strng{authornamehash}{9925c3e8e21641ebc6540605ffebf8a4}
-      \strng{authorfullhash}{1da1ed4598fb39f5edd567ee1154f4f9}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{This paper provides a comprehensive review of literature related to the assessment of climate change impacts on crop productivity using climate, water and crop yield models. The existing studies present that climate change models with higher spatial resolution can be a way forward for future climate projections. Meanwhile, stochastic projections of more than one climate model are necessary for providing insights into model uncertainties as well as to develop risk management strategies. It is projected that water availability will increase in some parts of the world, which will have its own effect on water use efficiency and water allocation. Crop production can increase if irrigated areas are expanded or irrigation is intensified, but these may increase the rate of environmental degradation. Since climate change impacts on soil water balance will lead to changes of soil evaporation and plant transpiration, consequently, the crop growth period may shorten in the future impacting on water productivity. Crop yields affected by climate change are projected to be different in various areas, in some areas crop yields will increase, and for other areas it will decrease depending on the latitude of the area and irrigation application. Existing modelling results show that an increase in precipitation will increase crop yield, and what is more, crop yield is more sensitive to the precipitation than temperature. If water availability is reduced in the future, soils of high water holding capacity will be better to reduce the impact of drought while maintaining crop yield. With the temperature increasing and precipitation fluctuations, water availability and crop production are likely to decrease in the future. If the irrigated areas are expanded, the total crop production will increase; however, food and environmental quality may degrade.}
-      \field{issn}{10020071}
-      \field{journaltitle}{Progress in Natural Science}
-      \field{langid}{english}
-      \field{month}{12}
-      \field{number}{12}
-      \field{shortjournal}{Progress in Natural Science}
-      \field{title}{Climate Change Impacts on Crop Yield, Crop Water Productivity and Food Security -- {{A}} Review}
-      \field{urlday}{26}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{volume}{19}
-      \field{year}{2009}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{1665\bibrangedash 1674}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1016/j.pnsc.2009.08.001
-      \endverb
-      \verb{file}
-      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\1-s2.0-S1002007109002810-main.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S1002007109002810
-      \endverb
-      \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/S1002007109002810
-      \endverb
-    \endentry
-    \entry{karkiStatusDriversFood2021}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=426a1f11f090a4185c7e76b1af854f47}{%
-           family={Karki},
-           familyi={K\bibinitperiod},
-           given={Sikha},
-           giveni={S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=934d3a3246f20100021df3ae0450fb0f}{%
+           family={Hasnain},
+           familyi={H\bibinitperiod},
+           given={Muhammad\bibnamedelima Usama},
+           giveni={M\bibinitperiod\bibinitdelim U\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=c1753f7c095dc8de69c18d93cccca115}{%
-           family={Burton},
+        {{un=0,uniquepart=base,hash=21094a1d1bdbe48c9f863de98b390271}{%
+           family={Alharby},
+           familyi={A\bibinitperiod},
+           given={Hesham\bibnamedelima F.},
+           giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a46e2abb9ef41f451b862ec7b293111c}{%
+           family={Alzahrani},
+           familyi={A\bibinitperiod},
+           given={Yahya\bibnamedelima M.},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1e38aa811088fa5458f8d1e5ffc2fe9}{%
+           family={Bamagoos},
            familyi={B\bibinitperiod},
-           given={Paul},
-           giveni={P\bibinitperiod},
+           given={Atif\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7a76adea372e95eb9011547ac6d58c2}{%
-           family={Mackey},
+        {{un=0,uniquepart=base,hash=c12122a556362bc9ac13ee547a51c73a}{%
+           family={Hakeem},
+           familyi={H\bibinitperiod},
+           given={Khalid\bibnamedelima Rehman},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdfd3a3ef44078e90b3c2f1f8fdad2f9}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Saeed},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56d036c286872f866812ce78e876c2ec}{%
+           family={Nasim},
+           familyi={N\bibinitperiod},
+           given={Wajid},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a9bc95c000e3deb717b17de7ec1c452}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Shafaqat},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8aa502025a8c873f1e4eadd47f7354df}{%
+           family={Mansour},
            familyi={M\bibinitperiod},
-           given={Brendan},
-           giveni={B\bibinitperiod},
+           given={Fatma},
+           giveni={F\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=49a1efabfedfd4c35f8e9d123ecaac04}{%
-           family={Alston-Knox},
-           familyi={A\bibinithyphendelim K\bibinitperiod},
-           given={Clair},
-           giveni={C\bibinitperiod},
+        {{un=0,uniquepart=base,hash=ba681932f0acbbc28ef182e6f1cdd78c}{%
+           family={El\bibnamedelima Sabagh},
+           familyi={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Ayman},
+           giveni={A\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{60ca10e2a8847a8f2a35441dbb67cb77}
-      \strng{fullhash}{957a2e763dec62ea361ddd7c60dee42b}
-      \strng{bibnamehash}{957a2e763dec62ea361ddd7c60dee42b}
-      \strng{authorbibnamehash}{957a2e763dec62ea361ddd7c60dee42b}
-      \strng{authornamehash}{60ca10e2a8847a8f2a35441dbb67cb77}
-      \strng{authorfullhash}{957a2e763dec62ea361ddd7c60dee42b}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \strng{namehash}{fb6808eaf95a43fd734c690f06e058a1}
+      \strng{fullhash}{891f86a91509b77bf1b9db4dd98b9263}
+      \strng{bibnamehash}{891f86a91509b77bf1b9db4dd98b9263}
+      \strng{authorbibnamehash}{891f86a91509b77bf1b9db4dd98b9263}
+      \strng{authornamehash}{fb6808eaf95a43fd734c690f06e058a1}
+      \strng{authorfullhash}{891f86a91509b77bf1b9db4dd98b9263}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{1387-585X, 1573-2975}
-      \field{journaltitle}{Environment, Development and Sustainability}
+      \field{abstract}{Agricultural production is under threat due to climate change in food insecure regions, especially in Asian countries. Various climate-driven extremes, i.e., drought, heat waves, erratic and intense rainfall patterns, storms, floods, and emerging insect pests have adversely affected the livelihood of the farmers. Future climatic predictions showed a significant increase in temperature, and erratic rainfall with higher intensity while variability exists in climatic patterns for climate extremes prediction. For mid-century (2040--2069), it is projected that there will be a rise of 2.8{$^\circ$}C in maximum temperature and a 2.2{$^\circ$}C in minimum temperature in Pakistan. To respond to the adverse effects of climate change scenarios, there is a need to optimize the climate-smart and resilient agricultural practices and technology for sustainable productivity. Therefore, a case study was carried out to quantify climate change effects on rice and wheat crops and to develop adaptation strategies for the rice-wheat cropping system during the mid-century (2040--2069) as these two crops have significant contributions to food production. For the quantification of adverse impacts of climate change in farmer fields, a multidisciplinary approach consisted of five climate models (GCMs), two crop models (DSSAT and APSIM) and an economic model [Trade-off Analysis, Minimum Data Model Approach (TOAMD)] was used in this case study. DSSAT predicted that there would be a yield reduction of 15.2\% in rice and 14.1\% in wheat and APSIM showed that there would be a yield reduction of 17.2\% in rice and 12\% in wheat. Adaptation technology, by modification in crop management like sowing time and density, nitrogen, and irrigation application have the potential to enhance the overall productivity and profitability of the rice-wheat cropping system under climate change scenarios. Moreover, this paper reviews current literature regarding adverse climate change impacts on agricultural productivity, associated main issues, challenges, and opportunities for sustainable productivity of agriculture to ensure food security in Asia. Flowing opportunities such as altering sowing time and planting density of crops, crop rotation with legumes, agroforestry, mixed livestock systems, climate resilient plants, livestock and fish breeds, farming of monogastric livestock, early warning systems and decision support systems, carbon sequestration, climate, water, energy, and soil smart technologies, and promotion of biodiversity have the potential to reduce the negative effects of climate change.}
+      \field{day}{10}
+      \field{issn}{1664-462X}
+      \field{journaltitle}{Frontiers in Plant Science}
       \field{langid}{english}
       \field{month}{10}
-      \field{number}{10}
-      \field{shortjournal}{Environ Dev Sustain}
-      \field{title}{Status and Drivers of Food Insecurity and Adaptation Responses under a Changing Climate among Smallholder Farmers Households in {{Bagmati Province}}, {{Nepal}}}
-      \field{urlday}{8}
-      \field{urlmonth}{3}
-      \field{urlyear}{2025}
-      \field{volume}{23}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{14642\bibrangedash 14665}
-      \range{pages}{24}
-      \verb{doi}
-      \verb 10.1007/s10668-021-01262-x
-      \endverb
-      \verb{urlraw}
-      \verb https://link.springer.com/10.1007/s10668-021-01262-x
-      \endverb
-      \verb{url}
-      \verb https://link.springer.com/10.1007/s10668-021-01262-x
-      \endverb
-    \endentry
-    \entry{khanalFactorsMotivatingFarmers2021}{article}{}
-      \name{author}{4}{}{%
-        {{un=1,uniquepart=given,hash=039a23671d9e1f7203f49f8372273237}{%
-           family={Khanal},
-           familyi={K\bibinitperiod},
-           given={Kapil},
-           giveni={K\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=594380a129e086c54a116b6d96131f08}{%
-           family={Adhikari},
-           familyi={A\bibinitperiod},
-           given={Kalika\bibnamedelima Bahadur},
-           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=28f28b59f9d10c9d98acc75990efa1ae}{%
-           family={Dhakal},
-           familyi={D\bibinitperiod},
-           given={Shiva\bibnamedelima Chandra},
-           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=18d887d2a601ac451fe7bb7169539d21}{%
-           family={Marahatta},
-           familyi={M\bibinitperiod},
-           given={Santosh},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{f120783323f37f5a9b1b36d06b86cb9d}
-      \strng{fullhash}{089e636b905cb0b71ebad299c98a3eac}
-      \strng{bibnamehash}{089e636b905cb0b71ebad299c98a3eac}
-      \strng{authorbibnamehash}{089e636b905cb0b71ebad299c98a3eac}
-      \strng{authornamehash}{f120783323f37f5a9b1b36d06b86cb9d}
-      \strng{authorfullhash}{089e636b905cb0b71ebad299c98a3eac}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The study analyzed the factors motivating the farmers for collective action for the management of the Shardikhola Puranchaur Irrigation System of the Kaski district of Nepal in 2019. A cross-sectional data of 184 farmers were collected using a simple random sampling method. A logit regression was used for data analysis. Age of the household head, years of schooling of the household head, presence of fine in monetary terms, number of farmers in a branch of the irrigation system positively motivated farmers in the involvement in the group for the management of the irrigation system. Motivation among farmers for collective action for management of the irrigation system was influenced by a combination of different factors. Therefore, the proper distribution of water at different branches, binding every level of users by law and transparency in the use of the income of the irrigation system must be maintained to achieve the desired results. Int. J. Soc. Sc. Manage. Vol. 8, Issue-1: 285-291}
-      \field{day}{25}
-      \field{issn}{2091-2986}
-      \field{journaltitle}{International Journal of Social Sciences and Management}
-      \field{langid}{english}
-      \field{month}{1}
-      \field{number}{1}
-      \field{shortjournal}{Int J Soc Sci Mgt}
-      \field{title}{Factors {{Motivating Farmers}} for {{Collective Action}} for {{Management}} of {{Irrigation System}} in {{Nepal}}}
+      \field{shortjournal}{Front. Plant Sci.}
+      \field{title}{Impact of Climate Change on Agricultural Production; {{Issues}}, Challenges, and Opportunities in {{Asia}}}
       \field{urlday}{26}
       \field{urlmonth}{1}
       \field{urlyear}{2025}
-      \field{volume}{8}
-      \field{year}{2021}
+      \field{volume}{13}
+      \field{year}{2022}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{285\bibrangedash 291}
-      \range{pages}{7}
+      \field{pages}{925548}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.3126/ijssm.v8i1.31748
+      \verb 10.3389/fpls.2022.925548
       \endverb
       \verb{file}
-      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\Factors_Motivating_Farmers_for_Collectiv.pdf
+      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\fpls-13-925548_ international asia.pdf
       \endverb
       \verb{urlraw}
-      \verb https://www.nepjol.info/index.php/IJSSM/article/view/31748
+      \verb https://www.frontiersin.org/articles/10.3389/fpls.2022.925548/full
       \endverb
       \verb{url}
-      \verb https://www.nepjol.info/index.php/IJSSM/article/view/31748
+      \verb https://www.frontiersin.org/articles/10.3389/fpls.2022.925548/full
       \endverb
     \endentry
     \entry{maharjanEffectClimateVariables2013}{inbook}{}
@@ -2392,86 +1978,6 @@
       \endverb
       \verb{url}
       \verb https://agricultureandfoodsecurity.biomedcentral.com/articles/10.1186/s40066-021-00318-5
-      \endverb
-    \endentry
-    \entry{nguyenduycanAssessingLivelihoodVulnerability2019}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=babe54dac3b1ed12b6e733b4b109093b}{%
-           family={{Nguyen Duy Can}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{babe54dac3b1ed12b6e733b4b109093b}
-      \strng{fullhash}{babe54dac3b1ed12b6e733b4b109093b}
-      \strng{bibnamehash}{babe54dac3b1ed12b6e733b4b109093b}
-      \strng{authorbibnamehash}{babe54dac3b1ed12b6e733b4b109093b}
-      \strng{authornamehash}{babe54dac3b1ed12b6e733b4b109093b}
-      \strng{authorfullhash}{babe54dac3b1ed12b6e733b4b109093b}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Both ST (Soc Trang) and KG (Kien Giang) are coastal provinces of the Mekong River Delta and are most vulnerable to saline intrusion and climate variability. In 2016, thousands of Hhs (Households) in these coastal provinces were at risk due to severe drought and saline intrusion. This study applied the LVI (Livelihood Vulnerability Index) to estimate saline intrusion vulnerability of those two provinces. Data on socio-demographics, livelihoods, health, social networks, physical, financial and natural resources, natural disasters and climate variability were collected from a survey of 298 Hhs. From these data, the LVI of each coastal province was calculated. Results show that the overall LVI of KG province is higher than that of ST province. The analysis revealed that this practical method can be applied in different circumstances of climate change and purposes.}
-      \field{day}{28}
-      \field{issn}{21625263, 21625271}
-      \field{journaltitle}{Journal of Environmental Science and Engineering B}
-      \field{langid}{english}
-      \field{month}{4}
-      \field{number}{4}
-      \field{shortjournal}{JESE-B}
-      \field{title}{Assessing {{Livelihood Vulnerability}} to {{Salinity Intrusion}} and {{Climate Variability A Case Study}} in {{Coastal Provinces}} of the {{Mekong River Delta}} of {{Vietnam}}}
-      \field{urlday}{26}
-      \field{urlmonth}{1}
-      \field{urlyear}{2025}
-      \field{volume}{8}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.17265/2162-5263/2019.04.004
-      \endverb
-      \verb{file}
-      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\5db25cb16cf51.pdf
-      \endverb
-      \verb{urlraw}
-      \verb http://www.davidpublisher.org/index.php/Home/Article/index?id=41656.html
-      \endverb
-      \verb{url}
-      \verb http://www.davidpublisher.org/index.php/Home/Article/index?id=41656.html
-      \endverb
-    \endentry
-    \entry{global_paudel_2015}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=e57d3513ea235837ddf84efcabc5376e}{%
-           family={Paudel},
-           familyi={P\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{e57d3513ea235837ddf84efcabc5376e}
-      \strng{fullhash}{e57d3513ea235837ddf84efcabc5376e}
-      \strng{bibnamehash}{e57d3513ea235837ddf84efcabc5376e}
-      \strng{authorbibnamehash}{e57d3513ea235837ddf84efcabc5376e}
-      \strng{authornamehash}{e57d3513ea235837ddf84efcabc5376e}
-      \strng{authorfullhash}{e57d3513ea235837ddf84efcabc5376e}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Global Effect of Climate Change and Food Security with Respect to {{Nepal}}.}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \verb{doi}
-      \verb 10.3126/aej.v16i0.19836
-      \endverb
-      \verb{file}
-      \verb C:\Users\Administrator\Zotero\storage\5IQ2EIF7\Paudel - 2015 - Global effect of climate change and food security .pdf
       \endverb
     \endentry
     \entry{pokharauniversitynepalImpactClimateChange2020}{article}{}
@@ -2822,181 +2328,63 @@
       \verb https://www.mdpi.com/2306-5338/9/8/132
       \endverb
     \endentry
-    \entry{shresthaFarmersPerceptionClimate2022}{article}{}
-      \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=12474fe98c20e888ef8cda0411f0e0cb}{%
+    \entry{shresthaSOCIOECONOMICFACTORSAFFECTING2018b}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f971361319a2877332177cbd58fcb4dc}{%
            family={Shrestha},
            familyi={S\bibinitperiod},
-           given={Ramesh},
-           giveni={R\bibinitperiod},
+           given={Anish},
+           giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=63921f88758d9a7f9ccd641aa4325827}{%
-           family={Rakhal},
-           familyi={R\bibinitperiod},
-           given={Biplob},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=dc2c11a015f9c93a74e9be7ef1e94773}{%
-           family={Adhikari},
-           familyi={A\bibinitperiod},
-           given={Tirtha\bibnamedelima Raj},
-           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ac0d0c9dea55649b3b76a6d4bc38207f}{%
-           family={Ghimire},
-           familyi={G\bibinitperiod},
-           given={Ganesh\bibnamedelima Raj},
-           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=008ad19d3131a2401f74ab1cfdc020aa}{%
-           family={Talchabhadel},
-           familyi={T\bibinitperiod},
-           given={Rocky},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=69f4169d9758455339bb4f48e57726f3}{%
-           family={Tamang},
-           familyi={T\bibinitperiod},
-           given={Dinee},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=be70c85c947f9a97fa858c566fb37001}{%
-           family={Kc},
-           familyi={K\bibinitperiod},
-           given={Radhika},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6514ec3dba3236a2f7a28ed02d3a456e}{%
-           family={Sharma},
-           familyi={S\bibinitperiod},
-           given={Sanjib},
+        {{un=0,uniquepart=base,hash=369e5cf5c3685aad1e1d904a4c09349d}{%
+           family={Baral},
+           familyi={B\bibinitperiod},
+           given={Samata},
            giveni={S\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{4430843fa005a8bb65b6f39fe54d89a6}
-      \strng{fullhash}{cb9b456d95c83cb455c49d3cf46a5990}
-      \strng{bibnamehash}{cb9b456d95c83cb455c49d3cf46a5990}
-      \strng{authorbibnamehash}{cb9b456d95c83cb455c49d3cf46a5990}
-      \strng{authornamehash}{4430843fa005a8bb65b6f39fe54d89a6}
-      \strng{authorfullhash}{cb9b456d95c83cb455c49d3cf46a5990}
+      \strng{namehash}{51307892319b3a645945368da435bce8}
+      \strng{fullhash}{51307892319b3a645945368da435bce8}
+      \strng{bibnamehash}{51307892319b3a645945368da435bce8}
+      \strng{authorbibnamehash}{51307892319b3a645945368da435bce8}
+      \strng{authornamehash}{51307892319b3a645945368da435bce8}
+      \strng{authorfullhash}{51307892319b3a645945368da435bce8}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{28}
-      \field{issn}{2306-5338}
-      \field{journaltitle}{Hydrology}
-      \field{langid}{english}
-      \field{month}{11}
-      \field{number}{12}
-      \field{shortjournal}{Hydrology}
-      \field{title}{Farmers' {{Perception}} of {{Climate Change}} and {{Its Impacts}} on {{Agriculture}}}
-      \field{urlday}{8}
-      \field{urlmonth}{3}
-      \field{urlyear}{2025}
-      \field{volume}{9}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{212}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.3390/hydrology9120212
-      \endverb
-      \verb{file}
-      \verb C:\Users\Administrator\Zotero\storage\JMJZQ9VH\Shrestha et al. - 2022 - Farmers’ Perception of Climate Change and Its Impacts on Agriculture.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.mdpi.com/2306-5338/9/12/212
-      \endverb
-      \verb{url}
-      \verb https://www.mdpi.com/2306-5338/9/12/212
-      \endverb
-    \endentry
-    \entry{singhSocioeconomicStatusQualitative2022}{article}{}
-      \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=70ee04bf1b2733a972b63c7cdd889c7a}{%
-           family={Singh},
-           familyi={S\bibinitperiod},
-           given={Harpal},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6c2af7a6e0e7710668b7fcaf556514d1}{%
-           family={Verma},
-           familyi={V\bibinitperiod},
-           given={Shreya},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6b292bebdd1a79bcc37182bce90e619f}{%
-           family={Kamboj},
-           familyi={K\bibinitperiod},
-           given={Harsh},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e7d473428c67a0dd4bdfaccc9636a5d2}{%
-           family={Dutt},
-           familyi={D\bibinitperiod},
-           given={Mukul},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=abb4765e90c06e7b34087c6f42d8748d}{%
-           family={Dureja},
-           familyi={D\bibinitperiod},
-           given={Aastha},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6dd44c147ee0399be1b3a3b3e30b3a15}{%
-           family={Dalai},
-           familyi={D\bibinitperiod},
-           given={Akash},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{263b30bf54df682ff562bf8e87bb876f}
-      \strng{fullhash}{a6adc19e0c250c90fb7a6ed310c7e41c}
-      \strng{bibnamehash}{a6adc19e0c250c90fb7a6ed310c7e41c}
-      \strng{authorbibnamehash}{a6adc19e0c250c90fb7a6ed310c7e41c}
-      \strng{authornamehash}{263b30bf54df682ff562bf8e87bb876f}
-      \strng{authorfullhash}{a6adc19e0c250c90fb7a6ed310c7e41c}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The study is based mainly on primary data collected through socio-economic survey schedule from nearby villages of Kharar town falling under Municipal Corporation of Sahibzada Ajit Singh Nagar (Mohali) Punjab. Different components of socio-economic survey include socio-economic status soil agronomic practices cropping status and soil sampling to achieve the target of qualitative and quantitative data for Crop diversification, economic status and socio-economy of farmers from Punjab. There were various parameters related to cropping pattern, livestock production and other suitable parameters related to Agriculture farming for the livelihood status and economic viability. The study was conducted under Rural Agricultural Work Experience programme by the students of Agriculture from University Institute of Agriculture Sciences, Chandigarh University Gharuan (Mohali) Punjab. In this study more than two hundred farmers were involved with proper questionnaire and thorough interaction of students. Questionnaire contains the information about the Socio-economic profile, Crop diversity and economic viability of farmers. Socio-economic profile includes the farmer's family composition, academic qualifications, caste system, income per-cent, and land holding capacity and other important information, social participation, source of information about agricultural information, extension activities. Proper surveys were conducted in which the interaction was done with the farmers at their houses in the form of interview from the survey conducted it is concluded that the literacy rate of the different villages is about ninety per cent. Nearly forty five per cent (45\%) of the village farmers are medium farmers and 30\% of the farmer's marginal farmers and other farmers have leased the land for farming. About 90\% were present on social media platforms and 10\% are not present on social media. Besides that main focus was to identifying problem of the area and their solution. Therefore to sustain agriculture and solve some of the visible problems different campaigns rallies and farmers awareness cum training program were organised by our students in collaboration with Krishi Vigyan Kendra, Kurali (GADVASU, Ludhiana) and department of agriculture Punjab by presenting different models various extension activities and providing nourishment at University level. The farmers were addressed for their major crop issues and were made aware about various innovative ideas promoted by Students, KVKs, rural societies and other NGOs. Majority of the farmers are lacking knowledge about latest technologies, rain water harvesting techniques and application of bio-control. Adequate policies prioritization of agricultural components and utmost utilization of resources are prime need.}
+      \field{labeltitlesource}{shorttitle}
       \field{day}{1}
-      \field{issn}{23498242, 22777695}
-      \field{issue}{12S}
-      \field{journaltitle}{The Pharma Innovation}
+      \field{issn}{25215035, 25215043}
+      \field{journaltitle}{Earth Science Malaysia}
       \field{langid}{english}
-      \field{month}{12}
-      \field{shortjournal}{Pharma Innovation}
-      \field{title}{Socio-Economic Status for Qualitative and Quantitative Assessment towards Crop Diversification and Sustainable Agriculture under Different Components {{Punjab}}}
+      \field{month}{8}
+      \field{number}{2}
+      \field{shortjournal}{Earth sci. Malays.}
+      \field{shorttitle}{{{SOCIOECONOMIC FACTORS AFFECTING AWARENESS AND ADAPTION OF CLIMATE CHANGE}}}
+      \field{title}{{{SOCIOECONOMIC FACTORS AFFECTING AWARENESS AND ADAPTION OF CLIMATE CHANGE}}: {{A CASE STUDY OF BANKE DISTRICT NEPAL}}}
       \field{urlday}{26}
       \field{urlmonth}{1}
       \field{urlyear}{2025}
-      \field{volume}{11}
-      \field{year}{2022}
+      \field{volume}{2}
+      \field{year}{2018}
       \field{dateera}{ce}
       \field{urldateera}{ce}
-      \field{pages}{1109\bibrangedash 1116}
-      \range{pages}{8}
+      \field{pages}{20\bibrangedash 24}
+      \range{pages}{5}
       \verb{doi}
-      \verb 10.22271/tpi.2022.v11.i12So.17671
+      \verb 10.26480/esmy.02.2018.20.24
       \endverb
       \verb{file}
-      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\Pest and diseases.pdf
+      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\Shrestha & Baral 2018 ESMY_CC perception_banke.pdf
       \endverb
       \verb{urlraw}
-      \verb https://www.thepharmajournal.com/special-issue?year=2022&vol=11&issue=12S&ArticleId=17671
+      \verb https://earthsciencesmalaysia.com/download/13571/
       \endverb
       \verb{url}
-      \verb https://www.thepharmajournal.com/special-issue?year=2022&vol=11&issue=12S&ArticleId=17671
+      \verb https://earthsciencesmalaysia.com/download/13571/
       \endverb
     \endentry
     \entry{thapa-parajuliImpactClimateChange2016}{article}{}
@@ -3053,6 +2441,56 @@
       \endverb
       \verb{url}
       \verb https://journalajaees.com/index.php/AJAEES/article/view/399
+      \endverb
+    \endentry
+    \entry{timilsinaAGRICULTURELANDUSE2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=70ecfe342f38f82202ddbb0fb6e15605}{%
+           family={Timilsina},
+           familyi={T\bibinitperiod},
+           given={R\bibnamedelima H},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8094612da758f7c05889786a7d8e0432}{%
+           family={Ojha},
+           familyi={O\bibinitperiod},
+           given={G\bibnamedelima P},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a86abb5b5ccf39a4a5919dc5768974e}{%
+           family={Nepali},
+           familyi={N\bibinitperiod},
+           given={P\bibnamedelima B},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dead1cd3d9b00c625fe4715244206a36}{%
+           family={Tiwari},
+           familyi={T\bibinitperiod},
+           given={U},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{053a657f42beb174f27b9c0090808315}
+      \strng{fullhash}{a0cf22c675063f4b7062e62e45febe53}
+      \strng{bibnamehash}{a0cf22c675063f4b7062e62e45febe53}
+      \strng{authorbibnamehash}{a0cf22c675063f4b7062e62e45febe53}
+      \strng{authornamehash}{053a657f42beb174f27b9c0090808315}
+      \strng{authorfullhash}{a0cf22c675063f4b7062e62e45febe53}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper reviews the agricultural land use pattern of Nepal based on published information. Agricultural land use in Nepal is closely related with the United Nations Sustainable Development Goal Two, which deals with the food security. To meet the increasing food demand, the ecological belts; Terai, and Hills should have a sustainable agricultural production system. However, land fragmentation is high in rapidly urbanizing Terai whereas increasing fallow land and landlord absenteeism is widely prevalent in Hills; both of these scenarios has brought changes in land use pattern for agricultural crops. Under this context, this paper attempts to discuss the changes in major crops grown areas in different time periods and their consequences along with factors responsible for such changes. Multiple factors such as- migration, real-estate business, and an increment in land use for off-farm activities are thought to be responsible for such change in the cropping area. On the other hand, increase in production of major crops has its low level of impact to the progress in food security which is rather related to the swelled purchasing capacity of food through remittance. To address the inefficient land use and low crop production issue, Government of Nepal has endorsed the Land Use Act, 2019 whereas its proper implementation at field level is quite important. Since, poor land management practices have significantly affected soil quality and crop production, urgent steps are needed to reverse the trends in land degradation while maintaining productivity of land through sustainable land management approaches.}
+      \field{langid}{english}
+      \field{title}{{{AGRICULTURE LAND USE IN NEPAL}}: {{PROSPECTS AND IMPACTS ON FOOD SECURITY}}}
+      \field{volume}{3}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\1._Agriculture_land_use in_Nepal_Prospects_and_impacts_on_food_security_-_R._H._Timilsina,_G._P._Ojha,_P._B._Nepali,_and_U._Tiwari.pdf
       \endverb
     \endentry
   \enddatalist

@@ -3,6 +3,12 @@
 
 
 The study area for this research is Janaki Rural Municipality, located in Nepalgunj, Banke District, Nepal (Figure\ref{fig:study_area_map}). Situated at an elevation of 165m above sea level, it is bordered by Nepalgunj Sub-Metropolitan City to the east, Kohalpur Municipality to the north, Khajura Rural Municipality to the west, and the international boundary with India to the south (Janaki Rural Municipality). The region features a temperate climate and flat terrain. Meteorological records indicate an average annual rainfall of 1445.58~mm, with temperatures ranging from a minimum of 4.5°C to a maximum of 46°C (Janaki Rural Municipality).
+\begin{figure}[H]
+    \centering
+    \caption{Study Area: Janaki Rural Municipality, Banke, Nepal} 
+    \label{fig:study_area_map}
+    \includegraphics[width=0.9\textwidth]{images/study_area_map.png}
+\end{figure}
 
 Agriculture is the primary livelihood for most households in Janaki Rural Municipality. Of the 5,063ha of cultivable land, only 2,532ha are utilized, comprising 1,798ha of farmland and 774ha of upland. Land ownership varies widely: 1,294 households possess less than 0.167ha, 1,222 hold 0.2--0.33ha, 2,338 own 0.37--0.67ha, 1,512 control 0.7--1ha, and 973 own more than 20ha, while 52 households are landless (Janaki Rural Municipality, 2075). Irrigation remains limited, with only 321ha irrigated year-round and 1,871~ha lacking consistent water access. The municipality contains 50 ponds, some of which support irrigation. Despite abundant arable land, inadequate irrigation and limited technological resources hinder commercial agriculture, resulting in dependence on food imports from India (Janaki Rural Municipality, 2075).
     
@@ -37,16 +43,16 @@ Details of the household distribution across the sampled wards are presented in 
 
 \begin{table}[h]
 \centering
-\caption{Household and Soil Sample Distribution by Ward in Janaki Rural Municipality}
+\caption{Household Distribution by Ward in Janaki Rural Municipality}
 \label{tab:household_distribution}
 
 \begin{tabular}{|c|c|c|}
 \hline
-\textbf{Ward} & \textbf{Household} & \textbf{Soil Sample} \\ \hline
-1 & 1242 & 8 \\ \hline
-3 & 1929 & 8 \\ \hline
-4 & 1050 & 8 \\ \hline
-\textbf{Total} & 7391 & 24 \\ \hline
+\textbf{Ward} & \textbf{Household}  \\ \hline
+1 & 1242  \\ \hline
+3 & 1929  \\ \hline
+4 & 1050 \\ \hline
+\textbf{Total} & 7391 \\ \hline
 \end{tabular}
 \end{table}
 
@@ -126,8 +132,9 @@ Y_i = \beta_0 + \beta_1 X_i + \epsilon
 
 where $\beta_0$ is the intercept, $\beta_1$ is the slope, and $\epsilon$ is the error term capturing unexplained variation.
 
-\paragraph{T-test}  
-A two-sample t-test was conducted to compare average crop yields (kg/ha) between plots with year-round irrigation and those reliant on rainfed irrigation during the monsoon season. Year-round irrigation refers to plots with consistent water supply, while rainfed irrigation depends solely on seasonal rainfall. The null hypothesis ($H_0$) posits no difference in yields between groups, against the alternative ($H_1$) of a significant difference. The significance level was set at $\alpha = 0.05$, and analysis was performed in SPSS. The t-test statistic is:
+\paragraph{T-test}
+A two-sample t-test was conducted to compare average crop yields (kg/ha) between plots with year-round irrigation and those reliant on rainfed irrigation during the monsoon season. Year-round irrigation refers to plots with consistent water supply, while rainfed irrigation depends solely on seasonal rainfall. The null hypothesis $(H_0) $posits no difference in yields between groups, against the alternative $(H_1)$ of a significant difference. The significance level was set at $\alpha = 0.05$, and analysis was performed in SPSS.
+The t-test statistic is:
 
 \[
 t = \frac{\overline{x_1} - \overline{x_2}}{\sqrt{s^2 \left( \frac{1}{n_1} + \frac{1}{n_2} \right)}}
@@ -150,7 +157,7 @@ Simple linear regression, implemented in IBM SPSS Statistics (version 27), was u
 Three climatic variables---accumulated rainfall, average temperature, and sunshine hours---were analyzed over a 30-year period (1990--2021) in the study area. Data were sourced from the Department of Hydrology and Meteorology (DHM). Linear trends were visualized using Microsoft Excel, with graphs illustrating changes in each variable over time.
 
 \paragraph{Climate Change Perception}  
-An index model evaluated farmers’ perceptions of climate change and its impact on agricultural production, recognizing that such perceptions shape adaptation strategies. A survey of 134 respondents assessed opinions on climate change using a three-point scale: +1 for agreement/approval, -1 for disagreement/disapproval, and 0 for “don’t know/absent.” For binary variables, the perception index was calculated using the formula by (Dahal2021):
+An index model evaluated farmers’ perceptions of climate change and its impact on agricultural production, recognizing that such perceptions shape adaptation strategies. A survey of 134 respondents assessed opinions on climate change using a three-point scale: +1 for agreement/approval, -1 for disagreement/disapproval, and 0 for “don’t know/absent.” For binary variables, the perception index was calculated using the formula by \parencite{dahalNutrientManagementSustainability2021}:
 
 \[
 \text{INDEX} = \frac{FA(+1) + FDA(-1) + FDK(0)}{N}
@@ -164,7 +171,7 @@ where:
     \item $N$ = total respondents (134).
 \end{itemize}
 
-For variables with multiple categories, a normalized index was computed based on \parencite{Banerjee_stat_techniques_2023}:
+For variables with multiple categories, a normalized index was computed based on \parencite{nguyenduycanAssessingLivelihoodVulnerability2019}:
 
 \[
 \text{INDEX} = \frac{(\text{Max value} - \text{Min value}) \times X}{(\text{Max value} + \text{Min value}) \times \text{Max value}}
