@@ -1,0 +1,127 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{timilsinaAGRICULTURELANDUSE2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=70ecfe342f38f82202ddbb0fb6e15605}{%
+           family={Timilsina},
+           familyi={T\bibinitperiod},
+           given={R\bibnamedelima H},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8094612da758f7c05889786a7d8e0432}{%
+           family={Ojha},
+           familyi={O\bibinitperiod},
+           given={G\bibnamedelima P},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a86abb5b5ccf39a4a5919dc5768974e}{%
+           family={Nepali},
+           familyi={N\bibinitperiod},
+           given={P\bibnamedelima B},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dead1cd3d9b00c625fe4715244206a36}{%
+           family={Tiwari},
+           familyi={T\bibinitperiod},
+           given={U},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{053a657f42beb174f27b9c0090808315}
+      \strng{fullhash}{a0cf22c675063f4b7062e62e45febe53}
+      \strng{bibnamehash}{a0cf22c675063f4b7062e62e45febe53}
+      \strng{authorbibnamehash}{a0cf22c675063f4b7062e62e45febe53}
+      \strng{authornamehash}{053a657f42beb174f27b9c0090808315}
+      \strng{authorfullhash}{a0cf22c675063f4b7062e62e45febe53}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper reviews the agricultural land use pattern of Nepal based on published information. Agricultural land use in Nepal is closely related with the United Nations Sustainable Development Goal Two, which deals with the food security. To meet the increasing food demand, the ecological belts; Terai, and Hills should have a sustainable agricultural production system. However, land fragmentation is high in rapidly urbanizing Terai whereas increasing fallow land and landlord absenteeism is widely prevalent in Hills; both of these scenarios has brought changes in land use pattern for agricultural crops. Under this context, this paper attempts to discuss the changes in major crops grown areas in different time periods and their consequences along with factors responsible for such changes. Multiple factors such as- migration, real-estate business, and an increment in land use for off-farm activities are thought to be responsible for such change in the cropping area. On the other hand, increase in production of major crops has its low level of impact to the progress in food security which is rather related to the swelled purchasing capacity of food through remittance. To address the inefficient land use and low crop production issue, Government of Nepal has endorsed the Land Use Act, 2019 whereas its proper implementation at field level is quite important. Since, poor land management practices have significantly affected soil quality and crop production, urgent steps are needed to reverse the trends in land degradation while maintaining productivity of land through sustainable land management approaches.}
+      \field{langid}{english}
+      \field{title}{{{AGRICULTURE LAND USE IN NEPAL}}: {{PROSPECTS AND IMPACTS ON FOOD SECURITY}}}
+      \field{volume}{3}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\1._Agriculture_land_use in_Nepal_Prospects_and_impacts_on_food_security_-_R._H._Timilsina,_G._P._Ojha,_P._B._Nepali,_and_U._Tiwari.pdf
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{timilsinaAGRICULTURELANDUSE2019}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=70ecfe342f38f82202ddbb0fb6e15605}{%
+           family={Timilsina},
+           familyi={T\bibinitperiod},
+           given={R\bibnamedelima H},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8094612da758f7c05889786a7d8e0432}{%
+           family={Ojha},
+           familyi={O\bibinitperiod},
+           given={G\bibnamedelima P},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a86abb5b5ccf39a4a5919dc5768974e}{%
+           family={Nepali},
+           familyi={N\bibinitperiod},
+           given={P\bibnamedelima B},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dead1cd3d9b00c625fe4715244206a36}{%
+           family={Tiwari},
+           familyi={T\bibinitperiod},
+           given={U},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{053a657f42beb174f27b9c0090808315}
+      \strng{fullhash}{a0cf22c675063f4b7062e62e45febe53}
+      \strng{bibnamehash}{a0cf22c675063f4b7062e62e45febe53}
+      \strng{authorbibnamehash}{a0cf22c675063f4b7062e62e45febe53}
+      \strng{authornamehash}{053a657f42beb174f27b9c0090808315}
+      \strng{authorfullhash}{a0cf22c675063f4b7062e62e45febe53}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper reviews the agricultural land use pattern of Nepal based on published information. Agricultural land use in Nepal is closely related with the United Nations Sustainable Development Goal Two, which deals with the food security. To meet the increasing food demand, the ecological belts; Terai, and Hills should have a sustainable agricultural production system. However, land fragmentation is high in rapidly urbanizing Terai whereas increasing fallow land and landlord absenteeism is widely prevalent in Hills; both of these scenarios has brought changes in land use pattern for agricultural crops. Under this context, this paper attempts to discuss the changes in major crops grown areas in different time periods and their consequences along with factors responsible for such changes. Multiple factors such as- migration, real-estate business, and an increment in land use for off-farm activities are thought to be responsible for such change in the cropping area. On the other hand, increase in production of major crops has its low level of impact to the progress in food security which is rather related to the swelled purchasing capacity of food through remittance. To address the inefficient land use and low crop production issue, Government of Nepal has endorsed the Land Use Act, 2019 whereas its proper implementation at field level is quite important. Since, poor land management practices have significantly affected soil quality and crop production, urgent steps are needed to reverse the trends in land degradation while maintaining productivity of land through sustainable land management approaches.}
+      \field{langid}{english}
+      \field{title}{{{AGRICULTURE LAND USE IN NEPAL}}: {{PROSPECTS AND IMPACTS ON FOOD SECURITY}}}
+      \field{volume}{3}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb G:\fresh_start\ag_banke\01paper\start_final\received\all references used\all references used\1._Agriculture_land_use in_Nepal_Prospects_and_impacts_on_food_security_-_R._H._Timilsina,_G._P._Ojha,_P._B._Nepali,_and_U._Tiwari.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
