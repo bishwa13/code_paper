@@ -1,19 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'nutrient_paper_notes.blg'
-[318] biber-MSWIN64:340> INFO - === 
-[438] Biber.pm:419> INFO - Reading 'nutrient_paper_notes.bcf'
-[769] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
-[819] Biber.pm:4419> INFO - Processing section 0
-[857] Biber.pm:4610> INFO - Looking for bibtex file 'nutrient_paper_notes.bib' for section 0
-[1011] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1782] bibtex.pm:1519> INFO - Found BibTeX data source 'nutrient_paper_notes.bib'
-[1945] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1945] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1947] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[1947] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[1964] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1964] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1964] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[1964] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[1969] bbl.pm:660> INFO - Writing 'nutrient_paper_notes.bbl' with encoding 'UTF-8'
-[1974] bbl.pm:763> INFO - Output to nutrient_paper_notes.bbl
+[439] biber-MSWIN64:340> INFO - === 
+[629] Biber.pm:419> INFO - Reading 'nutrient_paper_notes.bcf'
+[903] Biber.pm:979> INFO - Found 2 citekeys in bib section 0
+[944] Biber.pm:4419> INFO - Processing section 0
+[1000] Biber.pm:4610> INFO - Looking for bibtex file 'nutrient_paper_notes.bib' for section 0
+[1142] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1876] bibtex.pm:1519> INFO - Found BibTeX data source 'nutrient_paper_notes.bib'
+[2072] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2072] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2073] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[2073] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2092] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2092] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2093] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[2093] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2181] bbl.pm:660> INFO - Writing 'nutrient_paper_notes.bbl' with encoding 'UTF-8'
+[2191] bbl.pm:763> INFO - Output to nutrient_paper_notes.bbl

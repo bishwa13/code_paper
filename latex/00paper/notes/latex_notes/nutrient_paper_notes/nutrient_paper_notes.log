@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  11 MAR 2025 00:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  11 MAR 2025 16:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -771,9 +771,16 @@ Overfull \hbox (49.5235pt too wide) in paragraph at lines 43--43
 |[]\OT1/cmr/bx/n/17.28 AGRICULTURE LAND USE IN NEPAL: PROSPECTS
  []
 
-[1
+LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+ (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./nutrient_paper_notes.aux)
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./nutrient_paper_notes.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -785,18 +792,18 @@ Package logreq Info: Writing requests to 'nutrient_paper_notes.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21564 strings out of 474115
- 374791 string characters out of 5747696
- 1936190 words of memory out of 5000000
- 43679 multiletter control sequences out of 15000+600000
- 559917 words of font info for 42 fonts, out of 8000000 for 9000
+ 21633 strings out of 474115
+ 376101 string characters out of 5747696
+ 1945190 words of memory out of 5000000
+ 43726 multiletter control sequences out of 15000+600000
+ 564264 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,5n,117p,1849b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,11n,117p,1849b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on nutrient_paper_notes.pdf (1 page, 53620 bytes).
+Output written on nutrient_paper_notes.pdf (2 pages, 61263 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 51 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
