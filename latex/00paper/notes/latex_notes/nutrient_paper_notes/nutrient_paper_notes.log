@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  11 MAR 2025 16:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  14 MAR 2025 21:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -771,39 +771,130 @@ Overfull \hbox (49.5235pt too wide) in paragraph at lines 43--43
 |[]\OT1/cmr/bx/n/17.28 AGRICULTURE LAND USE IN NEPAL: PROSPECTS
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 64.
+[1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+g:/fresh_start/paper/code_paper/latex/00paper/notes/latex_notes/nutrient_paper_notes/nutrient_paper_notes.tex:70: Misplaced alignment tab character &.
+l.70 Ojha, R., Shrestha, S., Khadka, Y., &
+                                           Panday, D. (2021). Potassium nutr...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+g:/fresh_start/paper/code_paper/latex/00paper/notes/latex_notes/nutrient_paper_notes/nutrient_paper_notes.tex:72: Misplaced alignment tab character &.
+l.72 Rawal, N., Pande, K., Shrestha, R., &
+                                           Vista, S. (2022). Nutrient use ef...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+g:/fresh_start/paper/code_paper/latex/00paper/notes/latex_notes/nutrient_paper_notes/nutrient_paper_notes.tex:74: Misplaced alignment tab character &.
+l.74 Rawal, N., Pande, K., Shrestha, R., &
+                                           Vista, S. (2022). Soil Nutrient B...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+g:/fresh_start/paper/code_paper/latex/00paper/notes/latex_notes/nutrient_paper_notes/nutrient_paper_notes.tex:76: Misplaced alignment tab character &.
+l.76 ...n, E., Pandey, S., Hobbs, P., Joshy, D., &
+                                                   Mishra, R. (2001). Long-t...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (94.21996pt too wide) in paragraph at lines 76--77
+\OT1/cmr/m/n/12 wheat ex-per-i-ment in Nepal. Bi-ol-ogy and Fer-til-ity of Soils, 34, 73-78. https://doi.org/10.1007/s003740100377 
+ []
+
+g:/fresh_start/paper/code_paper/latex/00paper/notes/latex_notes/nutrient_paper_notes/nutrient_paper_notes.tex:78: Misplaced alignment tab character &.
+l.78 ...e, D., Hobbs, P., Joshy, D., Maskey, S., &
+                                                   Pandey, S. (2002). Yield ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+g:/fresh_start/paper/code_paper/latex/00paper/notes/latex_notes/nutrient_paper_notes/nutrient_paper_notes.tex:80: Misplaced alignment tab character &.
+l.80 ...ch, F., Maskey, S., Pande, K., Shah, S., &
+                                                   Shrestha, S. (2007). Effe...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (36.34558pt too wide) in paragraph at lines 80--81
+\OT1/cmr/m/n/12 ta-tions of Nepal. Field Crops Re-search, 103, 98-108. https://doi.org/10.1016/J.FCR.2007.05.002 
+ []
+
+[2]
+g:/fresh_start/paper/code_paper/latex/00paper/notes/latex_notes/nutrient_paper_notes/nutrient_paper_notes.tex:82: Misplaced alignment tab character &.
+l.82 Tiwari, K., Sitaula, B., Bajracharya, R., &
+                                                 Børresen, T. (2010). Effec...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 113.
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 64.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 113.
  (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./nutrient_paper_notes.aux)
+) [3] (./nutrient_paper_notes.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `nutrient_paper_notes.out' has not changed.
 (rerunfilecheck)             Checksum: DBD7F6D1B0835C9161D8C07F7DE6B483;418.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                nutrient_paper_notes
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'nutrient_paper_notes.run.xml'.
 \openout1 = `nutrient_paper_notes.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21633 strings out of 474115
- 376101 string characters out of 5747696
- 1945190 words of memory out of 5000000
- 43726 multiletter control sequences out of 15000+600000
+ 21623 strings out of 474115
+ 375888 string characters out of 5747696
+ 1939190 words of memory out of 5000000
+ 43716 multiletter control sequences out of 15000+600000
  564264 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,11n,117p,1849b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,6n,117p,1849b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on nutrient_paper_notes.pdf (2 pages, 61263 bytes).
+Output written on nutrient_paper_notes.pdf (3 pages, 65967 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 53 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 

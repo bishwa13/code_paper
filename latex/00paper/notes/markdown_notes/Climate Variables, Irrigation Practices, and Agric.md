@@ -1,6 +1,9 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+---
+type : note
+---
 
-# 
+#paper_climate_change
+
 
 ---
 
@@ -104,7 +107,7 @@ This study reveals the complex interplay between climate variables, irrigation p
 
 These findings highlight several priority areas for agricultural enhancement, including solar radiation optimization, improved precipitation management, irrigation expansion, and farming system diversification. Future research should address the methodological limitations of this study by incorporating additional variables, exploring non-linear relationships, and examining interaction effects between climate factors and management practices. Such expanded analyses would provide more comprehensive insights into climate resilience pathways for Nepalese agriculture.
 
-<div style="text-align: center">⁂</div>
+
 
 [^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/1433333/a56c9025-2a3a-47d9-a660-4d5b16cdbd5b/paste-2.txt
 
@@ -164,3 +167,121 @@ These findings highlight several priority areas for agricultural enhancement, in
 
 [^29]: https://www.semanticscholar.org/paper/dc8c5883376c5dcd74de39d76e719e115fd73d36
 
+## **Summary of Table 11: Awareness of Climate Change and Its Impact on Agriculture Among Farmers**
+
+This table presents data on the number of farming households in various local levels of Banke District and their awareness of climate change, as well as the perceived impacts of climate change on agriculture. The data specifically highlights the number of farmers who recognize climate change and those who report experiencing its effects on their agricultural activities.  
+
+### **Key Findings:**  
+
+1. **Total Farmers and Climate Change Awareness:**  
+   - In **Banke District**, there are **67,885** farming households.  
+   - Among them, **29,165** households (approximately 43%) are aware of climate change.  
+   - Out of those aware, **25,915** farmers reported experiencing the impact of climate change on agriculture.  
+
+2. **Climate Change Impact on Agriculture:**  
+   The farmers who reported climate change effects experienced various agricultural impacts, including:  
+   - **Reduction in Production:** 21,142 households observed a decline in crop yield.  
+   - **Increase in Production:** 4,804 households noted an improvement in crop yield.  
+   - **Changes in Crop/Fruit Size:** 7,377 households reported changes in the size of their crops or fruits.  
+   - **Taste Alterations:** 8,286 farmers experienced changes in the taste of their produce.  
+   - **Shifts in Planting Time:** 9,474 farmers observed differences in sowing and harvesting periods.  
+   - **Unusual Rainfall Patterns:** 13,537 households reported excessive or insufficient rainfall.  
+   - **Increase in Pests and Diseases:** 14,433 farmers noticed a rise in pest infestations and crop diseases.  
+   - **Changes in Breeding Period:** 1,512 farmers identified shifts in breeding times.  
+   - **Loss or Evolution of Crop Species:** 2,202 farmers reported the extinction or emergence of new crop varieties.  
+   - **Other Unspecified Effects:** 37 households noted other climate-related changes.  
+
+3. **Case of Janaki Rural Municipality:**  
+   - **Total Farming Households:** 6,274  
+   - **Climate Change Awareness:** 1,925 households (approximately 31%)  
+   - **Farmers Experiencing Climate Impact:** 1,401 households  
+   - **Notable Agricultural Effects:**  
+     - 764 households observed decreased production.  
+     - 45 households reported increased production.  
+     - 372 noted changes in crop size.  
+     - 199 experienced taste alterations.  
+     - 406 observed shifts in planting times.  
+     - 605 reported unusual rainfall.  
+     - 631 noticed an increase in pest and disease outbreaks.  
+     - No households reported changes in breeding periods or loss of crop species.  
+
+#### **Conclusion:**
+
+The data indicates that a significant proportion of farmers in Banke District and Janaki Rural Municipality are aware of climate change and recognize its impact on their agricultural activities. The most commonly reported effects include decreased production, changes in planting times, and increased pest and disease outbreaks. These findings highlight the urgent need for adaptive agricultural strategies, improved irrigation systems, and climate-resilient crop varieties to mitigate the adverse impacts of climate change on farming.
+
+---
+
+## **Detailed Summary of Table 11: Awareness of Climate Change and Its Impact on Agriculture (With Percentages)**  
+
+This table provides insights into farmers' awareness of climate change and its impacts on agricultural activities in Banke District, including Janaki Rural Municipality. It quantifies the number of farming households aware of climate change and the specific agricultural challenges they attribute to it.  
+
+---
+
+### **1. Climate Change Awareness Among Farmers**
+
+- **Total Farming Households in Banke District:** **67,885**  
+- **Farmers Aware of Climate Change:** **29,165** (**42.96% of total farmers**)  
+- **Farmers Reporting Climate Change Impacts on Agriculture:** **25,915** (**89% of those aware, 38.17% of total farmers**)  
+
+---
+
+### **2. Climate Change Impact on Agriculture in Banke District**
+
+Among the **25,915** farmers who reported climate change impacts, the specific challenges and their occurrences are:  
+
+| **Climate Change Impact**                  | **Number of Farmers** | **Percentage (of 25,915 impacted farmers)** | **Percentage (of total 67,885 farmers)** |
+|--------------------------------------------|----------------------|--------------------------------|--------------------------------|
+| **Reduction in Production**               | **21,142**           | **81.58%**                    | **31.13%**                    |
+| **Increase in Production**                 | **4,804**            | **18.54%**                    | **7.07%**                     |
+| **Changes in Crop/Fruit Size**             | **7,377**            | **28.47%**                    | **10.87%**                    |
+| **Taste Alterations**                      | **8,286**            | **31.99%**                    | **12.21%**                    |
+| **Shifts in Planting Time**                | **9,474**            | **36.57%**                    | **13.95%**                    |
+| **Unusual Rainfall Patterns**              | **13,537**           | **52.24%**                    | **19.94%**                    |
+| **Increase in Pests and Diseases**         | **14,433**           | **55.71%**                    | **21.26%**                    |
+| **Changes in Breeding Period**             | **1,512**            | **5.83%**                     | **2.23%**                     |
+| **Loss/Emergence of Crop Varieties**       | **2,202**            | **8.50%**                     | **3.24%**                     |
+| **Other Unspecified Effects**              | **37**               | **0.14%**                     | **0.05%**                      |
+
+---
+
+### **3. Climate Change Awareness and Impacts in Janaki Rural Municipality**
+
+- **Total Farming Households:** **6,274**  
+- **Farmers Aware of Climate Change:** **1,925** (**30.68% of total farmers**)  
+- **Farmers Reporting Climate Change Impacts:** **1,401** (**72.76% of those aware, 22.33% of total farmers**)  
+
+#### **Reported Agricultural Impacts in Janaki Rural Municipality:**  
+
+| **Climate Change Impact**                  | **Number of Farmers** | **Percentage (of 1,401 impacted farmers)** | **Percentage (of total 6,274 farmers)** |
+|--------------------------------------------|----------------------|--------------------------------|--------------------------------|
+| **Reduction in Production**               | **764**              | **54.53%**                    | **12.18%**                     |
+| **Increase in Production**                 | **45**               | **3.21%**                     | **0.72%**                      |
+| **Changes in Crop/Fruit Size**             | **372**              | **26.55%**                    | **5.93%**                      |
+| **Taste Alterations**                      | **199**              | **14.20%**                    | **3.17%**                      |
+| **Shifts in Planting Time**                | **406**              | **28.98%**                    | **6.47%**                      |
+| **Unusual Rainfall Patterns**              | **605**              | **43.25%**                    | **9.64%**                      |
+| **Increase in Pests and Diseases**         | **631**              | **45.04%**                    | **10.06%**                     |
+| **Changes in Breeding Period**             | **0**                | **0.00%**                     | **0.00%**                      |
+| **Loss/Emergence of Crop Varieties**       | **0**                | **0.00%**                     | **0.00%**                      |
+| **Other Unspecified Effects**              | **0**                | **0.00%**                     | **0.00%**                      |
+
+---
+
+### **4. Key Observations and Comparisons**
+
+- Climate change awareness is higher in **Banke District (42.96%)** compared to **Janaki Rural Municipality (30.68%)**.  
+- A higher proportion of farmers in **Banke (89%)** reported experiencing climate-related agricultural changes compared to **Janaki (72.76%)**.  
+- The **most commonly reported agricultural challenges** in both areas include **reduced production, pest/disease outbreaks, irregular rainfall, and shifts in planting times**.  
+- Only a **small percentage of farmers (5.83% in Banke, 0% in Janaki)** reported changes in breeding periods, while **crop species loss/emergence was recognized by 8.50% of affected Banke farmers but none in Janaki**.  
+
+---
+
+### **5. Conclusion and Recommendations**
+
+- **Majority of Farmers Experience Negative Climate Effects:** Over 80% of farmers in Banke and over 50% in Janaki reported climate change negatively impacting their crop production.  
+- **Need for Climate-Resilient Strategies:** Given that 55.71% of impacted Banke farmers and 45.04% in Janaki observed an increase in pest/disease outbreaks, investments in pest-resistant crop varieties and improved pest control measures are essential.  
+- **Water Management Strategies are Crucial:** With **52.24% of affected farmers in Banke and 43.25% in Janaki citing excessive or insufficient rainfall**, irrigation improvements and water conservation techniques should be prioritized.  
+- **Farmers Require Better Adaptation Training:** The shift in planting times (reported by 36.57% in Banke and 28.98% in Janaki) suggests a need for **updated agricultural calendars, drought-resistant crops, and improved forecasting** to support farmers in adjusting their practices.  
+- **Localized Climate Adaptation Plans:** Given the variation in climate impact awareness and experiences between Banke and Janaki, policies should be **tailored to specific local conditions**, considering differences in vulnerability and agricultural practices.  
+
+Overall, this analysis highlights the significant and multifaceted impact of climate change on farming communities, reinforcing the urgent need for **climate adaptation measures, farmer education, and policy interventions** to ensure agricultural sustainability and food security in Nepal.
