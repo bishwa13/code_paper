@@ -1,0 +1,24 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'nutrient_paper_notes.blg'
+[459] biber-MSWIN64:340> INFO - === 
+[669] Biber.pm:419> INFO - Reading 'nutrient_paper_notes.bcf'
+[975] Biber.pm:979> INFO - Found 5 citekeys in bib section 0
+[1026] Biber.pm:4419> INFO - Processing section 0
+[1090] Biber.pm:4610> INFO - Looking for bibtex file 'nutrient_paper_notes.bib' for section 0
+[1216] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2084] bibtex.pm:1519> INFO - Found BibTeX data source 'nutrient_paper_notes.bib'
+[2296] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2296] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2298] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[2298] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2315] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2316] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2316] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[2316] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[2319] bbl.pm:660> INFO - Writing 'nutrient_paper_notes.bbl' with encoding 'UTF-8'
+[2326] bbl.pm:763> INFO - Output to nutrient_paper_notes.bbl
+[2327] Biber.pm:131> WARN - I didn't find a database entry for '@ningLandUseCover' (section 0)
+[2327] Biber.pm:131> WARN - I didn't find a database entry for '@simkhadaReviewNepalsIncreasing2019' (section 0)
+[2327] Biber.pm:131> WARN - I didn't find a database entry for '@rawalSoilNutrientBalance2022' (section 0)
+[2327] Biber.pm:131> WARN - I didn't find a database entry for '@rawalNutrientUseEfficiency2022' (section 0)
+[2328] Biber.pm:133> INFO - WARNINGS: 4
