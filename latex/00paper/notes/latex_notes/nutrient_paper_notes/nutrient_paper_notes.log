@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  19 MAR 2025 00:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  20 MAR 2025 19:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -739,28 +739,14 @@ Package biblatex Info: ... file 'nutrient_paper_notes.bbl' found.
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                @ningLandUseCover
+(biblatex)                nepalIntegratedAssessmentIrrigation2024
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                @rawalNutrientUseEfficiency2022
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                @rawalSoilNutrientBalance2022
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                @simkhadaReviewNepalsIncreasing2019
+(biblatex)                ningLandUseCover
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -801,75 +787,110 @@ Overfull \hbox (62.67816pt too wide) in paragraph at lines 42--43
  []
 
 
-LaTeX Warning: Citation '@ningLandUseCover' on page 1 undefined on input line 46.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
-(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
- (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (12.70352pt too wide) in paragraph at lines 53--53
-|[]\OT1/cmr/bx/n/17.28 REVIEW ON NEPAL'S IN-CREAS-ING AGRI-CUL-
+Overfull \hbox (7.7834pt too wide) in paragraph at lines 49--49
+|[]\OT1/cmr/bx/n/17.28 ASSESSMENT OF CLI-MATE CHANGE IM-PACT
  []
 
 
-LaTeX Warning: Citation '@simkhadaReviewNepalsIncreasing2019' on page 1 undefined on input line 54.
+Overfull \hbox (42.8413pt too wide) in paragraph at lines 49--49
+\OT1/cmr/bx/n/17.28 RE-QUIRE-MENT OF TWO MA-JOR CE-REAL CROPS
+ []
+
+
+Overfull \hbox (22.40123pt too wide) in paragraph at lines 60--60
+|[]\OT1/cmr/bx/n/17.28 SOIL OR-GANIC MAT-TER CON-TENT AND CROP
+ []
 
 [1
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (49.5235pt too wide) in paragraph at lines 63--63
+Overfull \hbox (15.92337pt too wide) in paragraph at lines 69--69
+\OT1/cmr/bx/n/17.28 FIELD TECH-NIQUE TO TEST-VALUE SPE-CIFIC
+ []
+
+[2]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 84.
+ (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 84.
+ (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (60.55077pt too wide) in paragraph at lines 84--93
+ [][] 
+ []
+
+
+LaTeX Warning: Citation 'ningLandUseCover' on page 3 undefined on input line 99.
+
+
+Overfull \hbox (12.70352pt too wide) in paragraph at lines 106--106
+|[]\OT1/cmr/bx/n/17.28 REVIEW ON NEPAL'S IN-CREAS-ING AGRI-CUL-
+ []
+
+
+Overfull \hbox (49.5235pt too wide) in paragraph at lines 116--116
 |[]\OT1/cmr/bx/n/17.28 AGRICULTURE LAND USE IN NEPAL: PROSPECTS
  []
 
-
-Overfull \hbox (17.60559pt too wide) in paragraph at lines 69--69
-\OT1/cmr/bx/n/17.28 FER-TIL-IZA-TION IN MAIZE-WHEAT CROP-PING
+[3]
+Overfull \hbox (13.94339pt too wide) in paragraph at lines 122--122
+\OT1/cmr/bx/n/17.28 OF FER-TIL-IZA-TION IN MAIZE-WHEAT CROP-
  []
 
-
-LaTeX Warning: Citation '@rawalSoilNutrientBalance2022' on page 2 undefined on input line 70.
-
-[2]
-Overfull \hbox (25.02135pt too wide) in paragraph at lines 81--81
+[4]
+Overfull \hbox (34.74133pt too wide) in paragraph at lines 134--134
 |[]\OT1/cmr/bx/n/17.28 NUTRIENT USE EF-FI-CIENCY (NUE) OF WHEAT
  []
 
 
-Overfull \hbox (1.56349pt too wide) in paragraph at lines 81--81
-\OT1/cmr/bx/n/17.28 (TRITICUM AES-TIVUM L.) AS AF-FECTED BY
+Overfull \hbox (11.36551pt too wide) in paragraph at lines 138--138
+|[]\OT1/cmr/bx/n/17.28 INTEGRATED AS-SESS-MENT OF IR-RI-GA-TION
  []
 
 
-LaTeX Warning: Citation '@rawalNutrientUseEfficiency2022' on page 3 undefined on input line 82.
+Overfull \hbox (2.06567pt too wide) in paragraph at lines 138--138
+\OT1/cmr/bx/n/17.28 AND AGRI-CUL-TURE MAN-AGE-MENT CHAL-
+ []
 
-[3] [4] (./nutrient_paper_notes.aux)
+
+Overfull \hbox (12.4457pt too wide) in paragraph at lines 138--138
+\OT1/cmr/bx/n/17.28 LENGES IN NEPAL: AN IN-TER-DIS-CI-PLINARY
+ []
+
+
+LaTeX Warning: Citation 'nepalIntegratedAssessmentIrrigation2024' on page 5 undefined on input line 139.
+
+[5] [6] (./nutrient_paper_notes.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `nutrient_paper_notes.out' has not changed.
-(rerunfilecheck)             Checksum: A830BF29AB4AFADE1D7E6934AE2AD899;2620.
+(rerunfilecheck)             Checksum: A4E38B9F41D33F3C856C20C3BDE66EF0;5914.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'nutrient_paper_notes.run.xml'.
 \openout1 = `nutrient_paper_notes.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21627 strings out of 474115
- 375625 string characters out of 5747696
- 1936190 words of memory out of 5000000
- 43715 multiletter control sequences out of 15000+600000
+ 21719 strings out of 474115
+ 378687 string characters out of 5747696
+ 1937190 words of memory out of 5000000
+ 43790 multiletter control sequences out of 15000+600000
  564571 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,6n,117p,1849b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on nutrient_paper_notes.pdf (4 pages, 89173 bytes).
+ 86i,10n,117p,1965b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on nutrient_paper_notes.pdf (6 pages, 97501 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 142 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
