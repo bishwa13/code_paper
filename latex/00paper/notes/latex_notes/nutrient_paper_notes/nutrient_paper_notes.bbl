@@ -244,6 +244,149 @@
       \verb https://soil.narc.gov.np/
       \endverb
     \endentry
+    \entry{nepalIntegratedAssessmentIrrigation2024}{article}{}
+      \name{author}{16}{}{%
+        {{un=0,uniquepart=base,hash=6b2f4bbbaa1fa847076e5e207bc3c308}{%
+           family={Nepal},
+           familyi={N\bibinitperiod},
+           given={Santosh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f151c92f8aee4bf90030abd967a2888}{%
+           family={Neupane},
+           familyi={N\bibinitperiod},
+           given={Nilhari},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b4a9250e3987903fb8bc0edf8496d8b}{%
+           family={Koirala},
+           familyi={K\bibinitperiod},
+           given={Sanju},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9f2eb1f46686baeec3b9e5220e74004}{%
+           family={Lautze},
+           familyi={L\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6181fd2bc656dffa39d05362b5f2a262}{%
+           family={Shrestha},
+           familyi={S\bibinitperiod},
+           given={Ram\bibnamedelima Narayan},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5e1fd58b3182f16766ebed5d7dfc9ed}{%
+           family={Bhatt},
+           familyi={B\bibinitperiod},
+           given={Dinesh},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dce37548bdd608802dd17da1c859c80d}{%
+           family={Shrestha},
+           familyi={S\bibinitperiod},
+           given={Nirman},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7672881c5738b5383efb09639aea8ea}{%
+           family={Adhikari},
+           familyi={A\bibinitperiod},
+           given={Manju},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d3f2616b9c618abb8f2609fee58689a}{%
+           family={Kaini},
+           familyi={K\bibinitperiod},
+           given={Santosh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1b29d495c5f013810a096948eea0185}{%
+           family={Karki},
+           familyi={K\bibinitperiod},
+           given={Shanta},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48f9288d5d8ca607c7b0ae39d8aa8945}{%
+           family={Yangkhurung},
+           familyi={Y\bibinitperiod},
+           given={Jigyasha\bibnamedelima Rai},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9b33405586472603e987eb6f577b2b4}{%
+           family={Gnawali},
+           familyi={G\bibinitperiod},
+           given={Kapil},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ac64b39b759c7a4ea9b2e602afcaabc}{%
+           family={Singh\bibnamedelima Pradhan},
+           familyi={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Ananta\bibnamedelima Man},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53af8c904aff921b7a151fcdd9aa8e12}{%
+           family={Timsina},
+           familyi={T\bibinitperiod},
+           given={Krishna},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac100744d401ecc6da8342319b44dc1c}{%
+           family={Pradhananga},
+           familyi={P\bibinitperiod},
+           given={Saurav},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53c4ebe68dd0c5bd9d2a03c746ed5d72}{%
+           family={Khadka},
+           familyi={K\bibinitperiod},
+           given={Manohara},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cd7982062c1f3a6b259f6433a5d53ff9}
+      \strng{fullhash}{fa5cef360115c582be5e6c2b68133cf1}
+      \strng{bibnamehash}{fa5cef360115c582be5e6c2b68133cf1}
+      \strng{authorbibnamehash}{fa5cef360115c582be5e6c2b68133cf1}
+      \strng{authornamehash}{cd7982062c1f3a6b259f6433a5d53ff9}
+      \strng{authorfullhash}{fa5cef360115c582be5e6c2b68133cf1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Agriculture plays a critical role in ensuring food and nutrition security, livelihood, and rural employment in Nepal. Despite substantial investments and institutional reforms, irrigation projects have faced consistently low performance. While existing studies have shed light on technical aspects of irrigation performance, they often focus on specific themes rather than holistic evaluations of sustainability. This research systematically assesses barriers and challenges to effective irrigation water management in Nepal by assessing and ranking the challenges faced by three irrigation systems in western Nepal: Mahakali, Rani Jamara Kulariya, and Babai. To investigate these challenges, we collected data from 449 households, which provided insights into 33 indicators representing key barriers to effective irrigation and agricultural management. The identified challenges were categorized into four broad thematic areas: physical and structural, agricultural and water, socioeconomic and market, and gender and governance. A comprehensive evaluation was conducted to compare these challenges among the three irrigation schemes, different thematic areas, and various locations within each scheme (namely, the head, mid, and tail sections of the system). The findings revealed that timely access and availability of fertilizers, spring water availability and fair market prices of agricultural products are the most significant challenges. The Babai irrigation system faced the most substantial challenges among the three systems, particularly in the mid section. These findings emphasize the interconnectedness of these challenges, highlighting the need for a holistic approach to planning, implementation, and management. Integrated strategies are essential to address socioeconomic, market, and endogenous farming issues, ensuring reliable irrigation water availability for sustainable agricultural production.}
+      \field{issn}{24058440}
+      \field{journaltitle}{Heliyon}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{9}
+      \field{shortjournal}{Heliyon}
+      \field{shorttitle}{Integrated Assessment of Irrigation and Agriculture Management Challenges in {{Nepal}}}
+      \field{title}{Integrated Assessment of Irrigation and Agriculture Management Challenges in {{Nepal}}: {{An}} Interdisciplinary Perspective}
+      \field{urlday}{20}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{volume}{10}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e29407}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.heliyon.2024.e29407
+      \endverb
+      \verb{file}
+      \verb C:\Users\Administrator\Zotero\storage\EFFCVGJQ\Nepal et al. - 2024 - Integrated assessment of irrigation and agriculture management challenges in Nepal An interdiscipli.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2405844024054380
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2405844024054380
+      \endverb
+    \endentry
     \entry{rawalNutrientUseEfficiency2022}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=2ae6474d37a9f3e693caf624cc684445}{%
@@ -796,6 +939,149 @@
       \verb https://soil.narc.gov.np/
       \endverb
     \endentry
+    \entry{nepalIntegratedAssessmentIrrigation2024}{article}{}
+      \name{author}{16}{}{%
+        {{un=0,uniquepart=base,hash=6b2f4bbbaa1fa847076e5e207bc3c308}{%
+           family={Nepal},
+           familyi={N\bibinitperiod},
+           given={Santosh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f151c92f8aee4bf90030abd967a2888}{%
+           family={Neupane},
+           familyi={N\bibinitperiod},
+           given={Nilhari},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b4a9250e3987903fb8bc0edf8496d8b}{%
+           family={Koirala},
+           familyi={K\bibinitperiod},
+           given={Sanju},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9f2eb1f46686baeec3b9e5220e74004}{%
+           family={Lautze},
+           familyi={L\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6181fd2bc656dffa39d05362b5f2a262}{%
+           family={Shrestha},
+           familyi={S\bibinitperiod},
+           given={Ram\bibnamedelima Narayan},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5e1fd58b3182f16766ebed5d7dfc9ed}{%
+           family={Bhatt},
+           familyi={B\bibinitperiod},
+           given={Dinesh},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dce37548bdd608802dd17da1c859c80d}{%
+           family={Shrestha},
+           familyi={S\bibinitperiod},
+           given={Nirman},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7672881c5738b5383efb09639aea8ea}{%
+           family={Adhikari},
+           familyi={A\bibinitperiod},
+           given={Manju},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d3f2616b9c618abb8f2609fee58689a}{%
+           family={Kaini},
+           familyi={K\bibinitperiod},
+           given={Santosh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1b29d495c5f013810a096948eea0185}{%
+           family={Karki},
+           familyi={K\bibinitperiod},
+           given={Shanta},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48f9288d5d8ca607c7b0ae39d8aa8945}{%
+           family={Yangkhurung},
+           familyi={Y\bibinitperiod},
+           given={Jigyasha\bibnamedelima Rai},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9b33405586472603e987eb6f577b2b4}{%
+           family={Gnawali},
+           familyi={G\bibinitperiod},
+           given={Kapil},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ac64b39b759c7a4ea9b2e602afcaabc}{%
+           family={Singh\bibnamedelima Pradhan},
+           familyi={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Ananta\bibnamedelima Man},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53af8c904aff921b7a151fcdd9aa8e12}{%
+           family={Timsina},
+           familyi={T\bibinitperiod},
+           given={Krishna},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac100744d401ecc6da8342319b44dc1c}{%
+           family={Pradhananga},
+           familyi={P\bibinitperiod},
+           given={Saurav},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53c4ebe68dd0c5bd9d2a03c746ed5d72}{%
+           family={Khadka},
+           familyi={K\bibinitperiod},
+           given={Manohara},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cd7982062c1f3a6b259f6433a5d53ff9}
+      \strng{fullhash}{fa5cef360115c582be5e6c2b68133cf1}
+      \strng{bibnamehash}{fa5cef360115c582be5e6c2b68133cf1}
+      \strng{authorbibnamehash}{fa5cef360115c582be5e6c2b68133cf1}
+      \strng{authornamehash}{cd7982062c1f3a6b259f6433a5d53ff9}
+      \strng{authorfullhash}{fa5cef360115c582be5e6c2b68133cf1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Agriculture plays a critical role in ensuring food and nutrition security, livelihood, and rural employment in Nepal. Despite substantial investments and institutional reforms, irrigation projects have faced consistently low performance. While existing studies have shed light on technical aspects of irrigation performance, they often focus on specific themes rather than holistic evaluations of sustainability. This research systematically assesses barriers and challenges to effective irrigation water management in Nepal by assessing and ranking the challenges faced by three irrigation systems in western Nepal: Mahakali, Rani Jamara Kulariya, and Babai. To investigate these challenges, we collected data from 449 households, which provided insights into 33 indicators representing key barriers to effective irrigation and agricultural management. The identified challenges were categorized into four broad thematic areas: physical and structural, agricultural and water, socioeconomic and market, and gender and governance. A comprehensive evaluation was conducted to compare these challenges among the three irrigation schemes, different thematic areas, and various locations within each scheme (namely, the head, mid, and tail sections of the system). The findings revealed that timely access and availability of fertilizers, spring water availability and fair market prices of agricultural products are the most significant challenges. The Babai irrigation system faced the most substantial challenges among the three systems, particularly in the mid section. These findings emphasize the interconnectedness of these challenges, highlighting the need for a holistic approach to planning, implementation, and management. Integrated strategies are essential to address socioeconomic, market, and endogenous farming issues, ensuring reliable irrigation water availability for sustainable agricultural production.}
+      \field{issn}{24058440}
+      \field{journaltitle}{Heliyon}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{9}
+      \field{shortjournal}{Heliyon}
+      \field{shorttitle}{Integrated Assessment of Irrigation and Agriculture Management Challenges in {{Nepal}}}
+      \field{title}{Integrated Assessment of Irrigation and Agriculture Management Challenges in {{Nepal}}: {{An}} Interdisciplinary Perspective}
+      \field{urlday}{20}
+      \field{urlmonth}{3}
+      \field{urlyear}{2025}
+      \field{volume}{10}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{e29407}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.heliyon.2024.e29407
+      \endverb
+      \verb{file}
+      \verb C:\Users\Administrator\Zotero\storage\EFFCVGJQ\Nepal et al. - 2024 - Integrated assessment of irrigation and agriculture management challenges in Nepal An interdiscipli.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2405844024054380
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S2405844024054380
+      \endverb
+    \endentry
     \entry{rawalNutrientUseEfficiency2022}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=2ae6474d37a9f3e693caf624cc684445}{%
@@ -1122,7 +1408,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{nepalIntegratedAssessmentIrrigation2024}
   \missing{ningLandUseCover}
 \endrefsection
 \endinput
