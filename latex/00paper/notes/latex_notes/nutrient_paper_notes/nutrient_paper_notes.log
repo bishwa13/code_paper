@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  21 MAR 2025 01:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  8 APR 2025 11:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -650,7 +650,8 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 )
 \@quotelevel=\count443
 \@quotereset=\count444
- (./nutrient_paper_notes.aux)
+
+No file nutrient_paper_notes.aux.
 \openout1 = `nutrient_paper_notes.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
@@ -671,7 +672,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -734,19 +734,12 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `nutrient_paper_notes.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'nutrient_paper_notes.bbl' found.
- (./nutrient_paper_notes.bbl
+Package biblatex Info: ... file 'nutrient_paper_notes.bbl' not found.
 
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                ningLandUseCover
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+No file nutrient_paper_notes.bbl.
 Package biblatex Info: Reference section=0 on input line 37.
 Package biblatex Info: Reference segment=0 on input line 37.
- (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count445
 \scratchdimen=\dimen268
@@ -770,7 +763,6 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 37.
- (./nutrient_paper_notes.out) (./nutrient_paper_notes.out)
 \@outlinefile=\write4
 \openout4 = `nutrient_paper_notes.out'.
 
@@ -780,102 +772,165 @@ Overfull \hbox (62.67816pt too wide) in paragraph at lines 42--43
  []
 
 
-Overfull \hbox (7.7834pt too wide) in paragraph at lines 49--49
+LaTeX Warning: Citation 'baralFarmersFertilizerApplication2020' on page 1 undefined on input line 49.
+
+
+Overfull \hbox (7.7834pt too wide) in paragraph at lines 53--53
 |[]\OT1/cmr/bx/n/17.28 ASSESSMENT OF CLI-MATE CHANGE IM-PACT
  []
 
 
-Overfull \hbox (42.8413pt too wide) in paragraph at lines 49--49
+Overfull \hbox (42.8413pt too wide) in paragraph at lines 53--53
 \OT1/cmr/bx/n/17.28 RE-QUIRE-MENT OF TWO MA-JOR CE-REAL CROPS
  []
 
 
-Overfull \hbox (22.40123pt too wide) in paragraph at lines 60--60
+LaTeX Warning: Citation 'shresthaAssessmentClimateChange2017' on page 1 undefined on input line 55.
+
+
+LaTeX Warning: Citation 'shresthaAssessmentClimateChange2017' on page 1 undefined on input line 58.
+
+
+Overfull \hbox (29.64078pt too wide) in paragraph at lines 58--60
+[]\OT1/cmr/m/n/12 A study con-ducted in Bhak-ta-pur dis-trict by ([])
+ []
+
+
+Overfull \hbox (22.40123pt too wide) in paragraph at lines 64--64
 |[]\OT1/cmr/bx/n/17.28 SOIL OR-GANIC MAT-TER CON-TENT AND CROP
  []
+
+
+LaTeX Warning: Citation 'lalSoilOrganicMatter2020' on page 1 undefined on input line 65.
+
+
+LaTeX Warning: Citation 'lalSoilOrganicMatter2020' on page 1 undefined on input line 68.
 
 [1
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (15.92337pt too wide) in paragraph at lines 69--69
+Overfull \hbox (15.92337pt too wide) in paragraph at lines 73--73
 \OT1/cmr/bx/n/17.28 FIELD TECH-NIQUE TO TEST-VALUE SPE-CIFIC
  []
 
+
+LaTeX Warning: Citation 'dahalNewApproachMeasure2024a' on page 2 undefined on input line 74.
+
 [2]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 84.
- (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+LaTeX Warning: Citation 'narc_soil_data' on page 3 undefined on input line 85.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
+(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 84.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
  (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (60.55077pt too wide) in paragraph at lines 84--93
+Overfull \hbox (60.55077pt too wide) in paragraph at lines 88--97
  [][] 
  []
 
 
-LaTeX Warning: Citation 'ningLandUseCover' on page 3 undefined on input line 99.
+LaTeX Warning: Citation 'ningLandUseCover' on page 3 undefined on input line 103.
 
 
-Overfull \hbox (12.70352pt too wide) in paragraph at lines 106--106
+Overfull \hbox (12.70352pt too wide) in paragraph at lines 110--110
 |[]\OT1/cmr/bx/n/17.28 REVIEW ON NEPAL'S IN-CREAS-ING AGRI-CUL-
  []
 
 
-Overfull \hbox (49.5235pt too wide) in paragraph at lines 116--116
+LaTeX Warning: Citation 'simkhadaReviewNepalsIncreasing2019' on page 3 undefined on input line 111.
+
+[3]
+Overfull \hbox (49.5235pt too wide) in paragraph at lines 120--120
 |[]\OT1/cmr/bx/n/17.28 AGRICULTURE LAND USE IN NEPAL: PROSPECTS
  []
 
-[3]
-Overfull \hbox (13.94339pt too wide) in paragraph at lines 122--122
+
+LaTeX Warning: Citation 'timilsinaAGRICULTURELANDUSE2019' on page 4 undefined on input line 121.
+
+
+Overfull \hbox (13.94339pt too wide) in paragraph at lines 126--126
 \OT1/cmr/bx/n/17.28 OF FER-TIL-IZA-TION IN MAIZE-WHEAT CROP-
  []
 
+
+LaTeX Warning: Citation 'rawalSoilNutrientBalance2022' on page 4 undefined on input line 127.
+
 [4]
-Overfull \hbox (34.74133pt too wide) in paragraph at lines 134--134
+Overfull \hbox (34.74133pt too wide) in paragraph at lines 138--138
 |[]\OT1/cmr/bx/n/17.28 NUTRIENT USE EF-FI-CIENCY (NUE) OF WHEAT
  []
 
 
-Overfull \hbox (11.36551pt too wide) in paragraph at lines 138--138
+LaTeX Warning: Citation 'rawalNutrientUseEfficiency2022' on page 5 undefined on input line 139.
+
+
+Overfull \hbox (11.36551pt too wide) in paragraph at lines 142--142
 |[]\OT1/cmr/bx/n/17.28 INTEGRATED AS-SESS-MENT OF IR-RI-GA-TION
  []
 
 
-Overfull \hbox (2.06567pt too wide) in paragraph at lines 138--138
+Overfull \hbox (2.06567pt too wide) in paragraph at lines 142--142
 \OT1/cmr/bx/n/17.28 AND AGRI-CUL-TURE MAN-AGE-MENT CHAL-
  []
 
 
-Overfull \hbox (12.4457pt too wide) in paragraph at lines 138--138
+Overfull \hbox (12.4457pt too wide) in paragraph at lines 142--142
 \OT1/cmr/bx/n/17.28 LENGES IN NEPAL: AN IN-TER-DIS-CI-PLINARY
  []
 
-[5] [6] (./nutrient_paper_notes.aux)
+
+LaTeX Warning: Citation 'nepalIntegratedAssessmentIrrigation2024' on page 5 undefined on input line 143.
+
+[5]
+
+LaTeX Warning: Empty bibliography on input line 251.
+
+[6] (./nutrient_paper_notes.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `nutrient_paper_notes.out' has not changed.
-(rerunfilecheck)             Checksum: A4E38B9F41D33F3C856C20C3BDE66EF0;5914.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `nutrient_paper_notes.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `nutrient_paper_notes.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  A4E38B9F41D33F3C856C20C3BDE66EF0;5914.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                nutrient_paper_notes
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'nutrient_paper_notes.run.xml'.
 \openout1 = `nutrient_paper_notes.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21727 strings out of 474115
- 379061 string characters out of 5747696
- 1939190 words of memory out of 5000000
- 43797 multiletter control sequences out of 15000+600000
- 564571 words of font info for 60 fonts, out of 8000000 for 9000
+ 21586 strings out of 474115
+ 374389 string characters out of 5747696
+ 1937190 words of memory out of 5000000
+ 43675 multiletter control sequences out of 15000+600000
+ 564224 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,10n,117p,2150b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on nutrient_paper_notes.pdf (6 pages, 98153 bytes).
+ 86i,10n,117p,1630b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on nutrient_paper_notes.pdf (6 pages, 76349 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 70 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
+ 20 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
