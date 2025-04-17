@@ -1,145 +1,189 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{24}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem{gyawaliOverviewAgricultureNepal2021}
-Gyawali P, Khanal S.
-\newblock Overview of {Agriculture} in {Nepal}: {Issues} and strategies to cope with.
-\newblock Fundamental and Applied Agriculture. 2021;6(3):323-35.
-\newblock Available from: \url{https://ejmanager.com/fulltextpdf.php?mno=89753}.
+\bibitem[Gyawali and Khanal(2021)]{gyawaliOverviewAgricultureNepal2021}
+Pramod Gyawali and Saugat Khanal.
+\newblock Overview of {{Agriculture}} in {{Nepal}}: {{Issues}} and strategies to cope with.
+\newblock \emph{Fundamental and Applied Agriculture}, 6\penalty0 (3):\penalty0 323--335, 2021.
+\newblock ISSN 2518-2021.
+\newblock \doi{10.5455/faa.89753}.
+\newblock URL \url{https://ejmanager.com/fulltextpdf.php?mno=89753}.
 
-\bibitem{mallaClimateChangeIts2009}
-Malla G.
-\newblock Climate {Change} and {Its} {Impact} on {Nepalese} {Agriculture}.
-\newblock Journal of Agriculture and Environment. 2009 Aug;9:62-71.
-\newblock Available from: \url{https://www.nepjol.info/index.php/AEJ/article/view/2119}.
+\bibitem[Malla(2009)]{mallaClimateChangeIts2009}
+Ghanashyam Malla.
+\newblock Climate {{Change}} and {{Its Impact}} on {{Nepalese Agriculture}}.
+\newblock \emph{Journal of Agriculture and Environment}, 9:\penalty0 62--71, August 2009.
+\newblock ISSN 2091-1009.
+\newblock \doi{10.3126/aej.v9i0.2119}.
+\newblock URL \url{https://www.nepjol.info/index.php/AEJ/article/view/2119}.
 
-\bibitem{global_paudel_2015}
-Paudel M.
-\newblock Global Effect of Climate Change and Food Security with Respect to {{Nepal}}.
-\newblock The Journal of Agriculture and Environment. 2015;16.
+\bibitem[Paudel(2015)]{global_paudel_2015}
+Mina~Nath Paudel.
+\newblock Global effect of climate change and food security with respect to {{Nepal}}.
+\newblock \emph{The Journal of Agriculture and Environment}, 16, 2015.
+\newblock \doi{10.3126/aej.v16i0.19836}.
 
-\bibitem{regmiCropYieldResponse2019}
-Regmi HR, Rijal K, Joshi GR, Sapkota RP, GC A, Thapa S.
+\bibitem[Regmi et~al.(2019)Regmi, Rijal, Joshi, Sapkota, GC, and Thapa]{regmiCropYieldResponse2019}
+Hem~Raj Regmi, Kedar Rijal, Ganesh~Raj Joshi, Ramesh~P Sapkota, Arun GC, and Sridhar Thapa.
 \newblock Crop {{Yield Response}} to {{Climate Change}} in {{Different Ecolozical Zones}} of {{Nepal}}.
-\newblock Asian Journal of Science and Technology. 2019.
+\newblock \emph{Asian Journal of Science and Technology}, 2019.
 
-\bibitem{mulunehImpactClimateChange2021}
-Muluneh MG.
-\newblock Impact of climate change on biodiversity and food security: a global perspective—a review article.
-\newblock Agriculture \& Food Security. 2021 Sep;10(1):36.
-\newblock Available from: \url{https://agricultureandfoodsecurity.biomedcentral.com/articles/10.1186/s40066-021-00318-5}.
+\bibitem[Muluneh(2021)]{mulunehImpactClimateChange2021}
+Melese~Genete Muluneh.
+\newblock Impact of climate change on biodiversity and food security: A global perspective---a review article.
+\newblock \emph{Agriculture \& Food Security}, 10\penalty0 (1):\penalty0 36, September 2021.
+\newblock ISSN 2048-7010.
+\newblock \doi{10.1186/s40066-021-00318-5}.
+\newblock URL \url{https://agricultureandfoodsecurity.biomedcentral.com/articles/10.1186/s40066-021-00318-5}.
 
-\bibitem{kangClimateChangeImpacts2009}
-Kang Y, Khan S, Ma X.
-\newblock Climate change impacts on crop yield, crop water productivity and food security – {A} review.
-\newblock Progress in Natural Science. 2009 Dec;19(12):1665-74.
-\newblock Available from: \url{https://linkinghub.elsevier.com/retrieve/pii/S1002007109002810}.
+\bibitem[Kang et~al.(2009)Kang, Khan, and Ma]{kangClimateChangeImpacts2009}
+Yinhong Kang, Shahbaz Khan, and Xiaoyi Ma.
+\newblock Climate change impacts on crop yield, crop water productivity and food security -- {{A}} review.
+\newblock \emph{Progress in Natural Science}, 19\penalty0 (12):\penalty0 1665--1674, December 2009.
+\newblock ISSN 10020071.
+\newblock \doi{10.1016/j.pnsc.2009.08.001}.
+\newblock URL \url{https://linkinghub.elsevier.com/retrieve/pii/S1002007109002810}.
 
-\bibitem{budhathokiAssessingFarmersPreparedness2020}
-Budhathoki NK, Paton D, A~Lassa J, Zander KK.
-\newblock Assessing farmers’ preparedness to cope with the impacts of multiple climate change-related hazards in the {Terai} lowlands of {Nepal}.
-\newblock International Journal of Disaster Risk Reduction. 2020 Oct;49:101656.
-\newblock Available from: \url{https://linkinghub.elsevier.com/retrieve/pii/S2212420920300534}.
+\bibitem[Budhathoki et~al.(2020)Budhathoki, Paton, A.~Lassa, and Zander]{budhathokiAssessingFarmersPreparedness2020}
+Nanda~Kaji Budhathoki, Douglas Paton, Jonatan A.~Lassa, and Kerstin~K. Zander.
+\newblock Assessing farmers' preparedness to cope with the impacts of multiple climate change-related hazards in the {{Terai}} lowlands of {{Nepal}}.
+\newblock \emph{International Journal of Disaster Risk Reduction}, 49:\penalty0 101656, October 2020.
+\newblock ISSN 22124209.
+\newblock \doi{10.1016/j.ijdrr.2020.101656}.
+\newblock URL \url{https://linkinghub.elsevier.com/retrieve/pii/S2212420920300534}.
 
-\bibitem{singhSocioeconomicStatusQualitative2022}
-Singh H, Verma S, Kamboj H, Dutt M, Dureja A, Dalai A.
-\newblock Socio-economic status for qualitative and quantitative assessment towards crop diversification and sustainable agriculture under different components {Punjab}.
-\newblock The Pharma Innovation. 2022 Dec;11(12S):1109-16.
-\newblock Available from: \url{https://www.thepharmajournal.com/special-issue?year=2022&vol=11&issue=12S&ArticleId=17671}.
+\bibitem[Singh et~al.(2022)Singh, Verma, Kamboj, Dutt, Dureja, and Dalai]{singhSocioeconomicStatusQualitative2022}
+Harpal Singh, Shreya Verma, Harsh Kamboj, Mukul Dutt, Aastha Dureja, and Akash Dalai.
+\newblock Socio-economic status for qualitative and quantitative assessment towards crop diversification and sustainable agriculture under different components {{Punjab}}.
+\newblock \emph{The Pharma Innovation}, 11\penalty0 (12S):\penalty0 1109--1116, December 2022.
+\newblock ISSN 23498242, 22777695.
+\newblock \doi{10.22271/tpi.2022.v11.i12So.17671}.
+\newblock URL \url{https://www.thepharmajournal.com/special-issue?year=2022\&vol=11\&issue=12S\&ArticleId=17671}.
 
-\bibitem{risalImpactClimateChange2022}
-Risal A, Urfels A, Srinivasan R, Bayissa Y, Shrestha N, Paudel GP, et~al.
-\newblock Impact of {Climate} {Change} on {Water} {Resources} and {Crop} {Production} in {Western} {Nepal}: {Implications} and {Adaptation} {Strategies}.
-\newblock Hydrology. 2022;9(8):132.
-\newblock Available from: \url{https://www.mdpi.com/2306-5338/9/8/132}.
+\bibitem[Risal et~al.(2022)Risal, Urfels, Srinivasan, Bayissa, Shrestha, Paudel, and Krupnik]{risalImpactClimateChange2022}
+Avay Risal, Anton Urfels, Raghavan Srinivasan, Yared Bayissa, Nirman Shrestha, Gokul~P. Paudel, and Timothy~J. Krupnik.
+\newblock Impact of {{Climate Change}} on {{Water Resources}} and {{Crop Production}} in {{Western Nepal}}: {{Implications}} and {{Adaptation Strategies}}.
+\newblock \emph{Hydrology}, 9\penalty0 (8):\penalty0 132, 2022.
+\newblock ISSN 2306-5338.
+\newblock \doi{10.3390/hydrology9080132}.
+\newblock URL \url{https://www.mdpi.com/2306-5338/9/8/132}.
 
-\bibitem{factors_dahal_2021}
-Dahal N, Xiong Dh, Neupane N, Zhang Bj, Liu Bt, Yuan Y, et~al.
-\newblock Factors affecting maize, rice and wheat yields in the {Koshi} {River} {Basin}, {Nepal}.
-\newblock Journal of Agricultural Meteorology. 2021.
-\newblock Tex.litmapsid: 30450328.
+\bibitem[Dahal et~al.(2021)Dahal, Xiong, Neupane, Zhang, Liu, Yuan, Fang, Koirala, and Rokaya]{factors_dahal_2021}
+Nirmal~Mani Dahal, Dong-hong Xiong, Nilhari Neupane, Bao-jun Zhang, Bin-tao Liu, Yong Yuan, Yi-ping Fang, S.~Koirala, and M.~Rokaya.
+\newblock Factors affecting maize, rice and wheat yields in the {{Koshi River Basin}}, {{Nepal}}.
+\newblock \emph{Journal of Agricultural Meteorology}, 2021.
+\newblock \doi{10.2480/agrmet.d-20-00019}.
 
-\bibitem{khanalFactorsMotivatingFarmers2021}
-Khanal K, Adhikari KB, Dhakal SC, Marahatta S.
-\newblock Factors {Motivating} {Farmers} for {Collective} {Action} for {Management} of {Irrigation} {System} in {Nepal}.
-\newblock International Journal of Social Sciences and Management. 2021 Jan;8(1):285-91.
-\newblock Available from: \url{https://www.nepjol.info/index.php/IJSSM/article/view/31748}.
+\bibitem[Khanal et~al.(2021)Khanal, Adhikari, Dhakal, and Marahatta]{khanalFactorsMotivatingFarmers2021}
+Kapil Khanal, Kalika~Bahadur Adhikari, Shiva~Chandra Dhakal, and Santosh Marahatta.
+\newblock Factors {{Motivating Farmers}} for {{Collective Action}} for {{Management}} of {{Irrigation System}} in {{Nepal}}.
+\newblock \emph{International Journal of Social Sciences and Management}, 8\penalty0 (1):\penalty0 285--291, January 2021.
+\newblock ISSN 2091-2986.
+\newblock \doi{10.3126/ijssm.v8i1.31748}.
+\newblock URL \url{https://www.nepjol.info/index.php/IJSSM/article/view/31748}.
 
-\bibitem{dahalNutrientManagementSustainability2021}
-Dahal H.
-\newblock Nutrient {{Management}} and {{Sustainability}} of {{Agriculture}}.
-\newblock 1st ed. Heritage Books; 2021.
-\newblock Available from: \url{https://heritagebooks.com.np/product/research-perspective-on-nutrient-management-and-sustainability-of-agriculture/}.
+\bibitem[Dahal(2021)]{dahalNutrientManagementSustainability2021}
+Hari Dahal.
+\newblock \emph{Nutrient {{Management}} and {{Sustainability}} of {{Agriculture}}}.
+\newblock Heritage Books, 1 edition, 2021.
+\newblock ISBN 978-9937-0-9098-8.
+\newblock URL \url{https://heritagebooks.com.np/product/research-perspective-on-nutrient-management-and-sustainability-of-agriculture/}.
 
-\bibitem{nguyenduycanAssessingLivelihoodVulnerability2019}
+\bibitem[{Nguyen Duy Can}(2019)]{nguyenduycanAssessingLivelihoodVulnerability2019}
 {Nguyen Duy Can}.
-\newblock Assessing {Livelihood} {Vulnerability} to {Salinity} {Intrusion} and {Climate} {Variability} {A} {Case} {Study} in {Coastal} {Provinces} of the {Mekong} {River} {Delta} of {Vietnam}.
-\newblock Journal of Environmental Science and Engineering B. 2019 Apr;8(4).
-\newblock Available from: \url{http://www.davidpublisher.org/index.php/Home/Article/index?id=41656.html}.
+\newblock Assessing {{Livelihood Vulnerability}} to {{Salinity Intrusion}} and {{Climate Variability A Case Study}} in {{Coastal Provinces}} of the {{Mekong River Delta}} of {{Vietnam}}.
+\newblock \emph{Journal of Environmental Science and Engineering B}, 8\penalty0 (4), April 2019.
+\newblock ISSN 21625263, 21625271.
+\newblock \doi{10.17265/2162-5263/2019.04.004}.
+\newblock URL \url{http://www.davidpublisher.org/index.php/Home/Article/index?id=41656.html}.
 
-\bibitem{puriSpatialTemporalVariations2024}
-Puri BP, Adhikari TR, Sigdel M, Devkota B, Shrestha S.
-\newblock Spatial and {Temporal} {Variations} of {Surface} {Air} {Temperature} (1962–2022) across {Physiographic} {Regions} in the {Koshi} {Basin}, {Nepal}.
-\newblock Journal of Hydrology and Meteorology. 2024 Dec;12(1):46-57.
-\newblock Available from: \url{https://www.nepjol.info/index.php/JHM/article/view/72654}.
+\bibitem[Puri et~al.(2024)Puri, Adhikari, Sigdel, Devkota, and Shrestha]{puriSpatialTemporalVariations2024}
+Bishwa~Prakash Puri, Tirtha~Raj Adhikari, Madan Sigdel, Bhupendra Devkota, and Suraj Shrestha.
+\newblock Spatial and {{Temporal Variations}} of {{Surface Air Temperature}} (1962--2022) across {{Physiographic Regions}} in the {{Koshi Basin}}, {{Nepal}}.
+\newblock \emph{Journal of Hydrology and Meteorology}, 12\penalty0 (1):\penalty0 46--57, December 2024.
+\newblock ISSN 1818-2518.
+\newblock \doi{10.3126/jhm.v12i1.72654}.
+\newblock URL \url{https://www.nepjol.info/index.php/JHM/article/view/72654}.
 
-\bibitem{dawadiImpactClimateChange2022}
-Dawadi B, Shrestha A, Acharya RH, Dhital YP, Devkota R.
-\newblock Impact of climate change on agricultural production: {A} case of {Rasuwa} {District}, {Nepal}.
-\newblock Regional Sustainability. 2022 Jun;3(2):122-32.
-\newblock Available from: \url{https://linkinghub.elsevier.com/retrieve/pii/S2666660X22000329}.
+\bibitem[Dawadi et~al.(2022)Dawadi, Shrestha, Acharya, Dhital, and Devkota]{dawadiImpactClimateChange2022}
+Binod Dawadi, Anjula Shrestha, Ram~Hari Acharya, Yam~Prasad Dhital, and Rohini Devkota.
+\newblock Impact of climate change on agricultural production: {{A}} case of {{Rasuwa District}}, {{Nepal}}.
+\newblock \emph{Regional Sustainability}, 3\penalty0 (2):\penalty0 122--132, June 2022.
+\newblock ISSN 2666660X.
+\newblock \doi{10.1016/j.regsus.2022.07.002}.
+\newblock URL \url{https://linkinghub.elsevier.com/retrieve/pii/S2666660X22000329}.
 
-\bibitem{poudelRelationshipsClimateVariability2016}
-Poudel S, Shaw R.
-\newblock The {Relationships} between {Climate} {Variability} and {Crop} {Yield} in a {Mountainous} {Environment}: {A} {Case} {Study} in {Lamjung} {District}, {Nepal}.
-\newblock Climate. 2016 Mar;4(1):13.
-\newblock Available from: \url{https://www.mdpi.com/2225-1154/4/1/13}.
+\bibitem[Poudel and Shaw(2016)]{poudelRelationshipsClimateVariability2016}
+Shobha Poudel and Rajib Shaw.
+\newblock The {{Relationships}} between {{Climate Variability}} and {{Crop Yield}} in a {{Mountainous Environment}}: {{A Case Study}} in {{Lamjung District}}, {{Nepal}}.
+\newblock \emph{Climate}, 4\penalty0 (1):\penalty0 13, March 2016.
+\newblock ISSN 2225-1154.
+\newblock \doi{10.3390/cli4010013}.
+\newblock URL \url{https://www.mdpi.com/2225-1154/4/1/13}.
 
-\bibitem{maharjanEffectClimateVariables2013}
-Maharjan KL, Joshi NP.
-\newblock Effect of {Climate} {Variables} on {Yield} of {Major} {Food}-{Crops} in {Nepal}: {A} {Time}-{Series} {Analysis}.
-\newblock In: Climate {Change}, {Agriculture} and {Rural} {Livelihoods} in {Developing} {Countries}. Tokyo: Springer Japan; 2013. p. 127-37.
-\newblock Series Title: Advances in Asian Human-Environmental Research.
-\newblock Available from: \url{https://link.springer.com/10.1007/978-4-431-54343-5_9}.
+\bibitem[Maharjan and Joshi(2013)]{maharjanEffectClimateVariables2013}
+Keshav~Lall Maharjan and Niraj~Prakash Joshi.
+\newblock \emph{Effect of {{Climate Variables}} on {{Yield}} of {{Major Food-Crops}} in {{Nepal}}: {{A Time-Series Analysis}}}, pages 127--137.
+\newblock Springer Japan, Tokyo, 2013.
+\newblock ISBN 978-4-431-54342-8 978-4-431-54343-5.
+\newblock \doi{10.1007/978-4-431-54343-5_9}.
+\newblock URL \url{https://link.springer.com/10.1007/978-4-431-54343-5\_9}.
 
-\bibitem{manandharAdaptingCroppingSystems2011}
-Manandhar S, Vogt DS, Perret SR, Kazama F.
-\newblock Adapting cropping systems to climate change in {Nepal}: a cross-regional study of farmers’ perception and practices.
-\newblock Regional Environmental Change. 2011 Jun;11(2):335-48.
-\newblock Available from: \url{http://link.springer.com/10.1007/s10113-010-0137-1}.
+\bibitem[Manandhar et~al.(2011)Manandhar, Vogt, Perret, and Kazama]{manandharAdaptingCroppingSystems2011}
+Sujata Manandhar, Dietrich~Schmidt Vogt, Sylvain~R. Perret, and Futaba Kazama.
+\newblock Adapting cropping systems to climate change in {{Nepal}}: A cross-regional study of farmers' perception and practices.
+\newblock \emph{Regional Environmental Change}, 11\penalty0 (2):\penalty0 335--348, June 2011.
+\newblock ISSN 1436-3798, 1436-378X.
+\newblock \doi{10.1007/s10113-010-0137-1}.
+\newblock URL \url{http://link.springer.com/10.1007/s10113-010-0137-1}.
 
-\bibitem{thapa-parajuliImpactClimateChange2016}
-Thapa-Parajuli R, Devkota N.
-\newblock Impact of {Climate} {Change} on {Wheat} {Production} in {Nepal}.
-\newblock Asian Journal of Agricultural Extension, Economics \& Sociology. 2016;9(2):1-14.
-\newblock Available from: \url{https://journalajaees.com/index.php/AJAEES/article/view/399}.
+\bibitem[{Thapa-Parajuli} and Devkota(2016-010-10)]{thapa-parajuliImpactClimateChange2016}
+Resham {Thapa-Parajuli} and Niranjan Devkota.
+\newblock Impact of {{Climate Change}} on {{Wheat Production}} in {{Nepal}}.
+\newblock \emph{Asian Journal of Agricultural Extension, Economics \& Sociology}, 9\penalty0 (2):\penalty0 1--14, 2016-010-10.
+\newblock ISSN 23207027.
+\newblock \doi{10.9734/AJAEES/2016/22555}.
+\newblock URL \url{https://journalajaees.com/index.php/AJAEES/article/view/399}.
 
-\bibitem{devkotaClimateChangeTrends2014}
-Devkota RP.
-\newblock Climate {Change}: {Trends} and {People}’s {Perception} in {Nepal}.
-\newblock Journal of Environmental Protection. 2014;05(04):255-65.
-\newblock Available from: \url{http://www.scirp.org/journal/doi.aspx?DOI=10.4236/jep.2014.54029}.
+\bibitem[Devkota(2014)]{devkotaClimateChangeTrends2014}
+Rohini~P. Devkota.
+\newblock Climate {{Change}}: {{Trends}} and {{People}}'s {{Perception}} in {{Nepal}}.
+\newblock \emph{Journal of Environmental Protection}, 05\penalty0 (04):\penalty0 255--265, 2014.
+\newblock ISSN 2152-2197, 2152-2219.
+\newblock \doi{10.4236/jep.2014.54029}.
+\newblock URL \url{http://www.scirp.org/journal/doi.aspx?DOI=10.4236/jep.2014.54029}.
 
-\bibitem{shresthaFarmersPerceptionClimate2022}
-Shrestha R, Rakhal B, Adhikari TR, Ghimire GR, Talchabhadel R, Tamang D, et~al.
-\newblock Farmers’ {Perception} of {Climate} {Change} and {Its} {Impacts} on {Agriculture}.
-\newblock Hydrology. 2022 Nov;9(12):212.
-\newblock Available from: \url{https://www.mdpi.com/2306-5338/9/12/212}.
+\bibitem[Shrestha et~al.(2022)Shrestha, Rakhal, Adhikari, Ghimire, Talchabhadel, Tamang, Kc, and Sharma]{shresthaFarmersPerceptionClimate2022}
+Ramesh Shrestha, Biplob Rakhal, Tirtha~Raj Adhikari, Ganesh~Raj Ghimire, Rocky Talchabhadel, Dinee Tamang, Radhika Kc, and Sanjib Sharma.
+\newblock Farmers' {{Perception}} of {{Climate Change}} and {{Its Impacts}} on {{Agriculture}}.
+\newblock \emph{Hydrology}, 9\penalty0 (12):\penalty0 212, November 2022.
+\newblock ISSN 2306-5338.
+\newblock \doi{10.3390/hydrology9120212}.
+\newblock URL \url{https://www.mdpi.com/2306-5338/9/12/212}.
 
-\bibitem{devkotaImpactClimateChange2020}
-Devkota N, Paija N.
-\newblock Impact of {Climate} {Change} on {Paddy} {Production}: {Evidence} from {Nepal}.
-\newblock Asian Journal of Agriculture and Development. 2020 Dec;17(2):63-78.
-\newblock Available from: \url{https://ajad.searca.org/read-articles/13-view-article?aid=1191}.
+\bibitem[Devkota and Paija(2020)]{devkotaImpactClimateChange2020}
+Niranjan Devkota and Nirash Paija.
+\newblock Impact of {{Climate Change}} on {{Paddy Production}}: {{Evidence}} from {{Nepal}}.
+\newblock \emph{Asian Journal of Agriculture and Development}, 17\penalty0 (2):\penalty0 63--78, December 2020.
+\newblock ISSN 16564383, 25993879.
+\newblock \doi{10.37801/ajad2020.17.2.4}.
+\newblock URL \url{https://ajad.searca.org/read-articles/13-view-article?aid=1191}.
 
-\bibitem{karkiStatusDriversFood2021}
-Karki S, Burton P, Mackey B, Alston-Knox C.
-\newblock Status and drivers of food insecurity and adaptation responses under a changing climate among smallholder farmers households in {Bagmati} {Province}, {Nepal}.
-\newblock Environment, Development and Sustainability. 2021 Oct;23(10):14642-65.
-\newblock Available from: \url{https://link.springer.com/10.1007/s10668-021-01262-x}.
+\bibitem[Karki et~al.(2021)Karki, Burton, Mackey, and {Alston-Knox}]{karkiStatusDriversFood2021}
+Sikha Karki, Paul Burton, Brendan Mackey, and Clair {Alston-Knox}.
+\newblock Status and drivers of food insecurity and adaptation responses under a changing climate among smallholder farmers households in {{Bagmati Province}}, {{Nepal}}.
+\newblock \emph{Environment, Development and Sustainability}, 23\penalty0 (10):\penalty0 14642--14665, October 2021.
+\newblock ISSN 1387-585X, 1573-2975.
+\newblock \doi{10.1007/s10668-021-01262-x}.
+\newblock URL \url{https://link.springer.com/10.1007/s10668-021-01262-x}.
 
-\bibitem{bhattaraiImpactClimateChange2021}
-Bhattarai S.
+\bibitem[Bhattarai(2021)]{bhattaraiImpactClimateChange2021}
+Sachin Bhattarai.
 \newblock Impact of {{Climate Change}} in the {{Agricultural System}} in the {{Tropical Region}} of {{Nepal}}.
-\newblock Journal of Earth Science and Climate Change. 2021;12(3).
+\newblock \emph{Journal of Earth Science and Climate Change}, 12\penalty0 (3), 2021.
 
 \end{thebibliography}
