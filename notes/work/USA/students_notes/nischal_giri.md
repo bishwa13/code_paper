@@ -17,8 +17,10 @@ Grandmother
 
 ## [CGI portal](https://www.ustraveldocs.com/np/en/nonimmigrant-visa) 
 User Name: Nischal Giri
-nischal2003giri@gmail.com 
-email password too: a@AA00EL3FU7
+
+not used previous worked (nischal2003giri@gmail.com 
+email password too: a@AA00EL3FU7) which is 
+nishangiri098@gmail.com
 Password: a@AA00EL3FU7
 
 Given Name*
