@@ -58,8 +58,23 @@ You use a consistent tracking system (GLDAS) to see if low deposits come from ba
 
 ## Methods
 
+- Goal is to integrate reservoir storage and evaporation within the context of RBD.d
+
 Copula method is used to construct and IRDI based reservoir storage and evaporation rate.
 Copula is powerful tool to used for deriving joint distribution of multiple variables, irrespective of their marginal distributions.
 
         - What is joint distribution?
         - what is marginal distribution?
+
+Joint distribution with a joint cummulative probability "p" can be expressed as:
+$$
+P(V \leq v, E \leq e) = C_p[F(V), F(E)] = p
+$$
+
+Where $C_p$ = Frank copula, and F(V) and F(E) are the empirical marginal cumulative distribution functions of the SSA (V) and the SEA (E), respectively.
+
+IRDI can be obtained by taking the inverse of the joint cummulative probability (p):
+$$ IRDI = \varphi^{-1}(p)$$
+
+where $\varphi$ is the standard normal distribution function.
+
