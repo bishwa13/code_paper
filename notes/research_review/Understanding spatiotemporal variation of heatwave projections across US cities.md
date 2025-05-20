@@ -1,7 +1,7 @@
 # Understanding spatiotemporal variation of heatwave projections across US cities
 
+#paper #Reading
 
-### Understanding spatiotemporal variation of heatwave projections across US cities
 
 ### Introduction
 Cities with high population density inscreasing, so the rexord-shattering temperature extrems and the risk of heat waves. 
@@ -10,6 +10,11 @@ Cities with high population density inscreasing, so the rexord-shattering temper
 
 ### Data Used
 
+- Historical and projected climate data
+    - Historical to analyze past heatwave treds
+    - Global climate model (Projected) to analyze future risk of heatwave.
+
+- NASA Global Daily Downscaled Projections (NASA GDDP-CMIP6) - bias corrected and downscaled daily climate projection at $ 0.25^\degree * 0.25^\degree $ spatial resoulution - Bias-correction spatial disaggregation (BCSD) method is used for downscaling
 
 ### Methodology
 
