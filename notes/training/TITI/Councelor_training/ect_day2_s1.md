@@ -1,23 +1,28 @@
 
-In Day 2 of ECT's first session, we explored the Dynamics of International Education. Nearly half of the passed class 12 students go to 66 different countries to study, like Japan, Canada, Australia, UK, USA, etc.
+# Day 2 of ECT's First Session
 
-International education includes:
+
+In Day 2 of ECT's first session, we explored the Dynamics of International Education. Nearly half of the passed class 12 students go to 66 different countries to study, like Japan, Canada, Australia, UK, USA, etc.
+- Q - What are the aspects of international education?
+### International education includes:
 - studying abroad, International student exchanges, collaborative research, and Global partnerships among educational institutions. 
 
-
+- Q - What are the main motivation of Nepalese students for abroad studies?
 Nepalese students are mainly motivated for abroad studies for better lifestyles and career opportunities, along with societal pressure and bad influences.
+
+---
 
 Many counselors like us guide these students to their destination countries, therefore, we should be informed about Basic to specific information.
 
-Can anyone tell me what basic information we should know?
+- Q - Can anyone tell me what basic information we should know?
 
-Demography
-Country’s Specific Information
-Education system
-Economic status
-Quick Facts / USP /FAQ6
-National Qualification Framework (NQF)
-Regulatory Body7
+    - Demography
+    - Country’s Specific Information
+    - Education system
+    - Economic status
+    - Quick Facts / USP /FAQ
+    - National Qualification Framework (NQF)
+    - Regulatory Body
 
 
 
@@ -27,29 +32,32 @@ There are some specific things we should have understanding.
 1. NQF
 2. Accreditation and Quality Assurance
 
-Q? National Qualification Framework (NQF): It is the system for standardization of qualifications, Pathways for Progression, and quality assurance. With the three principles: Credibility, Coherence, and Flexibility. 
+- Q - What is  National Qualification Framework (NQF)?
+> National Qualification Framework (NQF): It is the system for standardization of qualifications, Pathways for Progression, and quality assurance. With the three principles: Credibility, Coherence, and Flexibility. 
 
-Why is it important? 
-- to create a single integrated framework
-- enhancement of quality
-- promotion of continuous
-- Quality assurance and recognitions
+- Q - Why is it important? 
+    - to create a single integrated framework
+    - enhancement of quality
+    - promotion of continuous
+    - Quality assurance and recognitions
 
-Each country has its version of an NQF, tailored to its specific education and workforce needs. 
+> Each country has its version of an NQF, tailored to its specific education and workforce needs. 
 
-Accreditation and Quality Assurance (QA)
+### Accreditation and Quality Assurance (QA)
+
+- Q - What is Accreditation?
+A "seal of approval" is granted to educational institutions and programs.
+
 Quality Assurance ensures education systems meet standards through real-time data, regulations, and oversight, especially important for international students.
 
 Almost all aspects of foreign student life, including higher education institutions (HEIs) and immigration, are regulated.
 
-What is Accreditation?
-A "seal of approval" is granted to educational institutions and programs.
 
-Types of Accreditation:
 
-Institutional (e.g., Harvard by NECHE)
+#### Types of Accreditation:
+- Institutional (e.g., Harvard by NECHE)
 
-Programmatic (e.g., Business schools by AACSB)
+- Programmatic (e.g., Business schools by AACSB)
 
 Examples from Nepal:
 Tribhuvan University (TU) – UGC accredited
@@ -60,46 +68,46 @@ IOE, Pulchowk – Engineering programs accredited by Nepal Engineering Council
 
 Nepal Nursing Council, TSC, and UGC – Other program accreditations
 
-Key Accreditation Criteria:
-Student and staff qualifications
+- Key Accreditation Criteria:
+        Student and staff qualifications
 
-Curriculum
+        Curriculum
 
-Teaching methods
+        Teaching methods
 
-Learning resources
+        Learning resources
 
-Assessment systems
+        Assessment systems
 
-Major International QA Bodies:
-UK – Quality Assurance Agency (QAA)
+- Major International QA Bodies:
+        UK – Quality Assurance Agency (QAA)
 
-Europe – ENQA
+        Europe – ENQA
 
-USA – CHEA
+        USA – CHEA
 
-Australia – TEQSA
+        Australia – TEQSA
 
-Canada – SCC
+        Canada – SCC
 
-New Zealand – NZQA
+        New Zealand – NZQA
 
-Japan – JQA
+        Japan – JQA
 
-Korea – NTQS & PQS
+        Korea – NTQS & PQS
 
-Regulatory Systems Based on Laws:
-Immigration laws
+- Regulatory Systems Based on Laws:
+    Immigration laws
 
-Education laws
+    Education laws
 
-Business & Financial regulations (e.g., CPT/OPT)
+    Business & Financial regulations (e.g., CPT/OPT)
 
-Health, Safety, and Consumer Protection laws
+    Health, Safety, and Consumer Protection laws
 
 
-Prospects of Destination countries?
+-  Prospects of Destination countries?
 Class participation???, Japan, UK, USA, ....
 
-All these pieces of information should be fact-checked and well-researched.
+- All these pieces of information should be fact-checked and well-researched.
 
