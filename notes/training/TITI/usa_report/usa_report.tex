@@ -1,0 +1,67 @@
+% USA Student Visa and University Process Report
+% Author: Bishwa Prakash Puri
+% Submitted to: TITI, Sanothimi, Bhaktapur
+% Date: \today
+
+\documentclass[12pt,a4paper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{lmodern}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{parskip}
+\usepackage{mathptmx} % Times New Roman font
+
+% Header and Footer
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{USA Student Visa Report}
+\cfoot{\thepage}
+
+% Fix fancyhdr warning
+\setlength{\headheight}{14.5pt}
+\addtolength{\topmargin}{-2.5pt}
+
+% Section formatting
+\titleformat{\section}{\fontsize{16}{18}\selectfont\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\fontsize{14}{16}\selectfont\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries}{\thesubsubsection}{1em}{}
+
+\begin{document}
+
+\begin{titlepage}
+    \centering
+    {\LARGE \textbf{REPORT ON USA AND PROCESS FOR STUDENT VISA} \\[2em]}
+    \vspace{1em}
+    \textbf{Prepared by:} \\ [1em]
+    Bishwa Prakash Puri \\
+    Subash Timalsina\\
+    Barsha Maharjan \\
+    Shanti Paudel \\
+    Prasad Malla \\[6em]
+    \textbf{Submitted to:} \\TITI, Sanothimi, Bhaktapur \\[1em]
+    \textbf{Date:} \today \\[2em]
+    \vfill
+    This report is submitted as a part of TITI Educational Counselor Training Certification.
+    \vspace*{2em}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+%----------------------
+
+% Main content from section files
+
+\input{sections/introduction.tex}
+\input{sections/education_system.tex}
+\input{sections/university_process.tex}
+\input{sections/visa_process.tex}
+\input{sections/student_support.tex}
+\input{sections/others.tex}
+\input{sections/conclusion.tex}
+
+\end{document}

@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Why Study in the USA?}{3}{0}{1}
+\beamer@sectionintoc {2}{Academic Requirements}{4}{0}{2}
+\beamer@sectionintoc {3}{Application Process}{5}{0}{3}
+\beamer@sectionintoc {4}{Financial Requirements}{6}{0}{4}
+\beamer@sectionintoc {5}{Visa Process}{7}{0}{5}
+\beamer@sectionintoc {6}{Student Life}{9}{0}{6}
+\beamer@sectionintoc {7}{Important Tips}{10}{0}{7}

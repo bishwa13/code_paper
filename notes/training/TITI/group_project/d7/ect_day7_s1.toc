@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{National Directives}{3}{0}{1}
+\beamer@sectionintoc {2}{Provincial Directives}{4}{0}{2}
+\beamer@sectionintoc {3}{Service Charter and Contract}{5}{0}{3}
+\beamer@sectionintoc {4}{No Objection Certificate (NoC)}{6}{0}{4}
+\beamer@sectionintoc {5}{Code of Conduct}{7}{0}{5}
