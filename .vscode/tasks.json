@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build with LuaLaTeX",
+			"type": "shell",
+			"command": "lualatex",
+			"args": [
+				"--shell-escape",
+				"--synctex=1",
+				"--interaction=nonstopmode",
+				"--file-line-error",
+				"main.tex"
+			],
+			"group": "build",
+			"problemMatcher": [
+				"$latex"
+			]
+		}
+	]
+}

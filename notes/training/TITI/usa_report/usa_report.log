@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  26 MAY 2025 13:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  26 MAY 2025 14:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -270,7 +270,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/lmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 33.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 39.
  (c:/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -280,24 +280,24 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 ) (./usa_report.aux)
 \openout1 = `usa_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -333,7 +333,7 @@ LaTeX Font Info:    ... okay on input line 33.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 33.
+Package hyperref Info: Link coloring OFF on input line 39.
 (./usa_report.out) (./usa_report.out)
 \@outlinefile=\write3
 \openout3 = `usa_report.out'.
@@ -383,62 +383,55 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-)
-\tf@toc=\write4
-\openout4 = `usa_report.toc'.
-
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.53 \newpage
-              [1] [2] (./sections/introduction.tex
+l.35 ...h and Well-being}{22}{subsubsection.6.3.1}
+                                                  % [1])
+\tf@toc=\write4
+\openout4 = `usa_report.toc'.
+
+ [2] (./sections/introduction.tex
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 5.
  (c:/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
+) [3]
 Overfull \hbox (2.3458pt too wide) in paragraph at lines 23--24
 []\OT1/ptm/m/n/12 Foreign-born res-i-dents reached 14.3% in 2023, the high-est since 1910, driven largely
  []
 
-[3] [4] [5]) (./sections/education_system.tex [6] [7] [8]
-Overfull \hbox (5.03047pt too wide) in paragraph at lines 117--118
+[4] [5] [6]) (./sections/education_system.tex [7] [8] [9] [10] [11]
+Overfull \hbox (5.03047pt too wide) in paragraph at lines 217--218
 \OT1/ptm/m/n/12 tions in the Mid-Atlantic re-gion, in-clud-ing states like Penn-syl-va-nia, New Jer-sey, Delaware,
  []
 
-[9]) (./sections/university_process.tex [10] [11] [12] [13]
+[12]) (./sections/university_process.tex [13] [14] [15] [16] [17]
 Overfull \hbox (0.36345pt too wide) in paragraph at lines 187--188
 []\OT1/ptm/m/n/12 Total Es-ti-mated An-nual Cost (in-clud-ing liv-ing ex-penses): \TS1/ptm/m/n/12 $\OT1/ptm/m/n/12 35,000 -- \TS1/ptm/m/n/12 $\OT1/ptm/m/n/12 65,000/year. (Some
  []
 
-) (./sections/visa_process.tex [14]) (./sections/student_support.tex [15]) (./sections/others.tex [16] [17] [18] [19] [20] [21]) (./sections/conclusion.tex) [22] (./usa_report.aux)
+[18]) (./sections/visa_process.tex [19]) (./sections/student_support.tex [20]) (./sections/others.tex [21] [22] [23] [24] [25] [26]) (./sections/conclusion.tex) [27] (./usa_report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-Package rerunfilecheck Warning: File `usa_report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `usa_report.out':
-(rerunfilecheck)             Before: A3DC6638359293E70B556DE2F8FF6531;7075
-(rerunfilecheck)             After:  CD7EDC0F0DCD24AE95B694FFAF0A86B7;7604.
+Package rerunfilecheck Info: File `usa_report.out' has not changed.
+(rerunfilecheck)             Checksum: 033E02BBC7D49D12A8FC35C01A24D323;9012.
  ) 
 Here is how much of TeX's memory you used:
- 10116 strings out of 474115
- 157120 string characters out of 5747696
- 1942190 words of memory out of 5000000
- 32215 multiletter control sequences out of 15000+600000
+ 10140 strings out of 474115
+ 157493 string characters out of 5747696
+ 1939190 words of memory out of 5000000
+ 32227 multiletter control sequences out of 15000+600000
  577038 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1349b,644s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1349b,793s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on usa_report.pdf (23 pages, 97750 bytes).
+Output written on usa_report.pdf (28 pages, 104020 bytes).
 PDF statistics:
- 404 PDF objects out of 1000 (max. 8388607)
- 369 compressed objects within 4 object streams
- 113 named destinations out of 1000 (max. 500000)
- 329 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 471 PDF objects out of 1000 (max. 8388607)
+ 430 compressed objects within 5 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 401 words of extra memory for PDF output out of 10000 (max. 10000000)
 

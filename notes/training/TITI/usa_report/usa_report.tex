@@ -18,22 +18,33 @@
 % Header and Footer
 \pagestyle{fancy}
 \fancyhf{}
-\lhead{USA Student Visa Report}
+\lhead{USA Report}
 \cfoot{\thepage}
 
 % Fix fancyhdr warning
 \setlength{\headheight}{14.5pt}
 \addtolength{\topmargin}{-2.5pt}
 
-% Section formatting
-\titleformat{\section}{\fontsize{16}{18}\selectfont\bfseries}{\thesection}{1em}{}
-\titleformat{\subsection}{\fontsize{14}{16}\selectfont\bfseries}{\thesubsection}{1em}{}
-\titleformat{\subsubsection}{\normalsize\bfseries}{\thesubsubsection}{1em}{}
+% Set 1.5 line spacing
+\onehalfspacing
+
+% Section formatting with Times New Roman
+\titleformat{\section}{\fontsize{16}{18}\selectfont\bfseries\rmfamily}{\thesection}{1em}{}
+\titleformat{\subsection}{\fontsize{14}{16}\selectfont\bfseries\rmfamily}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalsize\bfseries\rmfamily}{\thesubsubsection}{1em}{}
+
+% Ensure Times New Roman for the entire document
+\AtBeginDocument{\rmfamily}
 
 \begin{document}
 
 \begin{titlepage}
     \centering
+    \rmfamily  % Ensure Times New Roman on title page
+    
+    % Add two images at the top of the title page
+    
+    \vspace{1cm}
     {\LARGE \textbf{REPORT ON USA AND PROCESS FOR STUDENT VISA} \\[2em]}
     \vspace{1em}
     \textbf{Prepared by:} \\ [1em]
@@ -45,7 +56,7 @@
     \textbf{Submitted to:} \\TITI, Sanothimi, Bhaktapur \\[1em]
     \textbf{Date:} \today \\[2em]
     \vfill
-    This report is submitted as a part of TITI Educational Counselor Training Certification.
+    \textbf{This report is submitted as a part of TITI Educational Counselor Training Certification.}
     \vspace*{2em}
 \end{titlepage}
 
