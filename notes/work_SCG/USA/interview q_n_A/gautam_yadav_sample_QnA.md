@@ -20,43 +20,43 @@ Answer: My education is funded through a combination of personal funds from my f
 9. What does your sponsor do for a living?
 Answer: My father owns a retail business in Kapilvastu, Nepal, dealing in consumer goods. His business is well-established and provides a stable income to support my education.
 10. Where does your sponsor work?
-Answer: My father runs his own retail business in Kapilvastu, Nepal. He manages the operations and has been doing so successfully for over 15 years.
-11. Currently, what do you do?
+Answer: My brother runs his own business. He manages the operations and has been doing so successfully for over 10 years.
+1.  Currently, what do you do?
 Answer: I recently completed my high school education in Nepal and have been preparing for my studies in the U.S. I also assist my father with his business, handling basic accounting tasks and inventory management, which has strengthened my interest in pursuing a degree in accounting.
-12. Why are you leaving your current job or role? (Not applicable, but adapted for context)
+1.  Why are you leaving your current job or role? (Not applicable, but adapted for context)
 Answer: I’m not employed full-time, but I’ve been helping with my father’s business. I’m leaving this role temporarily to pursue my bachelor’s degree in accounting in the U.S., as it will equip me with advanced skills to contribute more effectively to the family business when I return.
-13. What will your father do for the four years while you are gone?
+1.  What will your father do for the four years while you are gone?
 Answer: My father has a team of employees who help run his business, and my elder brother also assists with daily operations. My absence won’t affect the business, as they have managed well in the past when I was focused on my studies.
-14. Who do you have in the U.S.? Do you have friends or family?
+1.  Who do you have in the U.S.? Do you have friends or family?
 Answer: I don’t have any immediate family in the U.S. However, I’ve connected with current students at Wichita State through online forums, and I look forward to building new friendships there. My primary focus will be on my studies.
-15. How many brothers and sisters do you have?
+1.  How many brothers and sisters do you have?
 Answer: I have one elder brother and one younger sister. My brother helps with the family business, and my sister is still in school.
-16. What is your field of study?
+1.  What is your field of study?
 Answer: My field of study is accounting, and I’ll be pursuing a Bachelor’s degree in Accounting at Wichita State University.
-17. Why did you select this field of study?
+1.  Why did you select this field of study?
 Answer: I chose accounting because I enjoy working with numbers and solving financial problems. My experience helping with my father’s business showed me the importance of financial management, and I want to become a skilled accountant to contribute to businesses in Nepal. Accounting also offers stable career opportunities globally.
-18. Why do you need to go to the U.S. for this field? There are many courses and programs in your country.
+1.  Why do you need to go to the U.S. for this field? There are many courses and programs in your country.
 Answer: While Nepal has good programs, the U.S. offers a more advanced curriculum, exposure to global accounting standards, and practical training through internships. Wichita State’s accounting program is aligned with CPA requirements, which is a globally recognized credential. Studying in the U.S. will give me a competitive edge and the skills to improve financial practices in Nepal.
-19. What are you planning to do after graduation?
+1.  What are you planning to do after graduation?
 Answer: After graduating, I plan to return to Nepal and work as an accountant, either in a reputed firm or by helping expand my father’s business with modern financial strategies. I also aim to pursue the CPA certification to enhance my expertise. My goal is to contribute to Nepal’s growing economy.
-20. Are you planning to work during your four-year period?
+1.  Are you planning to work during your four-year period?
 Answer: I may work on-campus if opportunities arise, as allowed under F-1 visa regulations, to gain practical experience in accounting. However, my primary focus will be on my studies, and any work will be part-time and compliant with visa rules.
-21. What will you do if your visa is rejected?
+1.  What will you do if your visa is rejected?
 Answer: If my visa is rejected, I’ll consult with my academic advisor to explore other options, such as applying to universities in Nepal or other countries. However, I’m confident in my application and my plans to study at Wichita State, and I hope to contribute positively as an international student in the U.S.
 Additional Questions and Answers
-22. How did you learn about Wichita State University?
+1.  How did you learn about Wichita State University?
 Answer: I researched universities with strong accounting programs and found Wichita State through online rankings and student reviews. I also contacted their international admissions office, and their responsiveness and scholarship opportunities confirmed it was the right choice.
-23. What is your academic background?
+1.  What is your academic background?
 Answer: I completed my high school education in Nepal with a focus on commerce, achieving a GPA of 3.8. My coursework included accounting, economics, and mathematics, which prepared me for my bachelor’s degree.
-24. How will you adjust to life in the U.S.?
+1.  How will you adjust to life in the U.S.?
 Answer: I’m adaptable and eager to learn about new cultures. Wichita State offers orientation programs and international student support, which will help me adjust. I’ve also connected with Nepali students there to ease my transition.
-25. Do you plan to stay in the U.S. after your studies?
+1.  Do you plan to stay in the U.S. after your studies?
 Answer: No, my plan is to return to Nepal after completing my degree. I want to use my skills to contribute to my family’s business and Nepal’s economy. I have strong family ties and responsibilities in Nepal.
-26. How will you manage your expenses in the U.S.?
+1.  How will you manage your expenses in the U.S.?
 Answer: My expenses are covered by the Global Select Scholarship, my family’s funds, and my personal savings. I’ve also budgeted carefully to ensure I can manage living costs, and Wichita’s affordable cost of living helps.
-27. What challenges do you anticipate in the U.S., and how will you overcome them?
+1.  What challenges do you anticipate in the U.S., and how will you overcome them?
 Answer: I anticipate challenges like adapting to a new academic system and being away from family. I’ll overcome them by utilizing Wichita State’s academic resources, such as tutoring, and staying connected with my family through regular calls. My determination to succeed will keep me focused.
-28. Why should we grant you an F-1 visa?
+1.  Why should we grant you an F-1 visa?
 Answer: I’m a genuine student with a clear academic and career plan. I’ve been accepted into Wichita State’s accounting program, have sufficient funding, and strong ties to Nepal, ensuring I’ll return after my studies. I’ll contribute positively to the U.S. campus community and uphold visa regulations.
 
 
