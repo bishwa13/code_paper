@@ -37,12 +37,16 @@ Income/poverty is determined by assets, productivity and opportunities.
 Water related hazards are extreme rainfall and lack of rainfall. Extreme rainfall hazards are flood and landslides which disrupts transport, opportunities loss in assets, increase in health risk from contaminated water and waterborne diseases such as typhoid, dengue, cholera and various infections. Lack of rainfall can cause electricity shortages, risk of water contamination and availability. 
 
 
-$ \frac{(V_{ji}- Z)}{Z}$ 
+$$ \frac{(V_{ji}- Z)}{Z}$$ 
 Where, $V_{ji}$ household per capita income, $Z$ poverty line
 Distance from the to the poverty line indicates how far or close households are from the poverty threshhold, with negative value representing household below the poverty line and positive value above it.
 
 
 ## Materials and Method
+
+### Data
+- Household (employment status)
+- Weather (daily rainfall data) - Climate Hazard Center at the University of California, Santa Barbara - CHIRPS-daily
 
 
 

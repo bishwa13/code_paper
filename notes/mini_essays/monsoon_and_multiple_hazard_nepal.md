@@ -5,7 +5,7 @@
 - Significance of monsoon for Nepal
 - Preview of multiple hazards that occur during this period
 
-rain carring winds arriving from the Bay of Bengal, typically beginning in early June and lasting until September. This period is crucial for Nepal’s agriculture, as over 80% of the annual rainfall occurs during these months, these rainfall is crucial for replenishing water sources and supporting crop growth.  However, the intense and often unpredictable rainfall also brings a host of hazards. Floods, landslides, soil erosion, and water-induced disasters become frequent, posing significant risks to lives, infrastructure, and livelihoods. Understanding the interplay of these hazards is essential for effective disaster preparedness and resilience in Nepal’s diverse and challenging terrain.
+rain carrying winds arriving from the Bay of Bengal, typically beginning in early June and lasting until September. This period is crucial for Nepal’s agriculture, as over 80% of the annual rainfall occurs during these months, these rainfall is crucial for replenishing water sources and supporting crop growth.  However, the intense and often unpredictable rainfall also brings a host of hazards. Floods, landslides, soil erosion, and water-induced disasters become frequent, posing significant risks to lives, infrastructure, and livelihoods. Understanding the interplay of these hazards is essential for effective disaster preparedness and resilience in Nepal’s diverse and challenging terrain.
 
 ## 2. Understanding Nepal's Monsoon Pattern
 - Timing and duration of monsoon
@@ -64,7 +64,7 @@ To mitigate soil erosion, several measures are employed. These include terracing
 
 Water-induced disasters during the monsoon season in Nepal encompass a range of hazards beyond floods and landslides. Dam breaches, often resulting from overtopping or structural failure due to excessive rainfall, can unleash sudden torrents downstream, devastating communities and infrastructure. The risk is heightened by the presence of poorly maintained or unregulated small dams and irrigation structures in hilly regions.
 
-Glacial Lake Outburst Floods (GLOFs) are another significant threat, particularly in the high Himalayas. As rising temperatures accelerate glacial melt, lakes dammed by unstable moraines grow larger and more prone to sudden rupture. When these natural dams fail, massive volumes of water and debris surge downstream, destroying everything in their path. Notable GLOF events, such as the 1985 Dig Tsho outburst, have caused loss of life, property, and critical infrastructure.
+Glacial Lake Outburst Floods (GLOFs) are another significant threat, particularly in the high Himalayas and its valleys. As rising temperatures accelerate glacial melt, lakes dammed by unstable moraines grow larger and more prone to sudden rupture. When these natural dams fail, massive volumes of water and debris surge downstream, destroying everything in their path. Notable GLOF events, such as the 1985 Dig Tsho outburst, have caused loss of life, property, and critical infrastructure.
 
 River bank erosion is a persistent hazard, especially in the Terai and along major river systems. Monsoon-swollen rivers erode their banks, leading to the loss of agricultural land, displacement of settlements, and damage to roads and embankments. This gradual but relentless process undermines livelihoods and increases vulnerability to future floods.
 
