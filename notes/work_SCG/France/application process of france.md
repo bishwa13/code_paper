@@ -10,6 +10,34 @@ List of Universities:
 2. Paris School of Business
 3. LIGMR
 
+
+## Admission requirement
+
+- For Bachelor degree
+
+            Completion of one of the following qualifications:
+
+            NEB (+2)
+            International Baccalaureate (IB)
+            A -levels
+            10+3 /Diploma
+            Minimum first division or above grades preferable        
+
+- For Master degree
+
+        3 or 4 years of bachelor degree completion
+        Professional experiences plus point
+        
+
+- For Doctorate of Business Administration
+
+ 
+        Completion of a Master’s degree (in the field of business or management) from an acceptable institution with minimum 5 years of professional experiences in the chosen field.
+
+
+
+
+
 # Application Processes:
 
 ## Documents: 
