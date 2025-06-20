@@ -109,7 +109,30 @@ Ayush thapa magar
 
 
 
+----
 
+RAMJI BASNET | OIDI Number: 105691
+
+Subject: RAMJI BASNET, OIDI Number: 105691 - Urgent Request for Speaking Test Scheduling
+
+Dear Oxford ELLT Team,
+
+I hope this email finds you well. My Oxford ELLT licence ends on 22 June 2025, hence, I am writing regarding speaking test scheduling issue concerning my OELLT test. I have completed three components of the OELLT test (Reading, Listening, and Writing) but have been unable to schedule my Speaking test due to no available dates showing in the dashboard. I would greatly appreciate your assistance in booking a speaking test slot.
+
+My personal details are as follows:
+- Full Name: RAMJI BASNET
+- OIDI Number: 105691
+- Passport Number: PA3952277
+- Email: ramjibasnet237@gmail.com
+
+I would be grateful if you could help me schedule my speaking test or advise me on the earliest dates
+
+Please let me know if you require any additional information from my side.
+
+Thank you for your time and assistance in this matter.
+
+Best regards,
+RAMJI BASNET
 
 
 
