@@ -329,8 +329,25 @@ Thank you for your time and support,
 Best regards,
 Sandhya Thapa Magar
 
+---
 
+ellt@oidigitalinstitute.com
+Subject: Sushil Yadav - Request for Institution Change
 
+Dear Oxford Ellt Team,
+I am Sushil Yadav, OIDI Number 87614. I am writing to  request a change of my registered institution for the Oxford ELLT test. I initially registered with Oxford International 25 as my institution, but I would now like to update my registration to Coventry University as I am planning to re-take the test. 
+
+My personal details are as follows:
+Name: Sushil Yadav
+Passport number: 12326493
+OIDI Number: 87614
+Email: Yadavsushil635435@gmail.com
+registered Institution: Oxford International 25
+Desired Institution: Coventry University
+
+Thank you for your time and support,
+Best regards,
+Sushil Yadav
 
 
 
