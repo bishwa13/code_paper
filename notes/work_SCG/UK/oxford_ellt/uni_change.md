@@ -286,18 +286,18 @@ Mohd Sharik Khan
 -----
 
 
-Subject: Shweta Gurung - OIDI 110939 - Request for Speaking Test issue/re-schedule
+Subject: Punam Kumary Sah - OIDI 124958 - Request for Speaking Test issue/re-schedule
 
 Dear Oxford ELLT Team,
 
-I am reaching out to request your assistance with a Speaking test issue related to my OELLT exam. Although I have successfully completed the Reading, Listening, and Writing components, I was unable to join my scheduled Speaking test due to a technical problem with the OELLT dashboard. The presentation question appeared and my internet connection was stable, but the Zoom join popup did not display, preventing me from accessing the test.
+I am reaching out to request your assistance with a Speaking test issue related to my OELLT exam. Although I have successfully completed the Reading, Listening, and Writing components, I was unable to complete my scheduled Speaking test due to a technical problem.
 
 My personal details are as follows:
-- Full Name: Shweta Gurung
-- OIDI Number: 110939
-- Passport Number: PA3517125
-- Email: gurungshweta1@gmail.com
-
+- Full Name: Punam Kumary Sah
+- OIDI Number: 124958
+- Passport Number: PA4290003
+- Email: spunamkumary@gmail.com
+  
 I would appreciate your help in rescheduling my Speaking test or advising me on the next available dates.
 
 Please let me know if you need any additional information from my side.
@@ -305,7 +305,7 @@ Please let me know if you need any additional information from my side.
 Thank you for your time and assistance.
 
 Best regards,  
-Shweta Gurung
+Punam Kumary Sah
 
 
 ---
