@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  4 JAN 2026 13:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.7)  4 JAN 2026 14:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**g:/fresh_start/paper/code_paper/latex/cv_cv/bishwa/sydney/bishwa_prakash_puri_detailed_cv
-(g:/fresh_start/paper/code_paper/latex/cv_cv/bishwa/sydney/bishwa_prakash_puri_detailed_cv.tex
+**g:/fresh_start/paper/code_paper/latex/cv_cv/bishwa/excelsia/excelcia_2/bishwa_prakash_puri_cv
+(g:/fresh_start/paper/code_paper/latex/cv_cv/bishwa/excelsia/excelcia_2/bishwa_prakash_puri_cv.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (c:/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
@@ -221,8 +221,8 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [09pt].
 
-(./bishwa_prakash_puri_detailed_cv.aux)
-\openout1 = `bishwa_prakash_puri_detailed_cv.aux'.
+(./bishwa_prakash_puri_cv.aux)
+\openout1 = `bishwa_prakash_puri_cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
@@ -278,33 +278,33 @@ LaTeX Font Info:    ... okay on input line 14.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 14.
-(./bishwa_prakash_puri_detailed_cv.out) (./bishwa_prakash_puri_detailed_cv.out)
+(./bishwa_prakash_puri_cv.out) (./bishwa_prakash_puri_cv.out)
 \@outlinefile=\write3
-\openout3 = `bishwa_prakash_puri_detailed_cv.out'.
+\openout3 = `bishwa_prakash_puri_cv.out'.
 
  [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2] [3] (./bishwa_prakash_puri_detailed_cv.aux)
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [2] [3] [4] (./bishwa_prakash_puri_cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `bishwa_prakash_puri_detailed_cv.out' has not changed.
+Package rerunfilecheck Info: File `bishwa_prakash_puri_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8970 strings out of 474115
- 141471 string characters out of 5747696
- 1943190 words of memory out of 5000000
+ 8971 strings out of 474115
+ 141345 string characters out of 5747696
+ 1944190 words of memory out of 5000000
  31262 multiletter control sequences out of 15000+600000
  560197 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,825b,545s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,583b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on bishwa_prakash_puri_detailed_cv.pdf (3 pages, 98425 bytes).
+Output written on bishwa_prakash_puri_cv.pdf (4 pages, 100937 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 65 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
